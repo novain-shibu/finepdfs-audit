@@ -9,5 +9,5 @@ license: CC-BY-4.0
 doi: 10.5281/zenodo.23432200
 repository-code: https://github.com/novain-shibu/finepdfs-audit
 date-released: 2026-10-17
-version: "1.0.3"
+version: "1.0.4"
 keywords: [FinePDFs, OCR hallucination, data quality, pretraining data, Indic scripts, Malayalam, Tamil, Telugu, Kannada, PDF text extraction, HarfBuzz, OpenType]

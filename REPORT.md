@@ -20,6 +20,7 @@ We measured the quality of FinePDFs text in 16 complex-script configs and traced
    language ID scores the fabricated documents at 0.99-1.00, and the text passes orthographic and vocabulary checks.
    It matches a known model weakness: GlotOCR Bench (Kargaran et al., arXiv 2604.12978, April 2026) reports RolmOCR at
    0-3% Acc@5 on Tamil, Telugu, Kannada and Malayalam with the script itself correct.
+   **Scale:** if the sampled rates hold, this is roughly **4.5 billion tokens** (95% CI 2.9-4.9 B) in about **160,000 documents** across these four configs; about 5 B tokens went through rolmOCR there, most of it Tamil (4.15 B).
 
 ## 1. Text-layer path: impossible words (random cluster sample, 3,149 docs, 16 configs)
 Sample: per config 8 random offsets x 25 rows of `train` via the datasets-server rows API (seed 20261016).
@@ -107,6 +108,11 @@ Alignment check: the NUMBERS in the stored text do match what Tesseract reads on
 correctly while the words around them disagree, consistent with GlotOCR Bench's finding that it cannot read these scripts.
 Existing signals do not catch it: in every row we fetched for these configs (275 rows, 6 configs) `ocr_quality_scores` is
 null, and `full_doc_lid_score` for the fabricated examples above is 0.99-1.00.
+
+**Scale estimate** (config sizes x sampled rolmOCR share x sampled flagged rate; token shares from the `token_count` of the
+200 sampled rows per config; Tamil total from the dataset card): Tamil ~3.6 B tokens (CI 2.2-4.1 B), Telugu ~0.33 B,
+Kannada ~0.27 B, Malayalam ~0.24 B; total ~4.5 B tokens (CI 2.9-4.9 B), ~160k documents (CI ~117-166k). Assumes the
+sampled per-document rates apply to tokens; Telugu/Kannada rates are partly confounded (above).
 
 Our own run of RolmOCR (Kaggle 2xT4, fp16, model-card prompt) on synthetic Word PDFs with known text gave exact-word
 recall Hindi 94.8%, Bengali 94.1%, Gujarati 53.2%, Tamil 40.4%, Telugu 17.8%, Kannada 8.8%, Malayalam 7.0% (one Malayalam
