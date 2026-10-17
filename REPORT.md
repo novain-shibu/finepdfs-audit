@@ -118,6 +118,8 @@ The broken text layer still contains the exact glyph IDs. Searching for the Unic
 those glyph IDs (and keeping a word only if re-shaping matches exactly) recovers the text:
 - Held-out Word 365 PDFs, 10 scripts, 27 docs, 10,594 words: 99.1% exact words, vs free Tesseract 86.2% (non-italic;
   29.6% on Word's slanted italics) and PyMuPDF 22-77%. 14 ms/page on one laptop CPU core.
+- Same held-out PDFs, the 7 documents RolmOCR finished in our run (hi, bn, ta, ml, te, kn, gu; 2,688 words): RolmOCR
+  61.2%, free Tesseract 91.2%, inverse shaping 99.3% exact words (scoring that favours the OCR systems: ZWNJ/ZWJ ignored).
 - Real broken FinePDFs originals, using only the font embedded in each PDF: 311 decoded; 81.4% of stretches verified by
   exact re-shaping; impossible-word rate 17.9% -> 1.8%. Pooling the partial cmaps of PDFs that share a font build
   is mixed in its current form: it helps some builds (Vrinda 67% -> 93%, Mangal 5.91 74% -> 83% verified) and hurts
@@ -125,8 +127,11 @@ those glyph IDs (and keeping a word only if re-shaping matches exactly) recovers
   correct ones.
 - Limits: verified means renders identically (some spellings render identically and are flagged); no ground truth on real
   files; ~40% of broken originals do not embed shaping tables.
-The recovery decoder is not part of this repository; a separate release is planned (available on request). It
-builds on our earlier Malayalam-only prototype Unshape v0.1 (github.com/novain-shibu/unshape, DOI 10.5281/zenodo.23418945).
+The recovery decoder is not part of this repository; a separate release is planned. It is available on request:
+open an issue on github.com/novain-shibu/finepdfs-audit or message the author on LinkedIn (linkedin.com/in/novain-shibu).
+The exact decoder versions behind these numbers were frozen before each held-out test and their SHA-256 fingerprints are
+published in `results/*.FROZEN.sha256`, so the released code can be checked against them. The decoder builds on our
+earlier Malayalam-only prototype Unshape v0.1 (github.com/novain-shibu/unshape, DOI 10.5281/zenodo.23418945).
 
 ## Suggested fixes (low cost)
 1. Do not route damaged Tamil/Malayalam/Telugu/Kannada text-layer documents to rolmOCR as is; per section 3 that trades
