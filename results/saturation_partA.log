@@ -1,0 +1,59 @@
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+555 PDFs, 329 with GSUB subsets, 171 complex-script builds
+  build ('Vrinda,Bold', 816, 5.9) docs 43
+  build ('Vrinda', 816, 5.9) docs 43
+  build ('Mangal', 886, 6.9) docs 28
+  build ('Arial Unicode MS', 50377, 1.0) docs 26
+  build ('Mangal', 885, 5.91) docs 19
+  build ('Nirmala UI', 4923, 1.4) docs 18
+  build ('Nirmala UI,Bold', 4923, 1.4) docs 14
+  build ('Shruti,Bold', 1491, 5.9) docs 14
+  build ('Raavi', 459, 5.9) docs 13
+  build ('Kalinga', 633, 5.9) docs 13
+  build ('Shruti', 1491, 5.9) docs 13
+  build ('Nirmala UI', 4658, 1.37) docs 12
+decode error urn_uuid_330898c7-1e97-4f7d-9e54-487832a1cf5f.pdf ValueError('max() iterable argument is empty')
+'created' timestamp seems very low; regarding as unix timestamp
+decode error urn_uuid_4a81ecb8-203f-43b6-aacb-3f11b5af591b.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_6857beee-b58d-4f4e-ac03-e69938accb14.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_75b41fe6-8811-469e-8d97-4165143507b9.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_813fedd8-52ff-4560-81d4-92754a131814.pdf ValueError('max() iterable argument is empty')
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+decode error urn_uuid_a4df11c2-9035-4c85-a6ec-2f8792b7c17e.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_ad53a57d-65c0-486f-ab7d-17605b2375d5.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_b3506c1e-5ee0-4c22-b398-206b7e391a02.pdf ValueError('max() iterable argument is empty')
+'created' timestamp seems very low; regarding as unix timestamp
+decode error urn_uuid_b420c21f-00e6-4709-88fa-8b4022d740f2.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_bd2089b3-50ac-48a6-924e-29e36ac968c7.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_d644c528-3352-4ac4-a818-371c4886c441.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_d71bacb9-d8c2-45d8-b83f-9838457907d3.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_df8d09c1-e695-4ffe-ab74-12148a535226.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_fc6e8592-a5fc-4de7-99b2-5f9f6737672f.pdf ValueError('max() iterable argument is empty')
+decode error urn_uuid_fe2ef530-9c6b-4bfb-a4f4-daa27c18d895.pdf ValueError('max() iterable argument is empty')
+A) full pool: 311 docs decoded; render-verified 81.4%; invalid words PDF text 17.9% -> ours 1.8% (576s)
+Traceback (most recent call last):
+  File "<workdir>\invent7\saturation.py", line 129, in <module>
+    main()
+  File "<workdir>\invent7\saturation.py", line 117, in main
+    r = decode_doc(t, pool)
+        ^^^^^^^^^^^^^^^^^^^
+  File "<workdir>\invent7\saturation.py", line 59, in decode_doc
+    dec[E.SCRIPT[fc.block][1]].append(E.decode(r, fc, st))
+                                      ^^^^^^^^^^^^^^^^^^^
+  File "<workdir>\invent7\unshape_emb.py", line 172, in decode
+    table, maxlen = U.inventory(lang, fc)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "<workdir>\invent7\unshape_multi4.py", line 195, in inventory
+    fc.tables[lang] = (table, max(map(len, table)))
+                              ^^^^^^^^^^^^^^^^^^^^
+ValueError: max() iterable argument is empty

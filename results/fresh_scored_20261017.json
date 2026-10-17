@@ -1,0 +1,210 @@
+{
+ "per_script": {
+  "hi": {
+   "words": 607,
+   "pymupdf": 67.2,
+   "unshape": 99.3,
+   "ci": [
+    98.7,
+    99.8
+   ],
+   "render_verified": 98.7,
+   "render_ambiguous": 0.0,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "bn": {
+   "words": 1467,
+   "pymupdf": 22.7,
+   "unshape": 95.6,
+   "ci": [
+    94.5,
+    96.7
+   ],
+   "render_verified": 91.7,
+   "render_ambiguous": 15.3,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+ArialMT",
+    "a:BCDGEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "b:BCDGEE+Arial-BoldMT",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "ta": {
+   "words": 1023,
+   "pymupdf": 41.0,
+   "unshape": 100.0,
+   "ci": [
+    100.0,
+    100.0
+   ],
+   "render_verified": 100.0,
+   "render_ambiguous": 0.0,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "ml": {
+   "words": 1190,
+   "pymupdf": 34.0,
+   "unshape": 99.2,
+   "ci": [
+    98.6,
+    99.7
+   ],
+   "render_verified": 99.4,
+   "render_ambiguous": 12.0,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "te": {
+   "words": 1421,
+   "pymupdf": 42.2,
+   "unshape": 96.8,
+   "ci": [
+    95.8,
+    97.6
+   ],
+   "render_verified": 97.0,
+   "render_ambiguous": 0.0,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "kn": {
+   "words": 978,
+   "pymupdf": 22.2,
+   "unshape": 93.8,
+   "ci": [
+    92.2,
+    95.3
+   ],
+   "render_verified": 97.7,
+   "render_ambiguous": 0.0,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+MS-Gothic",
+    "a:BCDGEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "gu": {
+   "words": 1280,
+   "pymupdf": 77.0,
+   "unshape": 99.4,
+   "ci": [
+    98.9,
+    99.8
+   ],
+   "render_verified": 99.4,
+   "render_ambiguous": 0.0,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "pa": {
+   "words": 1632,
+   "pymupdf": 62.9,
+   "unshape": 99.8,
+   "ci": [
+    99.5,
+    99.9
+   ],
+   "render_verified": 99.7,
+   "render_ambiguous": 0.0,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "or": {
+   "words": 1477,
+   "pymupdf": 36.4,
+   "unshape": 95.7,
+   "ci": [
+    94.5,
+    96.7
+   ],
+   "render_verified": 98.5,
+   "render_ambiguous": 8.7,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+NirmalaUI",
+    "a:BCDGEE+MS-Gothic",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  },
+  "si": {
+   "words": 1351,
+   "pymupdf": 47.7,
+   "unshape": 92.5,
+   "ci": [
+    91.0,
+    93.9
+   ],
+   "render_verified": 92.1,
+   "render_ambiguous": 0.0,
+   "pass90": true,
+   "fonts": [
+    "a:BCDEEE+NirmalaUI",
+    "a:BCDFEE+NirmalaUI",
+    "b:BCDEEE+NirmalaUI-Bold",
+    "b:BCDFEE+NirmalaUI-Bold",
+    "c:BCDEEE+NirmalaUI",
+    "c:BCDFEE+NirmalaUI"
+   ]
+  }
+ },
+ "n_pass": 10,
+ "verdict": "PASS"
+}

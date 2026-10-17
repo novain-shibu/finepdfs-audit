@@ -1,0 +1,806 @@
+[
+ {
+  "id": "11451f02-97ad-49f4-ac48-27ce5544e998",
+  "cfg": "kan_Knda",
+  "pages": 43,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "39d369a8-fdd5-4acf-a9ff-ab635f0191d3",
+  "cfg": "ben_Beng",
+  "pages": 2,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "93772fbc-00e6-4462-bc07-90165f279bea",
+  "cfg": "mal_Mlym",
+  "pages": 6,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "976542b1-7842-49e6-9d3d-9db490d1af3c",
+  "cfg": "mal_Mlym",
+  "pages": 11,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "c3c44be4-4d79-402e-b562-4b10b9ec30ec",
+  "cfg": "kan_Knda",
+  "pages": 8,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "d6b08a5e-a791-4c7d-8fa5-cf442c78a756",
+  "cfg": "hin_Deva",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "d781887b-aaef-4bb8-a2f4-438d26c1529f",
+  "cfg": "hin_Deva",
+  "pages": 49,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "f4b2565c-4529-4378-bd23-faec4deb5a6c",
+  "cfg": "mal_Mlym",
+  "pages": 76,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "f7e705ae-39eb-45c2-a8da-a61f7ea29830",
+  "cfg": "tam_Taml",
+  "pages": 124,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "f87affe1-b476-41f3-9086-990fb744dc49",
+  "cfg": "kan_Knda",
+  "pages": 8,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_01958bc0-4a42-4af0-8e24-2ed38fb0a20d",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_04b30437-7e57-4603-870a-f2433993c43e",
+  "cfg": "mal_Mlym",
+  "pages": 14,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_083b4dda-f59e-4294-ba0b-dcfa4023decf",
+  "cfg": "mal_Mlym",
+  "pages": 4,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_0eac4c2f-0765-4eed-9a37-172191550617",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_0f5037e6-7032-41b6-be11-8408ce53f3b3",
+  "cfg": "mal_Mlym",
+  "pages": 12,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_107b2183-12cd-45ad-ade5-38f5785945aa",
+  "cfg": "ben_Beng",
+  "pages": 4,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_113e2177-4d37-4724-a082-edf50f1b42a5",
+  "cfg": "tam_Taml",
+  "pages": 7,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_11e287b4-869b-4557-ac5b-4d69682d15c7",
+  "cfg": "hin_Deva",
+  "pages": 32,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_12be1d6a-5c2d-4b10-b447-d80d8f019d2b",
+  "cfg": "mal_Mlym",
+  "pages": 2,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_1807029a-b950-48e3-b120-0140fa19b399",
+  "cfg": "hin_Deva",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_18c00a39-dcbd-4f40-8ed7-e341ceea2ff2",
+  "cfg": "hin_Deva",
+  "pages": 17,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_191e7907-1eef-46c4-b0c5-0e4ee677ce39",
+  "cfg": "kan_Knda",
+  "pages": 30,
+  "text_layer": true,
+  "fonts": [
+   "Tunga",
+   "Tunga,Bold"
+  ],
+  "rv": 0.4037,
+  "our_words": 4515,
+  "their_words": 185,
+  "coverage": 0.1135
+ },
+ {
+  "id": "urn_uuid_19e922b7-cc36-4004-82f6-c363c7523de0",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_1ffa80f4-140a-42a7-8928-0033414d85bd",
+  "cfg": "mal_Mlym",
+  "pages": 18,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_20af3534-8014-4d51-9b88-b455bb7ed041",
+  "cfg": "tel_Telu",
+  "pages": 19,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_24443936-5864-4340-8704-3ead0cbbdd93",
+  "cfg": "hin_Deva",
+  "pages": 2,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_249c0907-9d31-42c1-8132-7f330e3f0678",
+  "cfg": "kan_Knda",
+  "pages": 7,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_25537c68-8d5b-47fb-8062-e84e13d98881",
+  "cfg": "tel_Telu",
+  "pages": 32,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_2667e232-fa6d-4ed8-9ffa-6cc8ce6cba82",
+  "cfg": "tam_Taml",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_2b3e7e90-7bce-4bdd-86d1-08eb05a14a1b",
+  "cfg": "tam_Taml",
+  "pages": 4,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_3337258e-7d36-4d7c-b6e4-6e663df5e14b",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_388e41a4-6e27-49ef-9d8e-eded8932a362",
+  "cfg": "tel_Telu",
+  "pages": 4,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_3ad18c29-17a6-4f74-8f89-ab41360483d1",
+  "cfg": "hin_Deva",
+  "pages": 3,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_3c3cc1e9-5efb-4b3f-8ea6-79ad62ce6ce7",
+  "cfg": "hin_Deva",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_3e0a287b-d46b-48f8-b3a4-6b8ef2a1e476",
+  "cfg": "tel_Telu",
+  "pages": 3,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_40590782-bb3d-4ccd-ae66-79d282c70f6a",
+  "cfg": "tam_Taml",
+  "pages": 5,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_405e8f52-85c1-43d7-bbc1-911601d6f13b",
+  "cfg": "ben_Beng",
+  "pages": 3,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_408596b9-d279-42ae-9246-adcba1a5aea3",
+  "cfg": "hin_Deva",
+  "pages": 6,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_410f7173-6764-4243-971c-7d1c6ccc60df",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_4671787e-16c1-45e4-82e5-d12c61f131a9",
+  "cfg": "tel_Telu",
+  "pages": 23,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_4687f3fa-14ff-4f97-8173-c1a889708549",
+  "cfg": "tel_Telu",
+  "pages": 6,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_4887701f-8db3-49e5-aa01-d697d3c2114f",
+  "cfg": "kan_Knda",
+  "pages": 6,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_4b3a6053-963c-48ab-a2e9-8f4de9297d31",
+  "cfg": "kan_Knda",
+  "pages": 4,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_4c4be409-0d6e-4c25-915d-9f2edd0039cb",
+  "cfg": "tam_Taml",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_4ca88c29-da25-41e4-84e0-690afe29cf6d",
+  "cfg": "kan_Knda",
+  "pages": 14,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_4f147958-1363-4d80-89ba-ec0243f611bd",
+  "cfg": "hin_Deva",
+  "pages": 6,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_5570ac00-c2b0-4871-b240-1d0158862575",
+  "cfg": "tam_Taml",
+  "pages": 2,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_58559db6-e86f-40e9-bd48-49acf6ac15e2",
+  "cfg": "mal_Mlym",
+  "pages": 21,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_58ffbb16-de2d-475b-aced-85ac7090b09e",
+  "cfg": "tel_Telu",
+  "pages": 5,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_5f4f4ea4-9134-42f9-8c0c-547fbd78c230",
+  "cfg": "hin_Deva",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_5f84d303-1a67-4756-85a3-d4d5b43c9562",
+  "cfg": "tam_Taml",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_5fc382c1-b43d-40ed-965c-22df2415bb23",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_60a31683-462d-42fa-ab2a-aa650126a8d0",
+  "cfg": "kan_Knda",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_60f21f81-0fa9-4d2f-8a06-cc46f5b94aed",
+  "cfg": "tel_Telu",
+  "pages": 3,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_61e2ac7a-a788-4e57-b1f9-57697735f01a",
+  "cfg": "tel_Telu",
+  "pages": 21,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_634a2dda-3e22-4362-af61-c86060326f33",
+  "cfg": "kan_Knda",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_64972062-f7d7-46a7-aa4f-891d5f4871a4",
+  "cfg": "tel_Telu",
+  "pages": 10,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_66e8a883-d030-47ee-a5de-804ce23a36cd",
+  "cfg": "tel_Telu",
+  "pages": 9,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_6937c26f-da0e-46d1-824b-0c5290e4f5b8",
+  "cfg": "kan_Knda",
+  "pages": 3,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_6b715359-28b2-413f-95c6-af1242c521a4",
+  "cfg": "mal_Mlym",
+  "pages": 3,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_70852db0-41bd-414d-8d9a-75c7412f03dc",
+  "cfg": "kan_Knda",
+  "pages": 3,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_713fa695-f48a-48e6-afb7-9867ee7720b3",
+  "cfg": "tel_Telu",
+  "pages": 100,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_71693d46-90e6-49fe-8fbb-a3ee1d0b556b",
+  "cfg": "mal_Mlym",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_72257a4a-a54d-435a-b008-3b0f98f63c6a",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_75813799-630b-40f9-9111-fb07d85ec3a9",
+  "cfg": "mal_Mlym",
+  "pages": 32,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_75957555-d16e-4bc5-afbb-d55f6e40cc73",
+  "cfg": "ben_Beng",
+  "pages": 2,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_76b8f770-58bc-4c5c-9cbf-74e7632ce79a",
+  "cfg": "mal_Mlym",
+  "pages": 11,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_7a964c6a-d10d-4e64-ae8f-e7d8cc076988",
+  "cfg": "ben_Beng",
+  "pages": 8,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_7c51632b-d46e-4264-9f56-ae092d72842a",
+  "cfg": "mal_Mlym",
+  "pages": 3,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_7ffa4ed7-db35-4ba8-839d-4ae5d39f1103",
+  "cfg": "tel_Telu",
+  "pages": 12,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_807a4db2-c2ee-4cd8-b108-a96eb155bbf1",
+  "cfg": "ben_Beng",
+  "pages": 6,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_80864b90-f280-4ed8-978f-0442aa4c9212",
+  "cfg": "ben_Beng",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_819a77ba-e0cd-4443-a38e-a9bd94885006",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_8291e9a1-d0fb-4e7d-ab92-ca11b8c23621",
+  "cfg": "mal_Mlym",
+  "pages": 7,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_84a8bf03-b42e-41b3-965a-eaf025e954c5",
+  "cfg": "mal_Mlym",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_86dbb01d-6129-446c-9c59-74163097fbb6",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_8852d775-cbee-4d56-8ec0-0c383b058b77",
+  "cfg": "hin_Deva",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_9135ea3f-e233-4135-9790-a0966aef0212",
+  "cfg": "hin_Deva",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_91d0849d-d40f-4c21-9d66-2965cb949c38",
+  "cfg": "hin_Deva",
+  "pages": 24,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_9788a148-6802-4adc-ae10-69ef69224f2b",
+  "cfg": "tel_Telu",
+  "pages": 11,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_97eac12d-8863-4165-90b7-29c50bbc0835",
+  "cfg": "kan_Knda",
+  "pages": 28,
+  "text_layer": true,
+  "fonts": [
+   "Tunga",
+   "Tunga,Bold"
+  ],
+  "rv": 0.3982,
+  "our_words": 4484,
+  "their_words": 425,
+  "coverage": 0.0494
+ },
+ {
+  "id": "urn_uuid_99e699b1-52b1-4cb4-b8de-a23a0eb148aa",
+  "cfg": "hin_Deva",
+  "pages": 6,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_9c9c560d-6f8e-4bdb-bab7-d1a0d79ee2de",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_a61b0307-2667-4a85-a2ac-25640f55f53b",
+  "cfg": "kan_Knda",
+  "pages": 11,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_a8836829-ab4c-440f-b3a4-76237863dbe8",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_a98e9d5d-757f-4322-888f-ff97e61ea24d",
+  "cfg": "tam_Taml",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_abb179ff-9802-493a-aaa0-4a1de8673ca1",
+  "cfg": "tel_Telu",
+  "pages": 20,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_ad19d017-fb09-4500-8903-661a8b3987d9",
+  "cfg": "hin_Deva",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_b148a826-d87e-46aa-ad98-7f6b696fc63a",
+  "cfg": "hin_Deva",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_b6c355b6-78c0-4bb0-a8f7-a3ddfa11c95f",
+  "cfg": "hin_Deva",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_b6f630ef-5716-4b57-ac64-c3e24289b651",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_be7e43b5-8c11-4c52-b5c2-956b208a9792",
+  "cfg": "mal_Mlym",
+  "pages": 5,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_bf5cca29-1526-4b6f-8b76-cf124ac1a515",
+  "cfg": "ben_Beng",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_c67528b6-7c6e-4777-bb5b-efe38bf3c085",
+  "cfg": "hin_Deva",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_c7779f91-e7aa-448b-b282-ccb52daa921f",
+  "cfg": "ben_Beng",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_c87aaf58-8809-44e4-8683-150bc7ba6dae",
+  "cfg": "kan_Knda",
+  "pages": 1,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_ce879c07-2288-468e-88ab-d7b5c3e31d7f",
+  "cfg": "mal_Mlym",
+  "pages": 8,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_d647e493-1166-468f-a824-451c633f0fb8",
+  "cfg": "mal_Mlym",
+  "pages": 16,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_d730c4f2-1502-432c-b831-4767153a4901",
+  "cfg": "mal_Mlym",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_ddcb8380-4477-4812-b692-280379b7894a",
+  "cfg": "tel_Telu",
+  "pages": 29,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_e556cc6b-8c1e-454c-b222-6ae3f3749321",
+  "cfg": "ben_Beng",
+  "pages": 2,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_e897c86a-a205-4670-8ebe-09ee1ae7220f",
+  "cfg": "hin_Deva",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_eaf74625-aeb8-4fa8-ab18-87e172cef094",
+  "cfg": "mal_Mlym",
+  "pages": 40,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_ec128fc8-0c7c-4cb7-8b7c-94b24c21f88e",
+  "cfg": "ben_Beng",
+  "pages": 2,
+  "text_layer": false,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_efe66a80-5ce9-4ee2-9268-4a3077b137f7",
+  "cfg": "kan_Knda",
+  "pages": 22,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_f24ab360-014a-4002-bbeb-6aaac0c07c51",
+  "cfg": "tel_Telu",
+  "pages": 28,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_f37d04f1-ab81-452f-a277-ab599edd82d5",
+  "cfg": "kan_Knda",
+  "pages": 14,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_fadb7d8d-c417-4c52-b14d-92566bde0bbc",
+  "cfg": "kan_Knda",
+  "pages": 29,
+  "text_layer": true,
+  "fonts": [
+   "Tunga",
+   "Tunga,Bold"
+  ],
+  "rv": 0.4104,
+  "our_words": 4771,
+  "their_words": 409,
+  "coverage": 0.1687
+ },
+ {
+  "id": "urn_uuid_fe371779-b5bb-47f7-8cc3-28e0f97db988",
+  "cfg": "ben_Beng",
+  "pages": 2,
+  "text_layer": true,
+  "fonts": []
+ },
+ {
+  "id": "urn_uuid_ff9fb333-3ec9-4561-a3f6-4826b6866a4e",
+  "cfg": "tel_Telu",
+  "pages": 2,
+  "text_layer": true,
+  "fonts": [
+   "F2"
+  ],
+  "rv": 0.092,
+  "our_words": 117,
+  "their_words": 132,
+  "coverage": 0.0152
+ },
+ {
+  "id": "urn_uuid_ffcb90bb-881a-425f-a7b5-ecc5e515ea76",
+  "cfg": "hin_Deva",
+  "pages": 1,
+  "text_layer": true,
+  "fonts": []
+ }
+]

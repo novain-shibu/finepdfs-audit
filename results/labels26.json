@@ -1,0 +1,71 @@
+{
+ "written_before_agreement_scores": "2026-10-17, Claude reading rendered scans vs FinePDFs text",
+ "labels": [
+  {
+   "id_part": "04b30437-7e57-4603",
+   "cfg": "mal_Mlym",
+   "label": "fabricated",
+   "note": "MoIA pension scheme -> farmers of Kerala, motorist office"
+  },
+  {
+   "id_part": "083b4dda-f59e-4294",
+   "cfg": "mal_Mlym",
+   "label": "fabricated",
+   "note": "Kerala AR-13 circular on letter headers -> violence, women farmers"
+  },
+  {
+   "id_part": "60f21f81-0fa9-4d2f",
+   "cfg": "tel_Telu",
+   "label": "fabricated",
+   "note": "AP rural development circular -> looping invented phrases"
+  },
+  {
+   "id_part": "c3c44be4-4d79-402e",
+   "cfg": "kan_Knda",
+   "label": "fabricated",
+   "note": "Yoga Day, Prof C.T. Guruprasad -> invented 'Shahrukh A. Samel'"
+  },
+  {
+   "id_part": "f87affe1-b476-41f3",
+   "cfg": "kan_Knda",
+   "label": "fabricated",
+   "note": "Legion of Mary prayer -> 'Kamu Kamu made music' loops"
+  },
+  {
+   "id_part": "2667e232-fa6d-4ed8",
+   "cfg": "tam_Taml",
+   "label": "unfaithful",
+   "note": "cataract/eye press note -> 'education', district mangled"
+  },
+  {
+   "id_part": "40590782-bb3d-4ccd",
+   "cfg": "tam_Taml",
+   "label": "unfaithful",
+   "note": "BC scholarship form: layout kept, key words replaced"
+  },
+  {
+   "id_part": "d6b08a5e-a791-4c7d",
+   "cfg": "hin_Deva",
+   "label": "faithful",
+   "note": "revenue court order, minor slips"
+  },
+  {
+   "id_part": "1807029a-b950-48e3",
+   "cfg": "hin_Deva",
+   "label": "faithful",
+   "note": "Rajasthan NREGA circular, 1 letter slip"
+  },
+  {
+   "id_part": "0eac4c2f-0765-4eed",
+   "cfg": "ben_Beng",
+   "label": "mostly_faithful",
+   "note": "passport NOC form, some word swaps"
+  },
+  {
+   "id_part": "3337258e-7d36-4d7c",
+   "cfg": "ben_Beng",
+   "label": "mostly_faithful",
+   "note": "LGD order, 2 header words swapped"
+  }
+ ]
+}

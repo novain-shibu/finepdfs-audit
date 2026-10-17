@@ -1,0 +1,29 @@
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+555 PDFs, 329 with GSUB subsets, 171 complex-script builds
+  build ('Vrinda,Bold', 816, 5.9) docs 43
+  build ('Vrinda', 816, 5.9) docs 43
+  build ('Mangal', 886, 6.9) docs 28
+  build ('Arial Unicode MS', 50377, 1.0) docs 26
+  build ('Mangal', 885, 5.91) docs 19
+  build ('Nirmala UI', 4923, 1.4) docs 18
+  build ('Nirmala UI,Bold', 4923, 1.4) docs 14
+  build ('Shruti,Bold', 1491, 5.9) docs 14
+  build ('Raavi', 459, 5.9) docs 13
+  build ('Kalinga', 633, 5.9) docs 13
+  build ('Shruti', 1491, 5.9) docs 13
+  build ('Nirmala UI', 4658, 1.37) docs 12
+A) full pool: 0 docs decoded; render-verified 0.0%; invalid words PDF text 0.0% -> ours 0.0% (23s)
+B) ('Vrinda,Bold', 816, 5.9) docs 43 {'0': 0.6418, '1': 0.6442, '2': 0.643, '4': 0.6464, '8': 0.6472, '16': 0.6482, 'all': 0.6491} (595s)
+B) ('Vrinda', 816, 5.9) docs 43 {'0': 0.6741, '1': 0.7126, '2': 0.7711, '4': 0.7834, '8': 0.8655, '16': 0.893, 'all': 0.9327} (1086s)
+B) ('Mangal', 886, 6.9) docs 28 {'0': 0.9103, '1': 0.8652, '2': 0.8708, '4': 0.8687, '8': 0.8609, '16': 0.8554, 'all': 0.8554} (2016s)
+B) ('Arial Unicode MS', 50377, 1.0) docs 26 {'0': 0.8029, '1': 0.7019, '2': 0.5983, '4': 0.5033, '8': 0.4334, '16': 0.3799, 'all': 0.3799} (2985s)
+B) ('Mangal', 885, 5.91) docs 19 {'0': 0.7382, '1': 0.7938, '2': 0.7574, '4': 0.781, '8': 0.7985, '16': 0.8174, 'all': 0.8251} (4473s)

@@ -1,0 +1,242 @@
+[
+ {
+  "config": "hin_Deva",
+  "docs": 200,
+  "docling_share": 0.1,
+  "docling_invalid": 0.11755670009939459,
+  "ci": [
+   0.07464028776978417,
+   0.13102900978749668
+  ],
+  "bad_docs": 15,
+  "docs50": 18,
+  "ocr_invalid": 4.377612887692341e-05,
+  "wiki_invalid": 0.0002871088142405972,
+  "est_bad_docs": 63792.75
+ },
+ {
+  "config": "mar_Deva",
+  "docs": 175,
+  "docling_share": 0.14285714285714285,
+  "docling_invalid": 0.15925493366873297,
+  "ci": [
+   0.0729313244328517,
+   0.2467930842163971
+  ],
+  "bad_docs": 16,
+  "docs50": 23,
+  "ocr_invalid": 0.00011594490960437941,
+  "wiki_invalid": 0.0014552150154430981,
+  "est_bad_docs": 16964.022857142856
+ },
+ {
+  "config": "npi_Deva",
+  "docs": 200,
+  "docling_share": 0.18,
+  "docling_invalid": 0.1771378324906573,
+  "ci": [
+   0.12194354548723481,
+   0.23652900914143965
+  ],
+  "bad_docs": 29,
+  "docs50": 36,
+  "ocr_invalid": 8.566238879186312e-05,
+  "wiki_invalid": 0.0007246522675577206,
+  "est_bad_docs": 26345.195
+ },
+ {
+  "config": "ben_Beng",
+  "docs": 200,
+  "docling_share": 0.08,
+  "docling_invalid": 0.21334681496461072,
+  "ci": [
+   0.15948275862068967,
+   0.2836027713625866
+  ],
+  "bad_docs": 10,
+  "docs50": 16,
+  "ocr_invalid": 0.0007668455973060381,
+  "wiki_invalid": 0.005486152422499835,
+  "est_bad_docs": 26992.850000000002
+ },
+ {
+  "config": "asm_Beng",
+  "docs": 200,
+  "docling_share": 0.98,
+  "docling_invalid": 0.17782040522719098,
+  "ci": [
+   0.1399000586844024,
+   0.2256853587073192
+  ],
+  "bad_docs": 145,
+  "docs50": 189,
+  "ocr_invalid": 0.0,
+  "wiki_invalid": 0.0002974964529269074,
+  "est_bad_docs": 1124.475
+ },
+ {
+  "config": "tam_Taml",
+  "docs": 200,
+  "docling_share": 0.26,
+  "docling_invalid": 0.14845769734745193,
+  "ci": [
+   0.07564613692603794,
+   0.18087198390919762
+  ],
+  "bad_docs": 32,
+  "docs50": 50,
+  "ocr_invalid": 0.0007140089666242321,
+  "wiki_invalid": 0.0001095290251916758,
+  "est_bad_docs": 16092.16
+ },
+ {
+  "config": "mal_Mlym",
+  "docs": 200,
+  "docling_share": 0.25,
+  "docling_invalid": 0.0817021112948506,
+  "ci": [
+   0.030387776678830872,
+   0.1585680751173709
+  ],
+  "bad_docs": 30,
+  "docs50": 46,
+  "ocr_invalid": 0.00018149918325367537,
+  "wiki_invalid": 0.00014535587964533165,
+  "est_bad_docs": 8115.599999999999
+ },
+ {
+  "config": "tel_Telu",
+  "docs": 200,
+  "docling_share": 0.155,
+  "docling_invalid": 0.13220763251504106,
+  "ci": [
+   0.09203587686483075,
+   0.17327617006073598
+  ],
+  "bad_docs": 22,
+  "docs50": 31,
+  "ocr_invalid": 0.0001718213058419244,
+  "wiki_invalid": 1.6721848767599747e-05,
+  "est_bad_docs": 3455.21
+ },
+ {
+  "config": "kan_Knda",
+  "docs": 200,
+  "docling_share": 0.225,
+  "docling_invalid": 0.1070120004033749,
+  "ci": [
+   0.07074282971318853,
+   0.13516986174641518
+  ],
+  "bad_docs": 23,
+  "docs50": 43,
+  "ocr_invalid": 1.2431626056688214e-05,
+  "wiki_invalid": 4.518344478583047e-05,
+  "est_bad_docs": 4071.8050000000003
+ },
+ {
+  "config": "guj_Gujr",
+  "docs": 200,
+  "docling_share": 0.4,
+  "docling_invalid": 0.18302373446577913,
+  "ci": [
+   0.13826689958181143,
+   0.20269296862126598
+  ],
+  "bad_docs": 71,
+  "docs50": 78,
+  "ocr_invalid": 0.001695927593919075,
+  "wiki_invalid": 0.0002835672763363108,
+  "est_bad_docs": 29840.234999999997
+ },
+ {
+  "config": "pan_Guru",
+  "docs": 200,
+  "docling_share": 0.66,
+  "docling_invalid": 0.12143009377664109,
+  "ci": [
+   0.09028689903715685,
+   0.15039192470897322
+  ],
+  "bad_docs": 84,
+  "docs50": 127,
+  "ocr_invalid": 0.0020571162299083106,
+  "wiki_invalid": 0.00029276147259020715,
+  "est_bad_docs": 6185.34
+ },
+ {
+  "config": "ory_Orya",
+  "docs": 174,
+  "docling_share": 0.603448275862069,
+  "docling_invalid": 0.18772751708778126,
+  "ci": [
+   0.14158807679353316,
+   0.2272442281763756
+  ],
+  "bad_docs": 79,
+  "docs50": 102,
+  "ocr_invalid": 0.0002620459235481018,
+  "wiki_invalid": 0.0,
+  "est_bad_docs": 2608.362068965517
+ },
+ {
+  "config": "tha_Thai",
+  "docs": 200,
+  "docling_share": 0.155,
+  "docling_invalid": 0.028341266935188576,
+  "ci": [
+   0.01771450657047153,
+   0.05023002534973242
+  ],
+  "bad_docs": 6,
+  "docs50": 24,
+  "ocr_invalid": 0.00035523726296793627,
+  "wiki_invalid": 3.7266154878139676e-05,
+  "est_bad_docs": 75480.39
+ },
+ {
+  "config": "khm_Khmr",
+  "docs": 200,
+  "docling_share": 0.465,
+  "docling_invalid": 0.13075360014135523,
+  "ci": [
+   0.10978079580652847,
+   0.15435835351089588
+  ],
+  "bad_docs": 71,
+  "docs50": 84,
+  "ocr_invalid": 0.0004982147305488666,
+  "wiki_invalid": 0.0,
+  "est_bad_docs": 8215.41
+ },
+ {
+  "config": "sin_Sinh",
+  "docs": 200,
+  "docling_share": 0.61,
+  "docling_invalid": 0.08654365377270273,
+  "ci": [
+   0.06617523167649536,
+   0.11032311025582366
+  ],
+  "bad_docs": 64,
+  "docs50": 114,
+  "ocr_invalid": 1.0057225613742194e-05,
+  "wiki_invalid": 0.0,
+  "est_bad_docs": 6435.84
+ },
+ {
+  "config": "mya_Mymr",
+  "docs": 200,
+  "docling_share": 0.445,
+  "docling_invalid": 0.28659952125016935,
+  "ci": [
+   0.2105322081811439,
+   0.3406121905775885
+  ],
+  "bad_docs": 75,
+  "docs50": 84,
+  "ocr_invalid": 0.0002660901380342591,
+  "wiki_invalid": 0.00010053282396702523,
+  "est_bad_docs": 10939.125
+ }
+]

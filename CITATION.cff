@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "FinePDFs audit: complex-script text is often corrupted (text-layer path) or fabricated (rolmOCR path for Tamil, Malayalam, Telugu, Kannada)"
+type: dataset
+authors:
+  - family-names: Shibu
+    given-names: Novain
+license: CC-BY-4.0
+repository-code: https://github.com/novain-shibu/finepdfs-audit
+date-released: 2026-10-17
+version: "1.0.0"
+keywords: [FinePDFs, OCR hallucination, data quality, pretraining data, Indic scripts, Malayalam, Tamil, Telugu, Kannada, PDF text extraction, HarfBuzz, OpenType]

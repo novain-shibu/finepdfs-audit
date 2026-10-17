@@ -1,0 +1,78 @@
+{
+ "per_script": {
+  "hi": {
+   "words": 773,
+   "rolm": 94.8,
+   "tess": 97.5,
+   "v4": 99.2
+  },
+  "bn": {
+   "words": 353,
+   "rolm": 94.1,
+   "tess": 90.9,
+   "v4": 98.9
+  },
+  "ta": {
+   "words": 431,
+   "rolm": 40.4,
+   "tess": 86.1,
+   "v4": 100.0
+  },
+  "ml": {
+   "words": 229,
+   "rolm": 7.0,
+   "tess": 71.6,
+   "v4": 100.0
+  },
+  "te": {
+   "words": 157,
+   "rolm": 17.8,
+   "tess": 84.7,
+   "v4": 97.5
+  },
+  "kn": {
+   "words": 80,
+   "rolm": 8.8,
+   "tess": 81.2,
+   "v4": 100.0
+  },
+  "gu": {
+   "words": 665,
+   "rolm": 53.2,
+   "tess": 96.5,
+   "v4": 99.2
+  }
+ },
+ "summary": {
+  "all": {
+   "words": 2688,
+   "rolm": 61.16,
+   "tess": 91.15,
+   "v4": 99.29,
+   "v4_minus_rolm_ci": [
+    36.27,
+    40.07
+   ]
+  },
+  "regular_bold": {
+   "words": 2688,
+   "rolm": 61.16,
+   "tess": 91.15,
+   "v4": 99.29,
+   "v4_minus_rolm_ci": [
+    36.27,
+    39.92
+   ]
+  },
+  "italic": null
+ },
+ "docs": [
+  "fresh2_hi_a.pdf",
+  "fresh2_bn_a.pdf",
+  "fresh2_ta_a.pdf",
+  "fresh2_ml_a.pdf",
+  "fresh2_te_a.pdf",
+  "fresh2_kn_a.pdf",
+  "fresh2_gu_a.pdf"
+ ]
+}
