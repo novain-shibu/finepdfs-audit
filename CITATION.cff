@@ -6,6 +6,7 @@ authors:
   - family-names: Shibu
     given-names: Novain
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23432200
 repository-code: https://github.com/novain-shibu/finepdfs-audit
 date-released: 2026-10-17
 version: "1.0.0"

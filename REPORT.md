@@ -1,5 +1,7 @@
 # FinePDFs: complex-script text is often corrupted (text-layer path) or fabricated (rolmOCR path for Tamil, Malayalam, Telugu, Kannada)
 
+Permanent record: DOI [10.5281/zenodo.23432200](https://doi.org/10.5281/zenodo.23432200) · code and results: https://github.com/novain-shibu/finepdfs-audit
+
 ## Summary
 We measured the quality of FinePDFs text in 16 complex-script configs and traced the causes back to the original PDFs.
 1. **Text-layer (Docling) path:** 3-29% (most 9-21%) of words are orthographically impossible (e.g. a vowel sign with no

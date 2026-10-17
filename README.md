@@ -1,5 +1,7 @@
 # FinePDFs audit: corrupted and fabricated complex-script text
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23432200.svg)](https://doi.org/10.5281/zenodo.23432200)
+
 An audit of the complex-script configs of [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs).
 Full report: **[REPORT.md](REPORT.md)**.
 
