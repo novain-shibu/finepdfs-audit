@@ -138,10 +138,12 @@ builds on our earlier Malayalam-only prototype Unshape v0.1 (github.com/novain-s
 
 ## Limits
 Hand check of section 3 = 11 documents (7 South Indian, 4 controls), done by the AI assistant reading the rendered page
-images. The two Malayalam examples were then checked independently by the author with Google Lens (page) and Google
-Translate (FinePDFs text): page 1 = an MOIA social-security scheme for overseas workers, stored text = "a platform for
-farmers in Kerala ... under the 'Motorist Office'"; page 2 = a Kerala Government circular on the contents of official
-letters, stored text = "exploitation becomes possible ... female farmers suddenly emerged". Native-speaker checks of the
+images. The two Malayalam examples were then checked independently by the author: the author, who reads Malayalam,
+compared both examples directly with the page images and found that the stored text does not match either page;
+both were also checked with Google Lens (page) and Google Translate (FinePDFs text): page 1 = an MOIA
+social-security scheme for overseas workers, stored text = "a platform for farmers in Kerala ... under the 'Motorist
+Office'"; page 2 = a Kerala Government circular on the contents of official letters, stored text = "exploitation becomes
+possible ... female farmers suddenly emerged". Native-speaker checks of the
 other languages are welcome; document IDs are given so anyone can verify.
 Sample = clusters of consecutive rows. Rule-based checks are a lower bound on damage.
 
