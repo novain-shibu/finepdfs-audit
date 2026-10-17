@@ -18,12 +18,15 @@ Full report: **[REPORT.md](REPORT.md)**.
    Consistent with GlotOCR Bench (arXiv 2604.12978).
 4. **Recovery without OCR:** inverting OpenType shaping recovers 99.1% of words on held-out Word PDFs in 10 scripts
    (free Tesseract: 86.2%).
+5. **New in v1.2, "Gilaki" config:** 84% of a fresh random sample of `glk_Arab` (4.98B tokens) is broken Persian/Arabic
+   PDF text labelled Gilaki (CI 76-90%; clean controls 0/104 and 0/40); about 4.5B tokens if the rate holds.
 
 ## What is in this repository
 - `REPORT.md` - the report (numbers, method, limits).
 - `code/` - every script used: sampling and orthographic check (`validity.py`, `random_sample.py`, `analyze_random.py`),
   original-PDF fetch (`fetch_originals.py`, `fetch_bulk.py`, `fetch_ocrpath.py`), the two-reader fabrication check
-  (`score26.py`, `skeptic26.py`, `anchors26.py`, `kaggle/tesseract_finepdfs_ocrpath.py`), test-data generation
+  (`score26.py`, `skeptic26.py`, `anchors26.py`, `kaggle/tesseract_finepdfs_ocrpath.py`), the Gilaki check
+  (`gilaki_check.py`), test-data generation
   (`make_data.py`, `fresh2_data.py`, `word_var.ps1`), OCR baselines (`kaggle/`) and scorers; shared helpers in
   `common.py`. Research code: paths assume the original working layout.
 - The recovery decoder (section 4 of the report) is NOT included; a separate release is planned (available on request).
