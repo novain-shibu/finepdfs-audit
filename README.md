@@ -44,4 +44,4 @@ result files: CC BY 4.0.
 Analysis, code and write-up were produced with an AI assistant (Claude); numbers were re-derived from raw files.
 
 ## Citation
-See `CITATION.cff`. Author: Novain Shibu - github.com/novain-shibu - linkedin.com/in/novain-shibu
+See `CITATION.cff`. Author: Novain Shibu - georgeshibu380@gmail.com - github.com/novain-shibu - linkedin.com/in/novain-shibu

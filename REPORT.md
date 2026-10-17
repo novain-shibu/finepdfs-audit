@@ -128,7 +128,8 @@ those glyph IDs (and keeping a word only if re-shaping matches exactly) recovers
 - Limits: verified means renders identically (some spellings render identically and are flagged); no ground truth on real
   files; ~40% of broken originals do not embed shaping tables.
 The recovery decoder is not part of this repository; a separate release is planned. It is available on request:
-open an issue on github.com/novain-shibu/finepdfs-audit or message the author on LinkedIn (linkedin.com/in/novain-shibu).
+open an issue on github.com/novain-shibu/finepdfs-audit, email georgeshibu380@gmail.com, or message the author on
+LinkedIn (linkedin.com/in/novain-shibu).
 The exact decoder versions behind these numbers were frozen before each held-out test and their SHA-256 fingerprints are
 published in `results/*.FROZEN.sha256`, so the released code can be checked against them. The decoder builds on our
 earlier Malayalam-only prototype Unshape v0.1 (github.com/novain-shibu/unshape, DOI 10.5281/zenodo.23418945).
@@ -156,4 +157,4 @@ AI assistance: analysis, code and this write-up were produced with an AI assista
 raw files, and the page-vs-text comparisons were done on rendered page images.
 
 Novain Shibu
-github.com/novain-shibu · linkedin.com/in/novain-shibu
+georgeshibu380@gmail.com · github.com/novain-shibu · linkedin.com/in/novain-shibu
