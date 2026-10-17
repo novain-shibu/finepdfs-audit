@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "FinePDFs audit: corrupted (text-layer path) and fabricated (rolmOCR path) text in complex-script configs, and a mislabelled Gilaki config"
+title: "FinePDFs audit: corrupted (text-layer path) and fabricated (rolmOCR path) text in complex-script configs, and small-language configs filled with broken text"
 type: dataset
 authors:
   - family-names: Shibu
@@ -9,5 +9,5 @@ license: CC-BY-4.0
 doi: 10.5281/zenodo.23432200
 repository-code: https://github.com/novain-shibu/finepdfs-audit
 date-released: 2026-10-17
-version: "1.2.0"
-keywords: [FinePDFs, Gilaki, Persian, language identification, OCR hallucination, data quality, pretraining data, Indic scripts, Malayalam, Tamil, Telugu, Kannada, PDF text extraction, HarfBuzz, OpenType]
+version: "1.3.0"
+keywords: [FinePDFs, low-resource languages, Balochi, Kashmiri, Uyghur, Assamese, Gilaki, Persian, language identification, OCR hallucination, data quality, pretraining data, Indic scripts, Malayalam, Tamil, Telugu, Kannada, PDF text extraction, HarfBuzz, OpenType]

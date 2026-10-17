@@ -20,13 +20,16 @@ Full report: **[REPORT.md](REPORT.md)**.
    (free Tesseract: 86.2%).
 5. **New in v1.2, "Gilaki" config:** 84% of a fresh random sample of `glk_Arab` (4.98B tokens) is broken Persian/Arabic
    PDF text labelled Gilaki (CI 76-90%; clean controls 0/104 and 0/40); about 4.5B tokens if the rate holds.
+6. **New in v1.3, small languages get the broken text:** across 82 non-Latin configs, Southern Balochi (99%), Kashmiri (94%),
+   Gilaki (73%) and Mesopotamian Arabic (69%) are mostly broken Persian/Arabic; Assamese, Uyghur and Punjabi are mostly
+   broken text in their own language. About 6.1B mislabelled tokens if the sampled rates hold.
 
 ## What is in this repository
 - `REPORT.md` - the report (numbers, method, limits).
 - `code/` - every script used: sampling and orthographic check (`validity.py`, `random_sample.py`, `analyze_random.py`),
   original-PDF fetch (`fetch_originals.py`, `fetch_bulk.py`, `fetch_ocrpath.py`), the two-reader fabrication check
   (`score26.py`, `skeptic26.py`, `anchors26.py`, `kaggle/tesseract_finepdfs_ocrpath.py`), the Gilaki check
-  (`gilaki_check.py`), test-data generation
+  (`gilaki_check.py`), the small-language sweep (`exile_check.py`), test-data generation
   (`make_data.py`, `fresh2_data.py`, `word_var.ps1`), OCR baselines (`kaggle/`) and scorers; shared helpers in
   `common.py`. Research code: paths assume the original working layout.
 - The recovery decoder (section 4 of the report) is NOT included; a separate release is planned (available on request).

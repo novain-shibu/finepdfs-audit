@@ -1,4 +1,4 @@
-# FinePDFs: corrupted (text-layer path) and fabricated (rolmOCR path) text in complex-script configs
+# FinePDFs: corrupted (text-layer path) and fabricated (rolmOCR path) text in complex-script configs, and small-language configs filled with broken text
 
 **Full report, code and results:** https://github.com/novain-shibu/finepdfs-audit · permanent record: DOI [10.5281/zenodo.23432200](https://doi.org/10.5281/zenodo.23432200)
 
@@ -8,6 +8,7 @@
 3. **Text-layer (docling) path, 16 complex scripts: 3-29% (most 9-21%) of words are orthographically impossible**, vs 0.00-0.55% in Wikipedia; roughly 300k documents with > 5% such words in the sampled configs. Mostly caused by the PDFs themselves (19 of 24 originals made with Microsoft Word).
 4. **The text-layer damage is recoverable without OCR:** inverting OpenType shaping recovers 99.1% of words on held-out Word PDFs in 10 scripts (free Tesseract 86.2%; RolmOCR 61.2% on the documents it finished in our run).
 5. **New in v1.2: the `glk_Arab` ("Gilaki") config is mostly broken Persian/Arabic PDF text.** In a fresh random sample, **80/95 docs (84%, 95% CI 76-90%; about 90% of the sampled tokens)** are Persian or Arabic PDFs whose text layer came out broken (presentation forms, reversed lines, legacy-font mojibake), labelled Gilaki by language ID; the same rules flag 0/104 real Gilaki and 0/40 Persian Wikipedia articles. If the rate holds, that is about 4.5 billion of the config's 4.98 billion tokens (section 5).
+6. **New in v1.3: broken text of big languages is filed under small languages.** Across all 82 non-Latin configs with >= 1,000 docs, damaged or wrong-script text piles up in small-language configs while the big ones stay mostly clean. Confirmed on fresh samples: Southern Balochi `bcc_Arab` 99%, Kashmiri `kas_Arab` 94%, "Gilaki" `glk_Arab` 73% and Mesopotamian Arabic `acm_Arab` 69% are mostly Persian or standard Arabic with a broken text layer; Assamese 82%, Uyghur 67% and Punjabi 60% are the right language with a broken text layer. About 6.1 billion tokens are mislabelled if the sampled rates hold (section 6).
 
 The dataset card already warns that rolmOCR may hallucinate in low-resource languages. What this adds: in our samples of these seven languages (together well over 200 million speakers) it is the norm, not the exception, while scripts close to high-resource ones (Devanagari, Bengali, Gujarati, Thai) are largely fine; and nothing in the released data marks it. It matches a known model weakness: GlotOCR Bench (Kargaran et al., arXiv 2604.12978) reports RolmOCR at 0-3% Acc@5 on Tamil, Telugu, Kannada and Malayalam with the script itself correct.
 
@@ -107,17 +108,43 @@ v1 failed honestly: real Gilaki writes U+065A (ARABIC VOWEL SIGN SMALL V ABOVE, 
 
 **What this means:** if the sampled rate holds, about 4.5B tokens labelled Gilaki are corrupted Persian/Arabic text. It is the same failure family as section 3 (a broken PDF text layer), in another script family, made worse because the corrupted text is then assigned to a rare language. Not claimed: what the remaining ~16% is (it may still be Persian rather than Gilaki), or the state of other low-resource Arabic-script configs (e.g. `bcc_Arab`), which were not sampled. Much of the damage looks reversible without OCR (not yet measured): Unicode NFKC normalisation maps presentation forms back to letters, and reversed lines can be detected and flipped; legacy-font mojibake needs per-font mapping tables.
 
+## 6. New in v1.3: small-language configs collect broken text ("exile")
+Section 5 showed one config (`glk_Arab`) that is mostly broken Persian. This section asks whether that is a pattern. Code: `code/exile_check.py`; results: `results/exile_screen_results.json`, `results/exile_retest_results.json` (document IDs, row offsets, flags and numbers only).
+
+**Rules per document** (>= 200 letters). MISMATCH: fewer than 50% of the letters are in the config's own script. CORRUPT, Arabic script: presentation forms > 5%, or reversed lines (as in section 5), or legacy-font letters U+063B-063F > 0.5% (these occur 0 times in 2.1M characters of Wikipedia in Kashmiri, Uyghur, Gilaki, Persian, Arabic, Urdu, Sorani, Sindhi and Pashto); CORRUPT, Brahmic scripts: > 5% orthographically impossible words (section 2). BAD = mismatch or corrupt. This replaces section 5's LEG rule, which misfires on real Kashmiri (it writes U+0655/0656/0657/065B/065F; Kashmiri Wikipedia was flagged 49/49 under the old rule). The rules cannot see fabricated OCR text, which is fluent (section 1), so OCR-heavy configs are under-counted here.
+
+**Screen** (pre-registered): 20 rows from each of the 82 non-Latin configs with >= 1,000 docs. Nine configs had BAD >= 50%; big configs were 0-15% (e.g. Persian 0/19, Arabic 3/20, Hindi 2/20, Bengali 2/19, Russian, Chinese and Greek 0/18-20).
+
+**Fresh re-test** of the nine (pre-registered, 5 x 20 new rows each). CONFIRMED = BAD >= 50%, CI lower bound >= 30%, and clean Wikipedia controls for that script <= 5%.
+
+| config | language label | docs | BAD (95% CI) | what it is (hand checks) | bad tokens if rate holds |
+|---|---|---|---|---|---|
+| `bcc_Arab` | Southern Balochi | 111,724 | **94/95 = 99% (94-100)** | Persian (e.g. Iranian university journals), broken text layer | ~1.6B |
+| `kas_Arab` | Kashmiri | 21,699 | **94/100 = 94% (88-97)** | Persian legacy-font mojibake (Iranian university and medical PDFs) | ~0.6B |
+| `glk_Arab` | Gilaki | 313,867 | **70/96 = 73% (63-81)** | Persian/Arabic, broken text layer (stricter rule than section 5's 84%) | ~3.9B |
+| `acm_Arab` | Mesopotamian Arabic | 8,597 | **63/91 = 69% (59-78)** | standard Arabic (Jordan, Lebanon, Kuwait, Egypt), broken text layer | ~0.06B |
+| `asm_Beng` | Assamese | 1,551 | **82/100 = 82% (73-88)** | Assamese, broken text layer | ~0.01B |
+| `uig_Arab` | Uyghur | 2,889 | **66/98 = 67% (58-76)** | Uyghur, presentation forms copied as text | ~0.03B |
+| `pan_Guru` | Punjabi | 14,727 | **57/95 = 60% (50-69)** | Punjabi, broken text layer or other script | ~0.25B |
+| `anp_Deva` | Angika | 129,557 | 61/95 = 64% (54-73), *likely* | mostly not Devanagari: English with a zero-width joiner between words, tables, other languages | ~0.5B |
+| `kas_Deva` | Kashmiri (Devanagari) | 4,309 | 43/86 = 50% (40-60), *likely* | mixed | ~0.01B |
+
+Controls with the same rules: Wikipedia Uyghur 0/87, Arabic 0/97, Persian 0/100, Gilaki 0/96, Kashmiri 1/59 (independent articles; the rule was derived on others), Assamese 0/98, Punjabi 1/68; Hindi 2/33 (6%, above the 5% bar, so the two Devanagari configs are reported as likely, not confirmed).
+
+**What this means.** In FinePDFs, text that the extractor damaged is often assigned by language ID to a small neighbouring language (median language-ID confidence 0.15-0.6 in the affected configs). The result is that the configs a builder would use for Balochi, Kashmiri, Gilaki or Mesopotamian Arabic are mostly broken Persian or Arabic: about 6.1 billion tokens in the four confirmed wrong-language configs if the sampled rates hold (about 6.6 billion with the two likely ones). The `glk_Arab` part overlaps section 5 (same config, stricter rule here); do not add the two. The general phenomenon, small-language subsets of web corpora that are mostly wrong-language or junk, was documented for older corpora by Kreutzer et al. (2022, "Quality at a Glance"); earlier related evidence: only about 40% of mC4's Marathi bucket was well-formed Marathi (Chung et al. 2023, UniMax); language-ID models confuse Balochi, Gilaki and Kashmiri with Persian (Ahmadi 2023, PALI); and a MITRE study found Word-made PDFs the worst source for Arabic and Persian text extraction (DTIC ADA546769). To our knowledge, this section is the first to show the effect in a 2025 PDF corpus, trace it to broken PDF text layers, and size it. A quick comparison points at PDF extraction as the cause: in Hugging Face's web corpus FineWeb-2, which uses the same config names, the same rules flag 0/19 `kas_Arab` docs (real Kashmiri) and 1/20 `glk_Arab` docs (20-row screen; `bcc_Arab` could not be fetched). Not claimed: anything about configs not re-tested; rolmOCR fabrication in these configs; exact token totals (estimates from mean tokens per sampled doc).
+
 ## Suggestions
 1. Don't route damaged Tamil/Malayalam/Telugu/Kannada text-layer docs to rolmOCR as is: that trades visible corruption for invisible fabrication.
 2. Flag or drop rolmOCR-path docs in these configs whose text disagrees with an independent reader, or add a per-language OCR quality gate; at minimum, document the per-language risk in the card.
 3. Use the orthographic-validity rate as a routing/quality feature on the text-layer path.
 4. For Word-made PDFs, consider re-extraction by inverse shaping instead of OCR.
 5. For Arabic-script PDFs, NFKC-normalise presentation forms and detect reversed lines before language ID; low-confidence language-ID results in rare-language configs deserve a check (`glk_Arab`: median 0.44).
+6. Before release, check every config for script mismatch and broken text with the cheap per-document rules of section 6, and treat low language-ID confidence in small-language configs as a warning sign; the configs listed in section 6 can be re-assigned (most are Persian or Arabic) or dropped.
 
 I'm happy to run the two-reader check over full configs, or help test any fix.
 
 ## Limits
-Hand checks: 11 documents in the first batch (7 South Indian, 4 controls) and 7 in the second (Punjabi, Sinhala, Odia confirmed; flagged Thai and Burmese pages were renderer failures, hence the rendering check; an unflagged Thai control was faithful; the Khmer PDF was unreadable), first read by the AI assistant on rendered page images, the two Malayalam examples then confirmed by the author; native-speaker checks of the other languages are welcome, and every example is linked above. Samples are clusters of consecutive rows. An earlier version of this report counted 7 docs whose pages had not rendered properly (Malayalam 20/20, Telugu 18/18, Kannada 18/18, Tamil 7/8); the counts above exclude them, which does not change any conclusion. Rule-based checks are a lower bound on damage. Section 5 rests on rules plus a reading by the AI assistant (the author does not read Persian); Persian-reader checks are welcome.
+Hand checks: 11 documents in the first batch (7 South Indian, 4 controls) and 7 in the second (Punjabi, Sinhala, Odia confirmed; flagged Thai and Burmese pages were renderer failures, hence the rendering check; an unflagged Thai control was faithful; the Khmer PDF was unreadable), first read by the AI assistant on rendered page images, the two Malayalam examples then confirmed by the author; native-speaker checks of the other languages are welcome, and every example is linked above. Samples are clusters of consecutive rows. An earlier version of this report counted 7 docs whose pages had not rendered properly (Malayalam 20/20, Telugu 18/18, Kannada 18/18, Tamil 7/8); the counts above exclude them, which does not change any conclusion. Rule-based checks are a lower bound on damage. Section 5 rests on rules plus a reading by the AI assistant (the author does not read Persian); Persian-reader checks are welcome. Section 6 rests on 100-document samples per config and the same kind of reading; Arabic, Persian, Kashmiri, Uyghur and Assamese readers' checks are welcome.
 
 AI assistance: analysis, code and this write-up were produced with an AI assistant (Claude); every number was re-derived from raw files.
 
