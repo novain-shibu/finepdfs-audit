@@ -1,0 +1,1348 @@
+{
+ "rows": [
+  {
+   "id": "c05de267-56f9-4b4c-a610-7420d115e384",
+   "cfg": "guj_Gujr",
+   "primary": 0.419,
+   "cgram": 0.573,
+   "numbers": 0.36,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:31c7ac97-7634-44ef-a5e3-becb32f3147c>",
+   "cfg": "guj_Gujr",
+   "primary": 0.462,
+   "cgram": 0.552,
+   "numbers": 0.857,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:932b95e0-1977-46e7-860c-17e4a2aea435>",
+   "cfg": "guj_Gujr",
+   "primary": 0.345,
+   "cgram": 0.412,
+   "numbers": 0.739,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:46a7ad58-2780-405d-b193-a2bf491d79da>",
+   "cfg": "guj_Gujr",
+   "primary": 0.514,
+   "cgram": 0.571,
+   "numbers": 0.143,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:ad8504c5-3247-4f29-8246-172244b6b26c>",
+   "cfg": "guj_Gujr",
+   "primary": 0.634,
+   "cgram": 0.724,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:9eacd1a2-bc30-48b2-b325-42d606621af2>",
+   "cfg": "guj_Gujr",
+   "primary": 0.256,
+   "cgram": 0.33,
+   "numbers": 0.857,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:3c7c84fc-f5ca-42e9-a55b-78c27b0121cd>",
+   "cfg": "guj_Gujr",
+   "primary": 0.065,
+   "cgram": 0.051,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:c118683a-572e-4009-a17e-e83bc9b08cdb>",
+   "cfg": "guj_Gujr",
+   "primary": 0.383,
+   "cgram": 0.494,
+   "numbers": 0.733,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:46aca4cd-55c8-4227-bc65-4581cf654d17>",
+   "cfg": "guj_Gujr",
+   "primary": 0.549,
+   "cgram": 0.648,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:049e6d83-7e13-4b56-800e-18978c8fccaa>",
+   "cfg": "guj_Gujr",
+   "primary": 0.631,
+   "cgram": 0.716,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "b231c9dd-6323-4a6b-94f9-28fbbff3511e",
+   "cfg": "guj_Gujr",
+   "primary": 0.519,
+   "cgram": 0.636,
+   "numbers": 0.789,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:48dc6645-146e-47ac-9fbd-614c5817eba0>",
+   "cfg": "guj_Gujr",
+   "primary": 0.424,
+   "cgram": 0.431,
+   "numbers": 0.75,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:461e2d97-2818-4c4e-8f78-eb7cbccd1934>",
+   "cfg": "guj_Gujr",
+   "primary": 0.606,
+   "cgram": 0.736,
+   "numbers": 0.948,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:4015c4d0-3c39-4a34-acdc-5c23b2ded35e>",
+   "cfg": "ory_Orya",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:3bd2b89a-df7b-4aaa-ac37-490cb8c56220>",
+   "cfg": "ory_Orya",
+   "primary": 0.02,
+   "cgram": 0.245,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:680658e0-ca0b-4d3c-bbe1-18659747a8a4>",
+   "cfg": "ory_Orya",
+   "primary": 0.011,
+   "cgram": 0.176,
+   "numbers": 0.174,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:42504277-041d-4ea8-967e-f146989428c3>",
+   "cfg": "ory_Orya",
+   "primary": 0.004,
+   "cgram": 0.221,
+   "numbers": 0.311,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:5978ffc4-dd89-43e8-8e39-9e02fac9ba67>",
+   "cfg": "ory_Orya",
+   "primary": 0.004,
+   "cgram": 0.124,
+   "numbers": 0.414,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:42504277-041d-4ea8-967e-f146989428c3>",
+   "cfg": "ory_Orya",
+   "primary": 0.004,
+   "cgram": 0.221,
+   "numbers": 0.311,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:5978ffc4-dd89-43e8-8e39-9e02fac9ba67>",
+   "cfg": "ory_Orya",
+   "primary": 0.004,
+   "cgram": 0.124,
+   "numbers": 0.414,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f5f9a735-4ace-46ce-af8f-7dda2f0eac3b>",
+   "cfg": "ory_Orya",
+   "primary": 0.031,
+   "cgram": 0.135,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f6f551fc-bac4-44f2-9feb-674856a483d4>",
+   "cfg": "ory_Orya",
+   "primary": 0.03,
+   "cgram": 0.26,
+   "numbers": 0.13,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:42504277-041d-4ea8-967e-f146989428c3>",
+   "cfg": "ory_Orya",
+   "primary": 0.004,
+   "cgram": 0.221,
+   "numbers": 0.311,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:5978ffc4-dd89-43e8-8e39-9e02fac9ba67>",
+   "cfg": "ory_Orya",
+   "primary": 0.004,
+   "cgram": 0.124,
+   "numbers": 0.414,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f5f9a735-4ace-46ce-af8f-7dda2f0eac3b>",
+   "cfg": "ory_Orya",
+   "primary": 0.031,
+   "cgram": 0.135,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f6f551fc-bac4-44f2-9feb-674856a483d4>",
+   "cfg": "ory_Orya",
+   "primary": 0.03,
+   "cgram": 0.26,
+   "numbers": 0.13,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:99808ee0-f3f8-4c4d-af74-f73c86b7d9f9>",
+   "cfg": "ory_Orya",
+   "primary": 0.007,
+   "cgram": 0.193,
+   "numbers": 0.794,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:7e18abf1-dcb0-45c5-97b2-16b3cc23cd10>",
+   "cfg": "ory_Orya",
+   "primary": 0.07,
+   "cgram": 0.149,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:5fa4f4f5-efb4-4bc3-bac3-c11d33f7f21f>",
+   "cfg": "ory_Orya",
+   "primary": 0.202,
+   "cgram": 0.287,
+   "numbers": 0.133,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:4d95f6ba-9b25-474c-9181-80bd872a037a>",
+   "cfg": "ory_Orya",
+   "primary": 0.022,
+   "cgram": 0.093,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:d8283cf5-98b7-42ea-8cf0-ca442e406e63>",
+   "cfg": "ory_Orya",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": 0.857,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:11015d8f-a0d0-48bd-bd11-2f6147fd595d>",
+   "cfg": "ory_Orya",
+   "primary": 0.0,
+   "cgram": 0.001,
+   "numbers": 0.071,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:32358c8e-1012-40b8-ae5d-3d4f8c378d3b>",
+   "cfg": "ory_Orya",
+   "primary": 0.038,
+   "cgram": 0.178,
+   "numbers": 0.37,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:a0704fe0-d70a-4b2c-a69d-ba116ed797a9>",
+   "cfg": "ory_Orya",
+   "primary": 0.061,
+   "cgram": 0.148,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:b456bcba-2ec2-417d-8d74-ad5680201517>",
+   "cfg": "ory_Orya",
+   "primary": 0.039,
+   "cgram": 0.092,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:74a5ae1e-37c6-4c3e-bbe8-cff24e5ffa80>",
+   "cfg": "pan_Guru",
+   "primary": 0.208,
+   "cgram": 0.228,
+   "numbers": 0.815,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:05a4bd65-6586-4921-b66a-6db9bd473c1b>",
+   "cfg": "pan_Guru",
+   "primary": 0.26,
+   "cgram": 0.301,
+   "numbers": 0.711,
+   "flag": false
+  },
+  {
+   "id": "1cd52976-6267-4149-91bb-6f67a3f0631a",
+   "cfg": "pan_Guru",
+   "primary": 0.241,
+   "cgram": 0.349,
+   "numbers": 0.115,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:33b62fbb-11ca-4e98-9ec0-d5937c18dd5c>",
+   "cfg": "pan_Guru",
+   "primary": 0.145,
+   "cgram": 0.163,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:d2829c11-8280-458b-8b06-4383851b5076>",
+   "cfg": "pan_Guru",
+   "primary": 0.126,
+   "cgram": 0.172,
+   "numbers": 0.857,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:e19ba873-58c8-49a5-8b8b-8c7dac94715b>",
+   "cfg": "pan_Guru",
+   "primary": 0.179,
+   "cgram": 0.243,
+   "numbers": 0.972,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:0fb6d2e5-052d-4e76-a13f-366f45f21fcc>",
+   "cfg": "pan_Guru",
+   "primary": 0.213,
+   "cgram": 0.141,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:962086b6-a694-4b8b-b6c6-dedddf05cba6>",
+   "cfg": "pan_Guru",
+   "primary": 0.164,
+   "cgram": 0.147,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:07129695-e417-45e2-8ebe-96f90cc4df55>",
+   "cfg": "pan_Guru",
+   "primary": 0.172,
+   "cgram": 0.158,
+   "numbers": 0.6,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:ba8fbee8-a2cb-450d-9b7a-82b650c9d8b2>",
+   "cfg": "pan_Guru",
+   "primary": 0.26,
+   "cgram": 0.223,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:784f049e-5084-45ae-922c-dc20436d71af>",
+   "cfg": "pan_Guru",
+   "primary": 0.44,
+   "cgram": 0.398,
+   "numbers": 0.738,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:8338ef79-0506-4c7b-9bc8-0f58d88635b8>",
+   "cfg": "pan_Guru",
+   "primary": 0.165,
+   "cgram": 0.183,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:63215229-4929-4cb6-9ffe-0b6e75f56b6f>",
+   "cfg": "pan_Guru",
+   "primary": 0.169,
+   "cgram": 0.252,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:666de474-544b-4e67-927e-55a2e87e9d5c>",
+   "cfg": "pan_Guru",
+   "primary": 0.081,
+   "cgram": 0.086,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:c7657bac-c4d3-437c-8481-97a7696a7933>",
+   "cfg": "pan_Guru",
+   "primary": 0.122,
+   "cgram": 0.123,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:080ddad9-7532-4b21-a29a-9f1ca9f149c6>",
+   "cfg": "pan_Guru",
+   "primary": 0.249,
+   "cgram": 0.202,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:419cdede-03f4-4c3f-b802-f94ee3d18d2c>",
+   "cfg": "pan_Guru",
+   "primary": 0.131,
+   "cgram": 0.121,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:59d85856-e2fb-48bb-b517-4d779ff38062>",
+   "cfg": "pan_Guru",
+   "primary": 0.135,
+   "cgram": 0.132,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:1a5088de-bd0d-4d41-b755-7a0e02fe5a1c>",
+   "cfg": "sin_Sinh",
+   "primary": 0.074,
+   "cgram": 0.148,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:7965fff7-d4fe-4cd2-a752-4b4b2a026240>",
+   "cfg": "sin_Sinh",
+   "primary": 0.024,
+   "cgram": 0.07,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "0ce48e0f-15cb-4ff1-89a3-8065ef1549a7",
+   "cfg": "sin_Sinh",
+   "primary": 0.0,
+   "cgram": 0.005,
+   "numbers": 0.037,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:596e12ab-6b93-45c2-8612-7de891d01dee>",
+   "cfg": "sin_Sinh",
+   "primary": 0.059,
+   "cgram": 0.056,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:ce881686-b076-4ecb-953c-4b44880ecf9c>",
+   "cfg": "sin_Sinh",
+   "primary": 0.055,
+   "cgram": 0.164,
+   "numbers": 0.844,
+   "flag": true
+  },
+  {
+   "id": "9673482a-5d37-4abf-9068-1dfc180c988f",
+   "cfg": "sin_Sinh",
+   "primary": 0.039,
+   "cgram": 0.066,
+   "numbers": 0.938,
+   "flag": true
+  },
+  {
+   "id": "e4097dc4-851a-4710-9d17-259e5cc9077f",
+   "cfg": "sin_Sinh",
+   "primary": 0.046,
+   "cgram": 0.372,
+   "numbers": 0.909,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:29654802-6619-441f-8975-4e521e3bd86e>",
+   "cfg": "sin_Sinh",
+   "primary": 0.082,
+   "cgram": 0.156,
+   "numbers": 0.581,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f9f6f63e-bec1-40c7-be85-2873cf1aae0e>",
+   "cfg": "sin_Sinh",
+   "primary": 0.114,
+   "cgram": 0.275,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f542dab2-8083-449c-9055-8b2ff6976418>",
+   "cfg": "sin_Sinh",
+   "primary": 0.043,
+   "cgram": 0.138,
+   "numbers": 0.414,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:1f6a6a36-43a1-4442-bfc3-efd156439c9c>",
+   "cfg": "sin_Sinh",
+   "primary": 0.068,
+   "cgram": 0.278,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "0e8cfa2e-d788-4489-97d3-4abb10d720b1",
+   "cfg": "sin_Sinh",
+   "primary": 0.082,
+   "cgram": 0.34,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "526164fa-3512-4608-b739-3a6b07fc580f",
+   "cfg": "sin_Sinh",
+   "primary": 0.013,
+   "cgram": 0.041,
+   "numbers": 0.111,
+   "flag": true
+  },
+  {
+   "id": "690efa51-ff4e-4163-b6f4-3b00e6364384",
+   "cfg": "sin_Sinh",
+   "primary": 0.064,
+   "cgram": 0.079,
+   "numbers": 0.645,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:4f1b53eb-f052-47be-98e0-00df4b0fb6d8>",
+   "cfg": "sin_Sinh",
+   "primary": 0.149,
+   "cgram": 0.345,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:b90a13ed-fff3-4961-ad71-9318b9d51532>",
+   "cfg": "mar_Deva",
+   "primary": 0.843,
+   "cgram": 0.907,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:35f8ae81-855b-45b3-93f5-a4c9adddf94b>",
+   "cfg": "mar_Deva",
+   "primary": 0.849,
+   "cgram": 0.881,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:732e463c-ea6b-42e5-b8ce-e824653c98c8>",
+   "cfg": "mar_Deva",
+   "primary": 0.827,
+   "cgram": 0.906,
+   "numbers": 1.0,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:d4f3a514-5c95-4187-83dd-04e05b716ae0>",
+   "cfg": "mar_Deva",
+   "primary": 0.025,
+   "cgram": 0.058,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "08bdd226-a96f-4950-b518-6964efe26acc",
+   "cfg": "mar_Deva",
+   "primary": 0.416,
+   "cgram": 0.472,
+   "numbers": 0.351,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:7570bb48-7ee5-4104-b954-ce390eedaf4e>",
+   "cfg": "mar_Deva",
+   "primary": 0.567,
+   "cgram": 0.77,
+   "numbers": 0.48,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:e630ea99-ef71-4a1a-b9f6-4895b8c7ef28>",
+   "cfg": "mar_Deva",
+   "primary": 0.578,
+   "cgram": 0.675,
+   "numbers": 0.714,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:5050c567-8db8-4606-bc72-29083f3830b3>",
+   "cfg": "mar_Deva",
+   "primary": 0.723,
+   "cgram": 0.816,
+   "numbers": 0.765,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:093d8d86-3892-4595-a104-427886cc7344>",
+   "cfg": "mar_Deva",
+   "primary": 0.337,
+   "cgram": 0.464,
+   "numbers": 0.774,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:ab7871e4-8389-485e-af20-bcab4412e4d3>",
+   "cfg": "mar_Deva",
+   "primary": 0.448,
+   "cgram": 0.655,
+   "numbers": 0.4,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:4d1e8c56-6e9c-4cd2-ad28-f5f458b265b6>",
+   "cfg": "mar_Deva",
+   "primary": 0.794,
+   "cgram": 0.871,
+   "numbers": 0.818,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:fa74bf03-e50b-414c-a5e7-bcf79c87ac8c>",
+   "cfg": "mar_Deva",
+   "primary": 0.611,
+   "cgram": 0.632,
+   "numbers": 0.833,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:433da971-d61a-4b36-85e1-1f3fed5ac2bf>",
+   "cfg": "mar_Deva",
+   "primary": 0.739,
+   "cgram": 0.837,
+   "numbers": 0.923,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:5bde8098-c443-4cda-84b2-b107033efb5d>",
+   "cfg": "mar_Deva",
+   "primary": 0.89,
+   "cgram": 0.941,
+   "numbers": 0.909,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:27370371-8d06-49b1-bcb1-6d437c7bbd7e>",
+   "cfg": "mar_Deva",
+   "primary": 0.834,
+   "cgram": 0.891,
+   "numbers": 1.0,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:ca51c286-d799-4e1f-99e8-eb87e305d022>",
+   "cfg": "mar_Deva",
+   "primary": 0.739,
+   "cgram": 0.819,
+   "numbers": 0.815,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:c6f2f53d-0cd0-44bc-81e4-0899860b8414>",
+   "cfg": "mar_Deva",
+   "primary": 0.82,
+   "cgram": 0.893,
+   "numbers": 0.333,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:65ba690e-91c9-486b-a929-301338d26522>",
+   "cfg": "mar_Deva",
+   "primary": 0.874,
+   "cgram": 0.926,
+   "numbers": 0.805,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:094ecff7-6838-4fad-a04e-e6fe98c98087>",
+   "cfg": "mar_Deva",
+   "primary": 0.818,
+   "cgram": 0.864,
+   "numbers": 1.0,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:71622db1-11b8-4c53-a8a2-c178bd326846>",
+   "cfg": "mar_Deva",
+   "primary": 0.798,
+   "cgram": 0.788,
+   "numbers": 0.729,
+   "flag": false
+  },
+  {
+   "id": "607f9325-066c-4d42-97f5-29d9fbdf5539",
+   "cfg": "mar_Deva",
+   "primary": 0.543,
+   "cgram": 0.681,
+   "numbers": 0.657,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:bbc636a5-4441-4cd1-a5e1-58d9329a6abc>",
+   "cfg": "npi_Deva",
+   "primary": 0.708,
+   "cgram": 0.792,
+   "numbers": 0.562,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:7374f0a8-8a2a-4b1e-806e-7f29f684029f>",
+   "cfg": "npi_Deva",
+   "primary": 0.799,
+   "cgram": 0.868,
+   "numbers": 0.56,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:9876f478-e482-400b-b40e-f9488257ad87>",
+   "cfg": "npi_Deva",
+   "primary": 0.806,
+   "cgram": 0.909,
+   "numbers": 0.691,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:969b50f0-5ce2-4ba3-b3fd-6a79f598292a>",
+   "cfg": "npi_Deva",
+   "primary": 0.815,
+   "cgram": 0.88,
+   "numbers": 0.684,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:ea553884-7dd9-4314-aa98-d89a193a7931>",
+   "cfg": "npi_Deva",
+   "primary": 0.803,
+   "cgram": 0.842,
+   "numbers": 0.625,
+   "flag": false
+  },
+  {
+   "id": "dd5bb7f4-64c3-4ee3-b11e-2bf5407dda8f",
+   "cfg": "npi_Deva",
+   "primary": 0.753,
+   "cgram": 0.821,
+   "numbers": 0.562,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:fe7f6e13-a91a-4df1-885a-801e1925a54a>",
+   "cfg": "npi_Deva",
+   "primary": 0.812,
+   "cgram": 0.87,
+   "numbers": 0.75,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:339f36d3-d3ed-45f4-b8ae-4886690d394b>",
+   "cfg": "npi_Deva",
+   "primary": 0.716,
+   "cgram": 0.809,
+   "numbers": 0.455,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:2d18910c-b3f9-4db1-9e59-b3b6bfdfeecf>",
+   "cfg": "npi_Deva",
+   "primary": 0.745,
+   "cgram": 0.728,
+   "numbers": 0.852,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:0b2e080b-bff8-4b1e-b3e0-0d5675ed53da>",
+   "cfg": "npi_Deva",
+   "primary": 0.717,
+   "cgram": 0.695,
+   "numbers": 0.451,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:0401825b-0eab-484e-90fe-6cabc723d28f>",
+   "cfg": "npi_Deva",
+   "primary": 0.659,
+   "cgram": 0.829,
+   "numbers": 0.1,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:72cce205-729c-4c36-b02c-82565c9943ee>",
+   "cfg": "tha_Thai",
+   "primary": 0.789,
+   "cgram": 0.789,
+   "numbers": 0.129,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:ffaedb05-4b0f-4d83-a0ff-386718a14172>",
+   "cfg": "tha_Thai",
+   "primary": 0.863,
+   "cgram": 0.863,
+   "numbers": 0.963,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:c2d772f6-a582-4947-9fd5-fa018f129992>",
+   "cfg": "tha_Thai",
+   "primary": 0.371,
+   "cgram": 0.371,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:e5d1bc42-8b95-438f-8de0-e6cb56d9c6ea>",
+   "cfg": "tha_Thai",
+   "primary": 0.802,
+   "cgram": 0.802,
+   "numbers": 1.0,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:d63404d3-8519-4345-9b42-e9c63f93b93b>",
+   "cfg": "tha_Thai",
+   "primary": 0.806,
+   "cgram": 0.806,
+   "numbers": 0.186,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:c0278647-aedc-407c-93c2-886d605603c6>",
+   "cfg": "tha_Thai",
+   "primary": 0.849,
+   "cgram": 0.849,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:b941371d-9188-4f62-a0f0-536ef297041c>",
+   "cfg": "tha_Thai",
+   "primary": 0.905,
+   "cgram": 0.905,
+   "numbers": 0.25,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:0b9956f7-c5da-4681-ab31-cc448c6df7c9>",
+   "cfg": "tha_Thai",
+   "primary": 0.863,
+   "cgram": 0.863,
+   "numbers": 0.053,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:0c4620f2-8f8b-4460-8d01-a0b30181ab43>",
+   "cfg": "tha_Thai",
+   "primary": 0.783,
+   "cgram": 0.783,
+   "numbers": 0.233,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:9ce5e4d3-27f8-4056-9b97-9a97c3df5769>",
+   "cfg": "tha_Thai",
+   "primary": 0.432,
+   "cgram": 0.432,
+   "numbers": 0.092,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:82970f09-a29e-4b25-81f9-38cae8b88402>",
+   "cfg": "tha_Thai",
+   "primary": 0.885,
+   "cgram": 0.885,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:2276d219-de92-4e8b-bc66-a08897774092>",
+   "cfg": "tha_Thai",
+   "primary": 0.847,
+   "cgram": 0.847,
+   "numbers": 0.97,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:c5d5ac66-ef7a-4081-bfaa-f84cf27e035f>",
+   "cfg": "tha_Thai",
+   "primary": 0.752,
+   "cgram": 0.752,
+   "numbers": 0.25,
+   "flag": false
+  },
+  {
+   "id": "9b397454-6e39-44db-81f0-6bf339e44adb",
+   "cfg": "tha_Thai",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:0467a6d3-eb50-45ec-9654-8f0e81a7888b>",
+   "cfg": "tha_Thai",
+   "primary": 0.814,
+   "cgram": 0.814,
+   "numbers": 0.0,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:e5b8e2ba-fd4e-433d-9746-7597cc7bb655>",
+   "cfg": "tha_Thai",
+   "primary": 0.89,
+   "cgram": 0.89,
+   "numbers": 0.492,
+   "flag": false
+  },
+  {
+   "id": "<urn:uuid:9b43a147-5fbc-404d-9568-729582c73596>",
+   "cfg": "tha_Thai",
+   "primary": 0.572,
+   "cgram": 0.572,
+   "numbers": 0.884,
+   "flag": false
+  },
+  {
+   "id": "88361bdc-8d52-4b7f-ac52-eec313fd75f9",
+   "cfg": "tha_Thai",
+   "primary": 0.001,
+   "cgram": 0.001,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "bfcedb7c-dee3-41ca-9722-2e8e69047291",
+   "cfg": "tha_Thai",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "d092b4d8-c236-4e8c-adc9-8857c666f870",
+   "cfg": "tha_Thai",
+   "primary": 0.087,
+   "cgram": 0.087,
+   "numbers": 0.091,
+   "flag": true
+  },
+  {
+   "id": "fd8d4434-3ea7-44f5-ae5d-5bf3952be34d",
+   "cfg": "tha_Thai",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "07a26d1d-ee10-4887-804c-6cfbb1f879e9",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "2b667fda-e121-4c97-8b79-feb5a404d9a4",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:ae5e4c64-cd88-48ef-b990-882fea67001e>",
+   "cfg": "khm_Khmr",
+   "primary": 0.49,
+   "cgram": 0.49,
+   "numbers": 0.25,
+   "flag": true
+  },
+  {
+   "id": "bfd78baa-7c4f-47f7-8e0c-3c5fc60268dc",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "34c52d19-5cd6-4af8-a9aa-89e3a5a47d40",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:dfeef0d0-dd31-44f2-8494-d754c299c633>",
+   "cfg": "khm_Khmr",
+   "primary": 0.263,
+   "cgram": 0.263,
+   "numbers": 0.094,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:301b9423-c1a0-46eb-ab12-fcedc2ba92a2>",
+   "cfg": "khm_Khmr",
+   "primary": 0.349,
+   "cgram": 0.349,
+   "numbers": 0.613,
+   "flag": true
+  },
+  {
+   "id": "80fb537c-041e-4b8e-b511-134421de4ce5",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f6cd8845-aff9-45cf-b641-ebce418cfd4e>",
+   "cfg": "khm_Khmr",
+   "primary": 0.295,
+   "cgram": 0.295,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:11cb4769-5ad6-491e-9928-db4c2e84f701>",
+   "cfg": "khm_Khmr",
+   "primary": 0.216,
+   "cgram": 0.216,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "53468347-de25-42dd-8710-98ee59576849",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "1183f61a-a657-4fd5-af9e-b32a89b11453",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "5b5493a6-0e7e-4776-9a2d-5a43a5d43d10",
+   "cfg": "khm_Khmr",
+   "primary": 0.12,
+   "cgram": 0.12,
+   "numbers": 0.619,
+   "flag": true
+  },
+  {
+   "id": "c0ea913c-2a38-42a3-8296-d53c192150d8",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:d44e1955-3d3a-4a93-87e6-492be2b538fb>",
+   "cfg": "khm_Khmr",
+   "primary": 0.077,
+   "cgram": 0.077,
+   "numbers": 0.125,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:b8daf970-dd9a-4308-82ab-3349fb2bcf52>",
+   "cfg": "khm_Khmr",
+   "primary": 0.267,
+   "cgram": 0.267,
+   "numbers": 0.672,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:05b91d1b-731a-4d2e-a211-1c1a75a677f1>",
+   "cfg": "khm_Khmr",
+   "primary": 0.37,
+   "cgram": 0.37,
+   "numbers": 0.179,
+   "flag": true
+  },
+  {
+   "id": "a58686fa-f1c5-45fb-8f8e-0ee4df4afd01",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f001069d-e52e-4c55-b45c-2f3924696c7c>",
+   "cfg": "khm_Khmr",
+   "primary": 0.039,
+   "cgram": 0.039,
+   "numbers": 0.868,
+   "flag": true
+  },
+  {
+   "id": "6e19d515-bd0a-4adf-86b9-d172ee1c349f",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:ba00b198-cb1e-42aa-bd69-fbf6ed3be08a>",
+   "cfg": "khm_Khmr",
+   "primary": 0.655,
+   "cgram": 0.655,
+   "numbers": null,
+   "flag": false
+  },
+  {
+   "id": "2d3accac-ffd4-49a6-b4c0-131b6f37ae24",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "d7e2bf58-c491-4d64-bb5b-9ce035f93026",
+   "cfg": "khm_Khmr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "7b61b1ce-1502-4c91-9ba9-030e74d4f08f",
+   "cfg": "mya_Mymr",
+   "primary": 0.157,
+   "cgram": 0.157,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "696789d3-0a34-4a25-84ba-47b0e0bd39bb",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:a4c54502-20da-4b66-b09c-ef755dee88f7>",
+   "cfg": "mya_Mymr",
+   "primary": 0.207,
+   "cgram": 0.207,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "e70f162c-35cf-40e2-bccf-fa2ab661f05d",
+   "cfg": "mya_Mymr",
+   "primary": 0.009,
+   "cgram": 0.009,
+   "numbers": 0.2,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:04980797-abd2-4e3a-8e9d-96ec46fa84e6>",
+   "cfg": "mya_Mymr",
+   "primary": 0.504,
+   "cgram": 0.504,
+   "numbers": 0.211,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:f6992928-9647-4610-b1ef-dd23675a1543>",
+   "cfg": "mya_Mymr",
+   "primary": 0.374,
+   "cgram": 0.374,
+   "numbers": 0.455,
+   "flag": true
+  },
+  {
+   "id": "78200d90-e680-4e9e-be9d-4c9cebd3a49d",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "d627f054-2db9-4056-af96-f31eb72e8aef",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "fa3d4a63-4d31-4a25-a138-47d039af1bfb",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "5f4725b3-bf1e-4c68-b637-2d2b858df578",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "17f6efc5-30e5-4e00-9672-34ac558000b6",
+   "cfg": "mya_Mymr",
+   "primary": 0.004,
+   "cgram": 0.004,
+   "numbers": 0.172,
+   "flag": true
+  },
+  {
+   "id": "25276b92-96c6-4bc6-957f-100dd1e7601f",
+   "cfg": "mya_Mymr",
+   "primary": 0.153,
+   "cgram": 0.153,
+   "numbers": 0.082,
+   "flag": true
+  },
+  {
+   "id": "043f0a8c-9ecb-4800-840c-818bca36a18e",
+   "cfg": "mya_Mymr",
+   "primary": 0.33,
+   "cgram": 0.33,
+   "numbers": 0.147,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:6769aa79-d452-43b7-ab30-c3f8e6492c4a>",
+   "cfg": "mya_Mymr",
+   "primary": 0.429,
+   "cgram": 0.429,
+   "numbers": 0.275,
+   "flag": true
+  },
+  {
+   "id": "3a202f48-d94c-4de8-8f66-bdcd09ca0aff",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:d989a3d6-869b-477a-8c34-00205943688f>",
+   "cfg": "mya_Mymr",
+   "primary": 0.139,
+   "cgram": 0.139,
+   "numbers": 1.0,
+   "flag": true
+  },
+  {
+   "id": "b36d4882-738e-48c4-9a6e-5194ae7801b9",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "646913df-775c-42ca-b9e1-f0995c04cb74",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "0225e5f2-3fb5-4db9-aa68-fe62057c3bb1",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "9a64e1af-5b49-42fb-91d4-5c789d45db18",
+   "cfg": "mya_Mymr",
+   "primary": 0.0,
+   "cgram": 0.0,
+   "numbers": null,
+   "flag": true
+  },
+  {
+   "id": "d296e0b0-fdea-44ed-aec2-f574aa666885",
+   "cfg": "mya_Mymr",
+   "primary": 0.06,
+   "cgram": 0.06,
+   "numbers": 0.062,
+   "flag": true
+  },
+  {
+   "id": "<urn:uuid:c3c4b1d2-2de5-4a35-9c1a-88de55667ddd>",
+   "cfg": "mya_Mymr",
+   "primary": 0.196,
+   "cgram": 0.196,
+   "numbers": 0.286,
+   "flag": true
+  }
+ ],
+ "excluded": {
+  "guj_Gujr|too little text": 11,
+  "guj_Gujr|no ocr": 1,
+  "ory_Orya|no ocr": 5,
+  "ory_Orya|too little text": 4,
+  "pan_Guru|too little text": 5,
+  "pan_Guru|no ocr": 2,
+  "sin_Sinh|too little text": 7,
+  "sin_Sinh|no ocr": 3,
+  "mar_Deva|too little text": 4,
+  "npi_Deva|too little text": 10,
+  "npi_Deva|no ocr": 4,
+  "tha_Thai|no ocr": 4,
+  "khm_Khmr|no ocr": 3,
+  "mya_Mymr|no ocr": 3
+ }
+}

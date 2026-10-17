@@ -1,0 +1,11 @@
+tam_Taml: rate 6/7, rolmOCR tokens 4.15B -> 3.56B (CI 2.02-4.04B)
+mal_Mlym: rate 18/18, rolmOCR tokens 0.24B -> 0.24B (CI 0.20-0.24B)
+tel_Telu: rate 17/17, rolmOCR tokens 0.33B -> 0.33B (CI 0.27-0.33B)
+kan_Knda: rate 17/17, rolmOCR tokens 0.27B -> 0.27B (CI 0.22-0.27B)
+sin_Sinh: rate 15/15, rolmOCR tokens 0.17B -> 0.17B (CI 0.13-0.17B)
+ory_Orya: rate 19/19, rolmOCR tokens 0.03B -> 0.03B (CI 0.02-0.03B)
+pan_Guru: rate 14/16, rolmOCR tokens 0.29B -> 0.25B (CI 0.18-0.28B)
+== confirmed: ~4.8B tokens (CI 3.0-5.4B), ~172k docs
+khm_Khmr: rate 8/9, rolmOCR tokens 0.12B -> 0.11B (CI 0.07-0.12B)
+mya_Mymr: rate 8/8, rolmOCR tokens 0.09B -> 0.09B (CI 0.06-0.09B)
+== likely (small n): ~0.2B tokens (CI 0.1-0.2B), ~27k docs

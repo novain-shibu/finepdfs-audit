@@ -11,9 +11,10 @@ Full report: **[REPORT.md](REPORT.md)**.
 2. **Root cause:** mostly the PDFs themselves; in 18 of 24 originals the text layer itself is broken, 19 of 24 were made
    with Microsoft Word, and Word for
    Microsoft 365 with its own font (Nirmala UI) exports PDFs from which only 7-65% of words can be read back.
-3. **rolmOCR path:** for Tamil, Malayalam, Telugu and Kannada the stored text of random documents almost never matches an
-   independent OCR of the same PDF (Malayalam 20/20, Telugu 18/18, Kannada 18/18, Tamil 7/8 below a pre-set threshold;
-   Hindi 0/19, Bengali 0/23). Hand-checked examples are fluent-looking but say something other than what the page says.
+3. **rolmOCR path:** the stored text of random documents almost never matches an independent OCR of the same PDF in
+   7 scripts (Malayalam 18/18, Telugu 17/17, Kannada 17/17, Tamil 6/7, Sinhala 15/15, Odia 19/19, Punjabi 14/16 below a
+   pre-set threshold; Hindi, Bengali, Marathi, Nepali, Gujarati 0 and Thai 3/17). Hand-checked examples are fluent-looking
+   but say something other than what the page says. Roughly 4.8 billion tokens if the sampled rates hold.
    Consistent with GlotOCR Bench (arXiv 2604.12978).
 4. **Recovery without OCR:** inverting OpenType shaping recovers 99.1% of words on held-out Word PDFs in 10 scripts
    (free Tesseract: 86.2%).
