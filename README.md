@@ -6,6 +6,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23432200.svg)](https://doi.org/10.5281/zenodo.23432200)
 
+**Check your own PDFs:** `pip install git+https://github.com/novain-shibu/indic-pdf-check` then `indic-pdf-check file.pdf` -> `OK` / `BROKEN` / `NO_TEXT` for Indian, Sinhala, Thai, Lao, Khmer, Myanmar and Thaana scripts ([indic-pdf-check](https://github.com/novain-shibu/indic-pdf-check)).
+
 An audit of the complex-script configs of [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs).
 Full report: **[REPORT.md](REPORT.md)**.
 
