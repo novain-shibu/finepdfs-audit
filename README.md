@@ -1,5 +1,9 @@
 # FinePDFs audit: corrupted and fabricated complex-script text
 
+[![Same PDF, three views: the page, what copy-paste or a screen reader gets (Malayalam 42%, Hindi 62% of words correct), and what the decoder recovers (99%)](assets/demo.png)](assets/demo.png)
+
+<sub>Same PDF (made with Word for Microsoft 365), three views. Red = wrong word. Copy-paste, search, screen readers and AI pipelines all read the middle column. Text excerpts: Malayalam and Hindi Wikipedia, CC BY-SA 4.0; the image is CC BY-SA 4.0.</sub>
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23432200.svg)](https://doi.org/10.5281/zenodo.23432200)
 
 An audit of the complex-script configs of [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs).
@@ -43,7 +47,7 @@ Full report: **[REPORT.md](REPORT.md)**.
   (`labels26.json`), and the SHA-256 of each frozen decoder version.
 
 ## What is NOT in this repository (on purpose)
-No PDFs, page images, fonts, Wikipedia text or FinePDFs document text are redistributed. Every result names FinePDFs
+No PDFs, page images, fonts, Wikipedia text or FinePDFs document text are redistributed (the one exception is the demo image above: two lines of Wikipedia text in our own test PDF, CC BY-SA 4.0). Every result names FinePDFs
 document IDs, so anyone can fetch the same originals from Common Crawl (FinePDFs records the WARC path and offset) and
 the stored text from the dataset itself.
 
