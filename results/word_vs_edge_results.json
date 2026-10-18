@@ -4,12 +4,18 @@
   "word": {
    "words_pymupdf": 0.4174,
    "words_pdfminer": 0.4174,
-   "letters": 0.8734
+   "letters": 0.8734,
+   "letters_recall": 0.873,
+   "letters_precision": 0.883,
+   "letters_f1": 0.878
   },
   "edge": {
    "words_pymupdf": 0.7739,
    "words_pdfminer": 0.5087,
-   "letters": 1.0
+   "letters": 1.0,
+   "letters_recall": 1.0,
+   "letters_precision": 0.982,
+   "letters_f1": 0.991
   }
  },
  "hi": {
@@ -17,12 +23,18 @@
   "word": {
    "words_pymupdf": 0.6184,
    "words_pdfminer": 0.6067,
-   "letters": 0.8794
+   "letters": 0.8794,
+   "letters_recall": 0.879,
+   "letters_precision": 0.911,
+   "letters_f1": 0.895
   },
   "edge": {
    "words_pymupdf": 0.9612,
    "words_pdfminer": 0.6753,
-   "letters": 1.0
+   "letters": 1.0,
+   "letters_recall": 1.0,
+   "letters_precision": 0.99,
+   "letters_f1": 0.995
   }
  },
  "km": {
@@ -30,12 +42,18 @@
   "word": {
    "words_pymupdf": 0.0,
    "words_pdfminer": 0.0,
-   "letters": 0.3585
+   "letters": 0.3585,
+   "letters_recall": 0.358,
+   "letters_precision": 0.317,
+   "letters_f1": 0.336
   },
   "edge": {
    "words_pymupdf": 0.4746,
    "words_pdfminer": 0.0847,
-   "letters": 1.0
+   "letters": 1.0,
+   "letters_recall": 1.0,
+   "letters_precision": 0.978,
+   "letters_f1": 0.989
   }
  },
  "my": {
@@ -43,12 +61,18 @@
   "word": {
    "words_pymupdf": 0.0687,
    "words_pdfminer": 0.0687,
-   "letters": 0.8742
+   "letters": 0.8742,
+   "letters_recall": 0.874,
+   "letters_precision": 0.834,
+   "letters_f1": 0.854
   },
   "edge": {
    "words_pymupdf": 0.5649,
    "words_pdfminer": 0.1832,
-   "letters": 1.0
+   "letters": 1.0,
+   "letters_recall": 1.0,
+   "letters_precision": 0.945,
+   "letters_f1": 0.972
   }
  }
 }

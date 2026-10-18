@@ -29,8 +29,8 @@ Full report: **[REPORT.md](REPORT.md)**.
    broken text in their own language. About 6.1B mislabelled tokens if the sampled rates hold.
 7. **New in v1.4, government PDFs:** 93.8% of 791 sampled Indian government regional-language PDFs have no correct text (73% scans,
    readable by a screen reader only after OCR; 21% garbled Word exports; 6% clean); no improvement, likely worse (91% -> 97.5%).
-8. **New in v1.4 (corrected in v1.5), a cause - Word's Save as PDF:** same text, same font: Edge keeps 100% of letters, Word 365 only
-   36-88% (Khmer, Malayalam, Hindi, Myanmar); it also garbles Divehi and Lao (Arabic, Hebrew, Thai fine). Free checker: `tools/indic_pdf_check.py`.
+8. **New in v1.4 (corrected in v1.5), a cause - Word's Save as PDF:** same text, same font: Edge loses no letters (a few doubled vowel signs; letter F1
+   97-99.5%), Word 365 loses and garbles them (letter F1 34-90%: Khmer, Myanmar, Malayalam, Hindi); it also garbles Divehi and Lao (Arabic, Hebrew, Thai fine). Free checker: `tools/indic_pdf_check.py`.
 
 ## What is in this repository
 - `REPORT.md` - the report (numbers, method, limits).
