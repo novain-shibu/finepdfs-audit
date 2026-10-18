@@ -1,9 +1,12 @@
 """indic_pdf_check: can a screen reader (or search, or an AI) read this Indian-language PDF?
 
 Reads the PDF's own text layer (what assistive technology and text extractors see) and reports, per PDF:
-  NO_TEXT  - fewer than 50 words in an Indian script: a scan/image or text without Unicode (needs OCR + tagging)
-  BROKEN   - more than 5% of words are impossible spellings (typical of Microsoft Word's PDF export of Indic text)
-  OK       - text layer looks readable
+  NO_TEXT           - no words in an Indian script and almost no text at all: usually a scan/image (needs OCR + tagging)
+  INSUFFICIENT_TEXT - fewer than 50 words in an Indian script: too little to judge
+  UNSUPPORTED       - text present, but not in a script this check covers
+  BROKEN            - more than 5% of words are impossible spellings (typical of Microsoft Word's PDF export of Indic text)
+  OK                - no problem detected by these checks (not a full accessibility check)
+The maintained, installable version (more scripts, per-page checks) is https://github.com/novain-shibu/indic-pdf-check.
 plus the dominant script, word count, broken-word share, producer/creator and whether the PDF is tagged.
 Usage: python indic_pdf_check.py file1.pdf [file2.pdf ...] [--json]
 Local only; reads files, changes nothing. Needs: pymupdf. Uses validity.py (finepdfs-audit) for the spelling rules.
@@ -24,7 +27,12 @@ def check(path):
     best = max(((s,) + scan_text(text, s) for s in SCRIPTS), key=lambda t: t[1])
     script, words, bad = best
     share = bad / words if words else 0.0
-    verdict = "NO_TEXT" if words < 50 else ("BROKEN" if share > 0.05 else "OK")
+    if words >= 50:
+        verdict = "BROKEN" if share > 0.05 else "OK"
+    elif words > 0:
+        verdict = "INSUFFICIENT_TEXT"
+    else:
+        verdict = "NO_TEXT" if sum(1 for c in text if not c.isspace()) < 20 else "UNSUPPORTED"
     md = doc.metadata or {}
     return {"file": Path(path).name, "verdict": verdict, "script": script if words else None, "words": words,
             "broken_share": round(share, 4), "pages": len(doc), "tagged": bool(doc.pdf_catalog() and

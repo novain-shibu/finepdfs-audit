@@ -1,7 +1,7 @@
 """Report section 8, control: is the damage in Word's export, or in the font or the extractor?
 Same text and SAME font, two PDF producers: Word for Microsoft 365 (Save as PDF, word_var.ps1) and Microsoft Edge
 (headless --print-to-pdf of an HTML page using that font). Both read back with the same PyMuPDF and pdfminer.
-Letter-level recall is the fair cross-producer metric (word-level also penalises line breaks that split words).
+Letter-level recall, precision and F1 are the fair cross-producer metrics (word-level also penalises line breaks that split words).
 Inputs: the section 3/8 test texts (Wikipedia, not redistributed) given as <lang>=<text file>=<Word PDF>.
 Usage (Windows with Word + Edge):
   python word_vs_edge_test.py ml=fresh2_ml_a.txt=fresh2_ml_a.pdf hi=fresh2_hi_a.txt=fresh2_hi_a.pdf km=glob_km.txt=glob_km.pdf my=glob_my.txt=glob_my.pdf
@@ -23,8 +23,11 @@ def score(text, pdf):
     rec = lambda t: sum(min(k, collections.Counter(words(t))[w]) for w, k in g.items()) / max(1, sum(g.values()))
     a, b = letters(text), letters(mu)
     sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
-    return {"words_pymupdf": round(rec(mu), 4), "words_pdfminer": round(rec(pm), 4),
-            "letters": round(sum(x.size for x in sm.get_matching_blocks()) / max(1, len(a)), 4)}
+    m = sum(x.size for x in sm.get_matching_blocks())
+    r, pr = m / max(1, len(a)), m / max(1, len(b))  # letters kept (recall) / extracted letters that match (precision)
+    return {"words_pymupdf": round(rec(mu), 4), "words_pdfminer": round(rec(pm), 4), "letters": round(r, 4),
+            "letters_recall": round(r, 3), "letters_precision": round(pr, 3),
+            "letters_f1": round(2 * r * pr / max(1e-9, r + pr), 3)}
 
 
 def main(args):

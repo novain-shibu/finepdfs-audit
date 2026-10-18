@@ -6,7 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23432200.svg)](https://doi.org/10.5281/zenodo.23432200)
 
-**Check your own PDFs:** `pip install git+https://github.com/novain-shibu/indic-pdf-check` then `indic-pdf-check file.pdf` -> `OK` / `BROKEN` / `NO_TEXT` for Indian, Sinhala, Thai, Lao, Khmer, Myanmar and Thaana scripts ([indic-pdf-check](https://github.com/novain-shibu/indic-pdf-check)).
+**Check your own PDFs:** `pip install git+https://github.com/novain-shibu/indic-pdf-check` then `indic-pdf-check file.pdf` -> `OK` / `BROKEN` / `NO_TEXT` / `INSUFFICIENT_TEXT` / `UNSUPPORTED_SCRIPT` for Indian, Sinhala, Thai, Lao, Khmer, Myanmar and Thaana scripts ([indic-pdf-check](https://github.com/novain-shibu/indic-pdf-check)).
 
 An audit of the complex-script configs of [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs).
 Full report: **[REPORT.md](REPORT.md)**.
@@ -20,17 +20,18 @@ Full report: **[REPORT.md](REPORT.md)**.
 3. **rolmOCR path:** the stored text of random documents almost never matches an independent OCR of the same PDF in
    7 scripts (Malayalam 18/18, Telugu 17/17, Kannada 17/17, Tamil 6/7, Sinhala 15/15, Odia 19/19, Punjabi 14/16 below a
    pre-set threshold; Hindi, Bengali, Marathi, Nepali, Gujarati 0 and Thai 3/17). Hand-checked examples are fluent-looking
-   but say something other than what the page says. Roughly 4.8 billion tokens if the sampled rates hold.
+   but say something other than what the page says. Roughly 4.8 billion tokens if the sampled rates hold (a rough extrapolation that counts all tokens of flagged documents; disagreement with a second OCR is a strong signal, not proof for every document).
    Consistent with GlotOCR Bench (arXiv 2604.12978).
 4. **Recovery without OCR:** inverting OpenType shaping recovers 99.1% of words on held-out Word PDFs in 10 scripts
    (free Tesseract: 86.2%).
 5. **New in v1.2, "Gilaki" config:** 84% of a fresh random sample of `glk_Arab` (4.98B tokens) is broken Persian/Arabic
-   PDF text labelled Gilaki (CI 76-90%; clean controls 0/104 and 0/40); about 4.5B tokens if the rate holds.
+   PDF text labelled Gilaki (CI 76-90%; clean controls 0/104 and 0/40); about 4.5B tokens if the rate holds (rough extrapolation).
 6. **New in v1.3, small languages get the broken text:** across 82 non-Latin configs, Southern Balochi (99%), Kashmiri (94%),
    Gilaki (73%) and Mesopotamian Arabic (69%) are mostly broken Persian/Arabic; Assamese, Uyghur and Punjabi are mostly
-   broken text in their own language. About 6.1B mislabelled tokens if the sampled rates hold.
-7. **New in v1.4, government PDFs:** 93.8% of 791 sampled Indian government regional-language PDFs have no correct text (73% scans,
-   readable by a screen reader only after OCR; 21% garbled Word exports; 6% clean); no improvement, likely worse (91% -> 97.5%).
+   broken text in their own language. About 6.1B mislabelled tokens if the sampled rates hold (rough extrapolation, all tokens of flagged documents).
+7. **New in v1.4, government PDFs:** 93.8% of 791 sampled Indian government regional-language PDFs have no correct text (73% had no usable text layer and
+   were sent to OCR - in a check of 9, 8 had no text at all; 21% garbled text layers, mostly Word-made in a checked subset; 6% clean);
+   no improvement between 2017-19 and 2023-25 crawls. A conditional audit of PDFs that Common Crawl captured and FinePDFs kept.
 8. **New in v1.4 (corrected in v1.5), a cause - Word's Save as PDF:** same text, same font: Edge loses no letters (a few doubled vowel signs; letter F1
    97-99.5%), Word 365 loses and garbles them (letter F1 34-90%: Khmer, Myanmar, Malayalam, Hindi); it also garbles Divehi and Lao (Arabic, Hebrew, Thai fine). Free checker: `tools/indic_pdf_check.py`.
 
