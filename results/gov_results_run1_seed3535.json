@@ -1,0 +1,3718 @@
+{
+ "results": {
+  "hin_Deva": {
+   "rows": 160,
+   "gov": 61,
+   "ocr_routed": 46,
+   "truncated": 10,
+   "usable": 3,
+   "broken": 2,
+   "n": 51,
+   "inaccessible": 48,
+   "share": 0.941,
+   "ci95": [
+    0.841,
+    0.98
+   ]
+  },
+  "mar_Deva": {
+   "rows": 160,
+   "gov": 61,
+   "truncated": 12,
+   "ocr_routed": 40,
+   "broken": 4,
+   "usable": 2,
+   "too_short": 3,
+   "n": 46,
+   "inaccessible": 44,
+   "share": 0.957,
+   "ci95": [
+    0.855,
+    0.988
+   ]
+  },
+  "ben_Beng": {
+   "rows": 160,
+   "gov": 2,
+   "ocr_routed": 2,
+   "n": 2,
+   "inaccessible": 2,
+   "share": 1.0,
+   "ci95": [
+    0.342,
+    1.0
+   ]
+  },
+  "guj_Gujr": {
+   "rows": 140,
+   "gov": 30,
+   "broken": 5,
+   "ocr_routed": 20,
+   "usable": 3,
+   "truncated": 2,
+   "n": 28,
+   "inaccessible": 25,
+   "share": 0.893,
+   "ci95": [
+    0.728,
+    0.963
+   ]
+  },
+  "pan_Guru": {
+   "rows": 160,
+   "gov": 21,
+   "broken": 12,
+   "ocr_routed": 7,
+   "truncated": 1,
+   "usable": 1,
+   "n": 20,
+   "inaccessible": 19,
+   "share": 0.95,
+   "ci95": [
+    0.764,
+    0.991
+   ]
+  },
+  "ory_Orya": {
+   "rows": 160,
+   "gov": 30,
+   "ocr_routed": 10,
+   "broken": 14,
+   "usable": 2,
+   "truncated": 3,
+   "too_short": 1,
+   "n": 26,
+   "inaccessible": 24,
+   "share": 0.923,
+   "ci95": [
+    0.759,
+    0.979
+   ]
+  },
+  "tam_Taml": {
+   "rows": 160,
+   "gov": 34,
+   "ocr_routed": 26,
+   "broken": 4,
+   "truncated": 4,
+   "n": 30,
+   "inaccessible": 30,
+   "share": 1.0,
+   "ci95": [
+    0.886,
+    1.0
+   ]
+  },
+  "tel_Telu": {
+   "rows": 160,
+   "gov": 39,
+   "broken": 5,
+   "usable": 2,
+   "truncated": 7,
+   "ocr_routed": 25,
+   "n": 32,
+   "inaccessible": 30,
+   "share": 0.938,
+   "ci95": [
+    0.799,
+    0.983
+   ]
+  },
+  "kan_Knda": {
+   "rows": 160,
+   "gov": 103,
+   "ocr_routed": 77,
+   "usable": 15,
+   "broken": 7,
+   "truncated": 2,
+   "too_short": 2,
+   "n": 99,
+   "inaccessible": 84,
+   "share": 0.848,
+   "ci95": [
+    0.765,
+    0.906
+   ]
+  },
+  "mal_Mlym": {
+   "rows": 160,
+   "gov": 74,
+   "broken": 16,
+   "ocr_routed": 41,
+   "truncated": 12,
+   "usable": 3,
+   "too_short": 2,
+   "n": 60,
+   "inaccessible": 57,
+   "share": 0.95,
+   "ci95": [
+    0.863,
+    0.983
+   ]
+  },
+  "ALL": {
+   "rows": 1580,
+   "gov": 455,
+   "ocr_routed": 294,
+   "truncated": 53,
+   "usable": 31,
+   "broken": 69,
+   "too_short": 8,
+   "n": 394,
+   "inaccessible": 363,
+   "share": 0.921,
+   "ci95": [
+    0.89,
+    0.944
+   ]
+  }
+ },
+ "docs": [
+  {
+   "cfg": "hin_Deva",
+   "row": 31845,
+   "id": "<urn:uuid:7e1f9e27-43e5-4cb3-87d1-524b6933c52b>",
+   "url": "https://sje.rajasthan.gov.in/Tenders/767%20dt%2020-06-2019.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323588284.71/warc/CC-MAIN-20211028100619-20211028130619-00368.warc.gz",
+   "offset": 643794437,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 31848,
+   "id": "<urn:uuid:c01ff3b5-b151-4dc9-832c-74d9a5702785>",
+   "url": "http://jehanabad.bih.nic.in/pdf/Tendor/letter%20No%20695.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917122955.76/warc/CC-MAIN-20170423031202-00630-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 201122062,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 31850,
+   "id": "<urn:uuid:a21a93a0-91b9-46fa-82fb-eb95339b27b1>",
+   "url": "https://livelihoods.rajasthan.gov.in/content/dam/livlihood/RSLDC/Form-and-Download/Circulars/Holiday.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656104240553.67/warc/CC-MAIN-20220703104037-20220703134037-00488.warc.gz",
+   "offset": 420503461,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 31852,
+   "id": "<urn:uuid:6ce97f95-0f3f-47d1-a963-d99d2d236eca>",
+   "url": "http://health.mp.gov.in/sites/default/files/documents/critical-care-PB-Diploma-2014.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514574039.24/warc/CC-MAIN-20190920134548-20190920160548-00237.warc.gz",
+   "offset": 84129905,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 31854,
+   "id": "<urn:uuid:e39870d2-7800-466f-8458-6f4a0b202aab>",
+   "url": "http://health.bih.nic.in/upload_20_11_18/allotment/762(10)_16.11.2018.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-51/segments/1544376823183.3/warc/CC-MAIN-20181209210843-20181209232843-00181.warc.gz",
+   "offset": 153298582,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 31855,
+   "id": "<urn:uuid:848471d9-1f61-4236-b8eb-1745b5565d1a>",
+   "url": "https://www.education.rajasthan.gov.in/content/dam/doitassets/education/school%26secondaryeducation/Secondary%20Education/After01Aug2020/Sports/Jan/19.01.21-Sports.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964359073.63/warc/CC-MAIN-20211130201935-20211130231935-00248.warc.gz",
+   "offset": 816692079,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 31857,
+   "id": "<urn:uuid:cc10c9d1-3f2e-46ba-ae18-436247dddca2>",
+   "url": "https://education.rajasthan.gov.in/content/dam/doitassets/education/school%26secondaryeducation/Secondary%20Education/All_Orders_After_1July'18/Other/01-11-18-Pension.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780056348.59/warc/CC-MAIN-20210918062845-20210918092845-00535.warc.gz",
+   "offset": 277357958,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 84831,
+   "id": "<urn:uuid:485d5f24-cb8f-41ee-a195-97fb47d5917f>",
+   "url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2019/11/2019111475.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-17/segments/1618038056869.3/warc/CC-MAIN-20210410105831-20210410135831-00009.warc.gz",
+   "offset": 281347245,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 84833,
+   "id": "<urn:uuid:575ae61a-4b33-4991-8935-8dffd5ae409a>",
+   "url": "http://csd.bih.nic.in/Upload/Circulars/8000008.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917122992.88/warc/CC-MAIN-20170423031202-00536-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 91347123,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 84841,
+   "id": "<urn:uuid:c2fa6aa4-b07e-444c-a9d9-23c06446399a>",
+   "url": "https://cdn.s3waas.gov.in/s39cf81d8026a9018052c429cc4e56739b/uploads/2019/05/2019050438.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-22/segments/1558232255182.37/warc/CC-MAIN-20190519221616-20190520003616-00388.warc.gz",
+   "offset": 418974227,
+   "class": "usable"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 84844,
+   "id": "<urn:uuid:b9f02581-1be9-48a9-8164-0636a5b6ed06>",
+   "url": "https://cdn.s3waas.gov.in/s3ba2fd310dcaa8781a9a652a31baf3c68/uploads/2020/02/2020021993.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780057337.81/warc/CC-MAIN-20210922072047-20210922102047-00581.warc.gz",
+   "offset": 203552264,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 94899,
+   "id": "<urn:uuid:d33e194b-b93b-4d45-a5e5-00e2e0d73416>",
+   "url": "https://highcourt.cg.gov.in/rec/2022/dc/adv_141_13012022.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656103329963.19/warc/CC-MAIN-20220627073417-20220627103417-00757.warc.gz",
+   "offset": 359587735,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 94903,
+   "id": "<urn:uuid:3c614202-4b23-4463-8210-55d73b99d3be>",
+   "url": "https://cdn.s3waas.gov.in/s368ce199ec2c5517597ce0a4d89620f55/uploads/2021/08/2021080437.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323585380.70/warc/CC-MAIN-20211021005314-20211021035314-00130.warc.gz",
+   "offset": 264169168,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 94907,
+   "id": "<urn:uuid:34072847-a963-45f5-b964-1cc7eae189fc>",
+   "url": "http://itiharyana.gov.in/download/petty_purchase_instructions_30M%209.6.15.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-47/segments/1510934806708.81/warc/CC-MAIN-20171122233044-20171123013044-00259.warc.gz",
+   "offset": 161158386,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 94909,
+   "id": "<urn:uuid:167d2044-f82e-48b1-b8d0-f8e723b088b9>",
+   "url": "https://home.rajasthan.gov.in/content/dam/homeportal/anticorruptionbureaudepartment/FIR-2024/FIR-185-2024.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738831951669.40/warc/CC-MAIN-20250210151118-20250210181118-00300.warc.gz",
+   "offset": 269822248,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 94917,
+   "id": "<urn:uuid:4a0044b0-c1c5-4f43-8567-fdb4cdb9344a>",
+   "url": "http://banda.nic.in/Documents/recents%20new%20updates/chikitsauppar.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218188924.7/warc/CC-MAIN-20170322212948-00028-ip-10-233-31-227.ec2.internal.warc.gz",
+   "offset": 30883351,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 121612,
+   "id": "<urn:uuid:4bf5a406-3fbd-4ecd-9975-09ca7a233631>",
+   "url": "http://indore.nic.in/Election/Tender/N_Outsource3503.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-43/segments/1539583514443.85/warc/CC-MAIN-20181022005000-20181022030500-00418.warc.gz",
+   "offset": 179485932,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 121613,
+   "id": "<urn:uuid:60162cf7-0f2b-42e2-921a-4408473d6c6c>",
+   "url": "https://www.trai.gov.in/sites/default/files/webinar_04032022_Hindi.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-40/segments/1695233506539.13/warc/CC-MAIN-20230923231031-20230924021031-00051.warc.gz",
+   "offset": 1147600791,
+   "class": "broken"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 121616,
+   "id": "<urn:uuid:9aabcd6b-7519-4796-a732-09f425a59f22>",
+   "url": "https://uppolice.gov.in/site/writereaddata/UploadedPressRelease/pdf/PRP_202404040858044077.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-22/segments/1715971058611.55/warc/CC-MAIN-20240523050122-20240523080122-00677.warc.gz",
+   "offset": 507721512,
+   "class": "usable"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 121617,
+   "id": "<urn:uuid:0dd6b90d-d9eb-4748-9c27-027a422afeba>",
+   "url": "http://www.hppsc.hp.gov.in/oldhppsc/file.axd?file=2017%2F3%2FHindi+Paper-IV.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-22/segments/1715971058675.22/warc/CC-MAIN-20240523235012-20240524025012-00509.warc.gz",
+   "offset": 39147022,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 121620,
+   "id": "<urn:uuid:a042c5d1-7035-4549-bc8b-503cef413f95>",
+   "url": "https://hte.rajasthan.gov.in/hteCircular/PI_396_30.12.2021_Extension%20of%20date.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662584398.89/warc/CC-MAIN-20220525085552-20220525115552-00013.warc.gz",
+   "offset": 352084381,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 121623,
+   "id": "<urn:uuid:a0754844-1500-4ec7-a0b0-62e00c8f843c>",
+   "url": "http://urban.bih.nic.in/Allotment/Allotment-02-06-03-2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917120206.98/warc/CC-MAIN-20170423031200-00267-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 411871074,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 121624,
+   "id": "<urn:uuid:433471f4-6063-4cda-a1a9-7615fef58a8c>",
+   "url": "http://upforest.gov.in/MediaGallery/Sawmills_5.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-43/segments/1570987841291.79/warc/CC-MAIN-20191024040131-20191024063631-00132.warc.gz",
+   "offset": 193422341,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 328639,
+   "id": "<urn:uuid:c68ef106-efbe-4cfc-ad82-7ce4f882e035>",
+   "url": "https://education.rajasthan.gov.in/content/dam/doitassets/education/school%26secondaryeducation/Secondary%20Education/Posting%20order/RPSC/28.12.17_RPSCHM%20Postingorder.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-04/segments/1610703511903.11/warc/CC-MAIN-20210117081748-20210117111748-00379.warc.gz",
+   "offset": 323776691,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 328641,
+   "id": "<urn:uuid:b45f1d12-fd0f-4579-bcc2-da27d0402724>",
+   "url": "https://uppolice.gov.in/site/writereaddata/UploadedPressRelease/pdf/PRP_202409241741385495.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-46/segments/1730477027987.79/warc/CC-MAIN-20241107083707-20241107113707-00400.warc.gz",
+   "offset": 537578801,
+   "class": "broken"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 328642,
+   "id": "<urn:uuid:da33ea39-f124-436b-aeaf-7ec81b1be6a3>",
+   "url": "http://cbec.gov.in/resources/htdocs-cbec/excise/cx-act/notifications/notfns-2017/cx-nt2017/cent07h-2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-43/segments/1508187825900.44/warc/CC-MAIN-20171023111450-20171023131450-00643.warc.gz",
+   "offset": 54796335,
+   "class": "usable"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 328644,
+   "id": "<urn:uuid:7161c521-0b39-42c4-ab65-b8fb6e6156d2>",
+   "url": "http://urban.rajasthan.gov.in/content/dam/raj/udh/udh%20department/pdf/Orders-and-Circulars-1/01102019.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-51/segments/1575540518882.71/warc/CC-MAIN-20191209121316-20191209145316-00555.warc.gz",
+   "offset": 144605454,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 328646,
+   "id": "<urn:uuid:2a4e5902-1cb8-4bb1-bc78-2b52b2ec02cf>",
+   "url": "http://urban.rajasthan.gov.in/content/dam/raj/udh/development-authority/jda-jodhpur/pdf/tender/nitnorth04_201718.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-51/segments/1575540518882.71/warc/CC-MAIN-20191209121316-20191209145316-00555.warc.gz",
+   "offset": 143839665,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 328650,
+   "id": "<urn:uuid:f00e6fa9-d64f-4810-b6a0-f61d55bdd676>",
+   "url": "http://tele.rb.railnet.gov.in/raw-attachment/wiki/UpLoads/Tele_Cir_1-2018hin.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-16/segments/1585370496523.5/warc/CC-MAIN-20200330023050-20200330053050-00537.warc.gz",
+   "offset": 146208064,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 328652,
+   "id": "<urn:uuid:a939441e-236a-496b-9d80-f6f5a90d94d9>",
+   "url": "https://forest.jharkhand.gov.in/budgetFile/Sub%20Allotment%20No%20840%20dt%2005.07.2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446711017.45/warc/CC-MAIN-20221205132617-20221205162617-00754.warc.gz",
+   "offset": 286034479,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 328655,
+   "id": "<urn:uuid:8e15b45a-9611-440b-aa6c-71068de573c2>",
+   "url": "http://minorirrigation.bihar.gov.in/Circulars/1588%20dt%2019.08.2020.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-50/segments/1606141176922.14/warc/CC-MAIN-20201124170142-20201124200142-00609.warc.gz",
+   "offset": 62001392,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 387576,
+   "id": "<urn:uuid:0f7a9c6f-c662-4c48-95dd-a14061368943>",
+   "url": "https://cdn.s3waas.gov.in/s34f4adcbf8c6f66dcfc8a3282ac2bf10a/uploads/2021/01/2021012252.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623487629209.28/warc/CC-MAIN-20210617041347-20210617071347-00085.warc.gz",
+   "offset": 164273386,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 387577,
+   "id": "<urn:uuid:02868cf7-fe1f-4dd0-9731-d76499794dd8>",
+   "url": "http://asipatnacircle.gov.in/ten/Tender%20Notice20.2.24.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-18/segments/1712296817033.56/warc/CC-MAIN-20240415205332-20240415235332-00829.warc.gz",
+   "offset": 2805272,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 387581,
+   "id": "<urn:uuid:95957e83-c84f-4be9-a699-359da4c929bf>",
+   "url": "http://biharvidhanparishad.gov.in/House/H188/TP/T5318-2.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-13/segments/1521257646189.21/warc/CC-MAIN-20180319003616-20180319023616-00293.warc.gz",
+   "offset": 35751958,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 387592,
+   "id": "<urn:uuid:22692635-3f1d-4f70-80c2-cf90926881cd>",
+   "url": "https://taxboard.rajasthan.gov.in/Images/pdf/1445-13.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323587794.19/warc/CC-MAIN-20211026011138-20211026041138-00322.warc.gz",
+   "offset": 696589040,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 521101,
+   "id": "<urn:uuid:81a5cfc9-0a92-4cb2-995f-8890b5e83728>",
+   "url": "http://bsbccl.bih.nic.in/Proceeding/CorrigendumFile/_020320171523.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-13/segments/1521257648103.60/warc/CC-MAIN-20180322225408-20180323005408-00129.warc.gz",
+   "offset": 54981390,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 521107,
+   "id": "<urn:uuid:0f9ac852-6de7-44af-a0cc-bdd026f370f5>",
+   "url": "https://education.rajasthan.gov.in/content/dam/doitassets/education/school%26secondaryeducation/Secondary%20Education/All_Orders_After_1July'18/CSection/03-01-19-c7hindipadavanat.PDF",
+   "file_path": "crawl-data/CC-MAIN-2020-50/segments/1606141183514.25/warc/CC-MAIN-20201125154647-20201125184647-00287.warc.gz",
+   "offset": 276762023,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 521112,
+   "id": "<urn:uuid:bb693f8d-18d1-40ac-b022-eed35b7304d2>",
+   "url": "http://transport.bih.nic.in/News/3252-21-06-2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-47/segments/1542039742567.46/warc/CC-MAIN-20181115054518-20181115080518-00535.warc.gz",
+   "offset": 345873110,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 521115,
+   "id": "<urn:uuid:7b28b7c9-07ff-412b-a39d-069aff9b71d4>",
+   "url": "https://dgrpg.punjab.gov.in/wp-content/uploads/2020/03/Order-Regarding-Supply-of-Sugar.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-21/segments/1620243988986.98/warc/CC-MAIN-20210509122756-20210509152756-00239.warc.gz",
+   "offset": 235481685,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688906,
+   "id": "<urn:uuid:efd67455-e366-4a82-aa0b-e8db46de92f5>",
+   "url": "http://chaibasa.nic.in/EDUCATION_REPORTS/Paramarshi%201st%20Merit%20List.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-22/segments/1495463605188.47/warc/CC-MAIN-20170522151715-20170522171715-00587.warc.gz",
+   "offset": 64247004,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688908,
+   "id": "<urn:uuid:96b7cc41-dbd4-42db-84bb-59dc84bff9f8>",
+   "url": "http://www.medicaleducation.mp.gov.in/uploads/media/tccgairsakchanik.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-09/segments/1550247482186.20/warc/CC-MAIN-20190217152248-20190217174248-00308.warc.gz",
+   "offset": 403907128,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688909,
+   "id": "<urn:uuid:1078e02a-ead9-4946-aac9-4e121c6baa44>",
+   "url": "https://home.rajasthan.gov.in/content/dam/homeportal/RajasthanPoliceAcademy/PDF/7989.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-51/segments/1733066056346.32/warc/CC-MAIN-20241210005249-20241210035249-00683.warc.gz",
+   "offset": 264186578,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688910,
+   "id": "<urn:uuid:9d8f0d87-dce3-4cfe-bafa-69de1ceff97a>",
+   "url": "https://vpkas.icar.gov.in/upload/uploadfiles/files/form3.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964363332.1/warc/CC-MAIN-20211207014802-20211207044802-00246.warc.gz",
+   "offset": 638870892,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688911,
+   "id": "<urn:uuid:81c393c6-ef81-40d0-8ec6-41d17f927a88>",
+   "url": "https://mpvidhansabha.nic.in/adhisuchna/p2-060723-1.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-40/segments/1695233510942.97/warc/CC-MAIN-20231002001302-20231002031302-00812.warc.gz",
+   "offset": 433898854,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688913,
+   "id": "<urn:uuid:c125093c-34b4-49c5-9244-2045f7d95f48>",
+   "url": "https://mines.rajasthan.gov.in/dmgcms/Static/files/06918.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-30/segments/1720763514580.77/warc/CC-MAIN-20240714124600-20240714154600-00749.warc.gz",
+   "offset": 347630108,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688915,
+   "id": "<urn:uuid:77d74252-fba9-4e30-b26f-cdc9494dd3a3>",
+   "url": "https://rsmssb.rajasthan.gov.in/download_file?downloadFileId=733",
+   "file_path": "crawl-data/CC-MAIN-2021-17/segments/1618039617701.99/warc/CC-MAIN-20210423101141-20210423131141-00199.warc.gz",
+   "offset": 593669072,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688917,
+   "id": "<urn:uuid:a6052ffe-e92a-45c3-9097-3c0565e10dad>",
+   "url": "http://punjabsssb.gov.in/Downloads/2016/scan0167_02.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-39/segments/1505818695375.98/warc/CC-MAIN-20170926085159-20170926105159-00540.warc.gz",
+   "offset": 272562632,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688918,
+   "id": "<urn:uuid:fb549426-6d9c-4f4c-bd6c-50daee7a92ff>",
+   "url": "https://www.bpsc.bih.nic.in/Advt/NB-2023-08-05-03.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-40/segments/1695233510942.97/warc/CC-MAIN-20231002001302-20231002031302-00811.warc.gz",
+   "offset": 731041937,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688919,
+   "id": "<urn:uuid:2d183691-0fa9-4683-9c6f-04a6cfdaa864>",
+   "url": "http://www.hfdc.gov.in/DOWNLOADS/Order.PDF",
+   "file_path": "crawl-data/CC-MAIN-2020-50/segments/1606141171077.4/warc/CC-MAIN-20201124025131-20201124055131-00637.warc.gz",
+   "offset": 120411816,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688921,
+   "id": "<urn:uuid:7959a6c7-67ca-4296-9b62-8d2ba213d52a>",
+   "url": "http://gad.bih.nic.in/Documents/Transfers/TO-02-02-01-2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-13/segments/1521257647530.92/warc/CC-MAIN-20180320185657-20180320205657-00578.warc.gz",
+   "offset": 123084162,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "hin_Deva",
+   "row": 688922,
+   "id": "<urn:uuid:199db7fd-ab39-42e4-afa9-52dcb69f8b34>",
+   "url": "http://health.rajasthan.gov.in/content/dam/doitassets/Medical-and-Health-Portal/Directorate-Of-Ayurved/pdf/Year%202017/May%202017/8861-82%20%204-5-17.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-13/segments/1552912202199.51/warc/CC-MAIN-20190320024206-20190320050206-00334.warc.gz",
+   "offset": 96081744,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 14437,
+   "id": "<urn:uuid:eb21ae68-3cd9-4e4b-809d-08a042b8a2d0>",
+   "url": "https://www.nmmc.gov.in/navimumbai/assets/251/2022/11/mediafiles/SC_R_Date_27082021.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-10/segments/1707947474670.19/warc/CC-MAIN-20240227021813-20240227051813-00108.warc.gz",
+   "offset": 884101805,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 14440,
+   "id": "<urn:uuid:604c9a44-3382-4d40-9bf6-5d1231acb05a>",
+   "url": "http://www.krishi.maharashtra.gov.in/Site/Upload/Pdf/20150203%20-%20%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%20%E0%A4%B5%20%E0%A4%85%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%20%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%BE%E0%A4%B1%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87%20%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%20%E0%A4%A4%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%20%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%A4%20%E0%A4%B5%E0%A4%B3%E0%A4%B5%E0%A4%BF%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A5%87%20%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%A8%E0%A4%BE%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%A8%20%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A5%87%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%A4%20%E0%A4%B6%E0%A4%BE%20%E0%A4%A8%E0%A4%BF%203-2-2015.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107867463.6/warc/CC-MAIN-20201019232613-20201020022613-00239.warc.gz",
+   "offset": 160831467,
+   "class": "broken"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 14444,
+   "id": "<urn:uuid:175bca49-d9ff-4a1e-8882-ba0795445831>",
+   "url": "https://cdn.s3waas.gov.in/s3d9d4f495e875a2e075a1a4a6e1b9770f/uploads/2018/04/2018042563.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964358570.48/warc/CC-MAIN-20211128164634-20211128194634-00230.warc.gz",
+   "offset": 243559343,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 14447,
+   "id": "<urn:uuid:7f876468-4d7f-493c-b21e-964e66506602>",
+   "url": "https://mahasahakar.maharashtra.gov.in/Site/Upload/GR/Circular-10.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623487648194.49/warc/CC-MAIN-20210619111846-20210619141846-00555.warc.gz",
+   "offset": 337363141,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 14449,
+   "id": "<urn:uuid:ad95e7a6-ccb6-43ff-a67c-4e9687e55770>",
+   "url": "http://zpjalgaon.gov.in/Pdf/Recruitments/2019030214.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-13/segments/1552912202671.79/warc/CC-MAIN-20190322135230-20190322161230-00090.warc.gz",
+   "offset": 394885030,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 14452,
+   "id": "<urn:uuid:ab999a59-ef8b-41be-91a1-dc1adc4c6a46>",
+   "url": "http://mumbairlypolice.gov.in/new/images/PDF/HpzvolVR07Nov2018104237.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-47/segments/1542039741087.23/warc/CC-MAIN-20181112193627-20181112215627-00297.warc.gz",
+   "offset": 172284443,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 14454,
+   "id": "<urn:uuid:50b3342b-6619-413d-a1e4-7550da122f6b>",
+   "url": "https://cdn.s3waas.gov.in/s3f0e52b27a7a5d6a1a87373dffa53dbe5/uploads/2020/02/2020022783.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623488556133.92/warc/CC-MAIN-20210624141035-20210624171035-00012.warc.gz",
+   "offset": 160785218,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 18136,
+   "id": "<urn:uuid:17afdfb9-fcc3-43cf-9689-d71c0df52341>",
+   "url": "https://www.nmcnagpur.gov.in/assets/250/2019/06/mediafiles/NEWS1_11062019.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-26/segments/1560627999539.60/warc/CC-MAIN-20190624130856-20190624152856-00513.warc.gz",
+   "offset": 854493915,
+   "class": "usable"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 18139,
+   "id": "<urn:uuid:75d75ffb-e893-42fe-9712-5d57be5ad389>",
+   "url": "https://pcmcindia.gov.in/admin/cms_upload/rti_manual/2690329511420804468.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-33/segments/1722640997721.66/warc/CC-MAIN-20240811110531-20240811140531-00319.warc.gz",
+   "offset": 350795775,
+   "class": "broken"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 18148,
+   "id": "<urn:uuid:5925cbc7-3c12-4fd4-b70b-d0a16b40dcf1>",
+   "url": "https://www.mbmc.gov.in/master_c/downloadfile/23415",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623488249738.50/warc/CC-MAIN-20210620144819-20210620174819-00199.warc.gz",
+   "offset": 805793171,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 18149,
+   "id": "<urn:uuid:61f5a8ae-2274-4312-8200-f3eba98ab131>",
+   "url": "http://www.mahaforest.nic.in/fckimagefile/Tiger%20Conservation%20Foundation%20of%20Tiger%20Reserves%20in%20M_S_0001.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-47/segments/1542039744649.77/warc/CC-MAIN-20181118201101-20181118222421-00057.warc.gz",
+   "offset": 455326129,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 18153,
+   "id": "<urn:uuid:32caca41-02f2-4d8c-9dd0-6078fa77317d>",
+   "url": "http://amravati.nic.in/docs/employee_corner/Talathi_2012.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-30/segments/1500549425751.38/warc/CC-MAIN-20170726022311-20170726042311-00474.warc.gz",
+   "offset": 16637036,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 18155,
+   "id": "<urn:uuid:6d6c0d9e-b3f8-45d2-b2a8-a29ee03a31cb>",
+   "url": "http://poghodegaon.gov.in/assets/pdf/notification.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-16/segments/1585371893683.94/warc/CC-MAIN-20200410075105-20200410105605-00148.warc.gz",
+   "offset": 134809398,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 40748,
+   "id": "<urn:uuid:eb38c243-47da-4ea3-8410-3559a4249672>",
+   "url": "https://www.mbmc.gov.in/downloads/health/5_20210710.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320300253.51/warc/CC-MAIN-20220117000754-20220117030754-00578.warc.gz",
+   "offset": 959423766,
+   "class": "broken"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 40753,
+   "id": "<urn:uuid:08e6f81e-93bc-42e5-8c91-ebf0eb4ec4ff>",
+   "url": "https://www.nmmc.gov.in/navimumbai/assets/251/2020/02/mediafiles/RTI_Disaster_Mgmt_16.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107907213.64/warc/CC-MAIN-20201030033658-20201030063658-00306.warc.gz",
+   "offset": 827081298,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 40756,
+   "id": "<urn:uuid:8a689953-11b3-4b5b-b0cf-f240f26be1bf>",
+   "url": "https://www.pcmcindia.gov.in/admin/cms_upload/agenda_file/9721619051547187512.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224654031.92/warc/CC-MAIN-20230608003500-20230608033500-00610.warc.gz",
+   "offset": 995549391,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 40761,
+   "id": "<urn:uuid:02f825a9-680f-4b10-a9ef-4b8fae6b3fe1>",
+   "url": "https://www.pcmcindia.gov.in/admin/cms_upload/agenda_file/adjournment/239841291545388370.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224654031.92/warc/CC-MAIN-20230608003500-20230608033500-00611.warc.gz",
+   "offset": 1011611318,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 40764,
+   "id": "<urn:uuid:8b3a11f9-9926-4bf7-b520-4336bc433079>",
+   "url": "https://cdn.s3waas.gov.in/s3db85e2590b6109813dafa101ceb2faeb/uploads/2020/11/2020110250.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-17/segments/1618039560245.87/warc/CC-MAIN-20210422013104-20210422043104-00304.warc.gz",
+   "offset": 259098525,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 55762,
+   "id": "<urn:uuid:965b830a-ec11-450c-ae68-e0ba7dee9977>",
+   "url": "https://cdn.s3waas.gov.in/s3d1f491a404d6854880943e5c3cd9ca25/uploads/2020/02/2020020438.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964360951.9/warc/CC-MAIN-20211201203843-20211201233843-00178.warc.gz",
+   "offset": 239527207,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 55766,
+   "id": "<urn:uuid:6366c1ff-5cc2-49ab-b463-2e0067619d3d>",
+   "url": "http://mahaprisons.gov.in/Uploads/pdf_GR/6213cc5d-b3b4-41a8-84ee-55e278b4ec99LA.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-09/segments/1550247526282.78/warc/CC-MAIN-20190222200334-20190222222334-00429.warc.gz",
+   "offset": 160878156,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 120174,
+   "id": "<urn:uuid:e3e36c46-d34e-48db-acf1-11d833e0d22a>",
+   "url": "https://zpsolapur.gov.in/htmldocs/health_dept/health-sr/2018_Final/MPW_Handi.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-46/segments/1730477028326.66/warc/CC-MAIN-20241113040054-20241113070054-00029.warc.gz",
+   "offset": 993137127,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 120175,
+   "id": "<urn:uuid:199b1d59-5879-4349-91cc-1d87da7ac555>",
+   "url": "http://aurangabadcitypolice.gov.in/pdf/presspdf/22.01.2019.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-09/segments/1550247494424.70/warc/CC-MAIN-20190220024254-20190220050254-00246.warc.gz",
+   "offset": 28618592,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 120181,
+   "id": "<urn:uuid:137a2313-777e-4551-a606-ffaefaec0689>",
+   "url": "https://www.zpsatara.gov.in/files/30-06-2018-Interview-selection-list.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780057416.67/warc/CC-MAIN-20210923013955-20210923043955-00229.warc.gz",
+   "offset": 1067056846,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 120183,
+   "id": "<urn:uuid:0df0e8f0-7fe2-4a8c-ad29-1cfb64336cd5>",
+   "url": "https://old.mbmc.gov.in/master_c/downloadfile/30236",
+   "file_path": "crawl-data/CC-MAIN-2022-33/segments/1659882571987.60/warc/CC-MAIN-20220813202507-20220813232507-00632.warc.gz",
+   "offset": 418002845,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 120185,
+   "id": "<urn:uuid:3d3070bc-9ffd-41a7-9643-67d3934ee650>",
+   "url": "https://cdn.s3waas.gov.in/s39ad6aaed513b73148b7d49f70afcfb32/uploads/2018/07/2018070970.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-13/segments/1552912202781.83/warc/CC-MAIN-20190323101107-20190323123107-00218.warc.gz",
+   "offset": 438451095,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 120191,
+   "id": "<urn:uuid:f3410714-4947-4a77-90d1-2d89eb3fd7b5>",
+   "url": "https://nagarzp.gov.in/pdf/e-FSWL-JrDrft.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-46/segments/1730477028326.66/warc/CC-MAIN-20241113040054-20241113070054-00023.warc.gz",
+   "offset": 390296056,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 129324,
+   "id": "<urn:uuid:4fc7800f-4947-4a9e-af75-5a1ba9fee61b>",
+   "url": "https://cetonline.karnataka.gov.in/kea/20documents/cet20_Kanpressnote.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662539049.32/warc/CC-MAIN-20220521080921-20220521110921-00002.warc.gz",
+   "offset": 231210206,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 129328,
+   "id": "<urn:uuid:3d88ef29-5aa9-481f-b34a-965e9bbb1c7f>",
+   "url": "http://mahaagri.gov.in/level3PdfDisp.aspx?Id=11&subid=12&sub2id=1&FileName=3+tan_manag.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-05/segments/1516084886639.11/warc/CC-MAIN-20180116184540-20180116204540-00739.warc.gz",
+   "offset": 211053272,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 129332,
+   "id": "<urn:uuid:28e55558-6a3a-4413-ab9e-93f172049f25>",
+   "url": "http://zpyavatmal.gov.in/pdfdocs/gb_03.02.15.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-43/segments/1508187823153.58/warc/CC-MAIN-20171018214541-20171018234541-00865.warc.gz",
+   "offset": 621362427,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 129333,
+   "id": "<urn:uuid:522d8474-ac24-4890-8326-f5c9296f8eb8>",
+   "url": "https://wrd.maharashtra.gov.in/Upload/PDF/Resolution%20Of%20Meeting%20No87.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-33/segments/1659882572833.95/warc/CC-MAIN-20220817032054-20220817062054-00595.warc.gz",
+   "offset": 553277531,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 129336,
+   "id": "<urn:uuid:a29f22be-e7b6-4950-874a-92ba60f638e3>",
+   "url": "https://mpsc.gov.in/downloadFile/english/3400",
+   "file_path": "crawl-data/CC-MAIN-2024-30/segments/1720763514564.41/warc/CC-MAIN-20240714094004-20240714124004-00756.warc.gz",
+   "offset": 357882295,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 129340,
+   "id": "<urn:uuid:77e90cd0-ed68-42d0-a2f1-2fdf67dcc309>",
+   "url": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2019/04/2019042626.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-22/segments/1558232257361.12/warc/CC-MAIN-20190523184048-20190523210048-00490.warc.gz",
+   "offset": 428872879,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 147961,
+   "id": "<urn:uuid:ab1b4614-b6ac-4982-9d03-14b3ff16e282>",
+   "url": "https://nagpurgraminpolice.gov.in/pdf/ac/eff72c88ee2ae901f5957b7908cb7671.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-04/segments/1547584520525.90/warc/CC-MAIN-20190124100934-20190124122934-00628.warc.gz",
+   "offset": 574003558,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 147965,
+   "id": "<urn:uuid:76048f7b-1e86-4545-a70e-2cb3485da316>",
+   "url": "https://nagpurgraminpolice.gov.in/pdf/ac/06ec1f9a874790d6e7234f358a413a56.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-04/segments/1547584519382.88/warc/CC-MAIN-20190124055924-20190124081924-00541.warc.gz",
+   "offset": 592844053,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 147968,
+   "id": "<urn:uuid:f5abaff8-8e69-421d-8a3f-bcb39fe3b1d1>",
+   "url": "http://pune.nic.in/content/branches/nagarparishad/nagardata/pripatrak.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-13/segments/1521257648313.85/warc/CC-MAIN-20180323141827-20180323161827-00404.warc.gz",
+   "offset": 244432264,
+   "class": "broken"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 147972,
+   "id": "<urn:uuid:6fb1abfc-ca7a-4659-b71a-cd9c914c2ace>",
+   "url": "https://www.mumbaipolice.gov.in/files/Recruitment/160.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-40/segments/1695233510697.51/warc/CC-MAIN-20230930145921-20230930175921-00634.warc.gz",
+   "offset": 989578610,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 147978,
+   "id": "<urn:uuid:54191252-f37b-42ca-be2a-f27f8c44d2df>",
+   "url": "http://www.nagpurrailwaypolice.gov.in/sites/default/files/fir%20113_0.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964362219.5/warc/CC-MAIN-20211202114856-20211202144856-00469.warc.gz",
+   "offset": 122398622,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166280,
+   "id": "<urn:uuid:b2818fc7-278f-4fc7-906b-b33838fb032e>",
+   "url": "http://zpparbhani.gov.in/downloads/drselu_New.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030337490.6/warc/CC-MAIN-20221004085909-20221004115909-00298.warc.gz",
+   "offset": 95456525,
+   "class": "usable"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166281,
+   "id": "<urn:uuid:eb25384a-6b36-42b8-882d-210c25efbeea>",
+   "url": "https://www.zpsatara.gov.in/files/CEA%20Prasask%202017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623488556133.92/warc/CC-MAIN-20210624141035-20210624171035-00197.warc.gz",
+   "offset": 989045002,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166284,
+   "id": "<urn:uuid:bf67c774-8848-417c-ac2d-52df6b4d7a52>",
+   "url": "https://www.zpsatara.gov.in/files/05_03_2018_4_Steno_HG.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623488556133.92/warc/CC-MAIN-20210624141035-20210624171035-00197.warc.gz",
+   "offset": 988143357,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166285,
+   "id": "<urn:uuid:3864a6bd-4d3b-42da-8e3d-e7d64a954cb2>",
+   "url": "https://nagpurgraminpolice.gov.in/pdf/ac/0f6429286b1e6c2a1ce202cb15915241.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-04/segments/1547584519382.88/warc/CC-MAIN-20190124055924-20190124081924-00552.warc.gz",
+   "offset": 598108255,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166286,
+   "id": "<urn:uuid:be7589d7-41ed-46cf-b58f-65a4ab298e75>",
+   "url": "https://nagpurgraminpolice.gov.in/pdf/ac/f4c5f667944f49889fa6745c5c0a609d.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-04/segments/1547584519382.88/warc/CC-MAIN-20190124055924-20190124081924-00553.warc.gz",
+   "offset": 583652236,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166289,
+   "id": "<urn:uuid:e6f04694-c072-4c64-ac1c-abac7e927bb6>",
+   "url": "http://igrmaharashtra.gov.in/SB_ORGANISATION/DATA/Orders/stamp_Order/EXEMPTION/47-G.O.Stamp-%2016%20Jully%202011%20-%202.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-39/segments/1505818693240.90/warc/CC-MAIN-20170925182814-20170925202814-00077.warc.gz",
+   "offset": 171877882,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166292,
+   "id": "<urn:uuid:49ec1535-404f-43ca-9ba4-0fd7a4d92355>",
+   "url": "https://cdn.s3waas.gov.in/s3f0e52b27a7a5d6a1a87373dffa53dbe5/uploads/2020/05/2020050649.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623488556133.92/warc/CC-MAIN-20210624141035-20210624171035-00183.warc.gz",
+   "offset": 163709349,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166293,
+   "id": "<urn:uuid:05ac2616-a67d-4ef9-84df-f6b1ebd87982>",
+   "url": "https://cdn.s3waas.gov.in/s32b24d495052a8ce66358eb576b8912c8/uploads/2021/04/2021041837.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-21/segments/1620243990929.24/warc/CC-MAIN-20210512131604-20210512161604-00636.warc.gz",
+   "offset": 183538614,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mar_Deva",
+   "row": 166299,
+   "id": "<urn:uuid:eec59c24-a649-4c38-a98f-902772dbca59>",
+   "url": "https://www.nmmc.gov.in/c/document_library/get_file?uuid=adaf021b-ecb8-4406-9f94-2433c684e9d1&groupId=10156",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710898.93/warc/CC-MAIN-20221202050510-20221202080510-00173.warc.gz",
+   "offset": 927580088,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ben_Beng",
+   "row": 374858,
+   "id": "<urn:uuid:911daada-0d48-46c5-ba3d-d9b07e8c2833>",
+   "url": "http://ceowestbengal.nic.in/UploadFiles/PE2019/7A_AC68.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-40/segments/1600400203096.42/warc/CC-MAIN-20200922031902-20200922061902-00330.warc.gz",
+   "offset": 30454978,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ben_Beng",
+   "row": 446170,
+   "id": "<urn:uuid:ff902e4d-0dc2-4ae0-8934-9a35ba2f84aa>",
+   "url": "https://ssa.assam.gov.in/sites/default/files/swf_utility_folder/departments/ssam_medhassu_in_oid_5/this_comm/Reading_2.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-50/segments/1606141168074.3/warc/CC-MAIN-20201123211528-20201124001528-00494.warc.gz",
+   "offset": 508620906,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13320,
+   "id": "<urn:uuid:0626cb6e-c809-4c37-9576-ab56dd1f6b5e>",
+   "url": "https://www.fsi.mea.gov.in/Images/CPV/Leaders-Summit-21-04-2021-Gujarati.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964359082.78/warc/CC-MAIN-20211201022332-20211201052332-00342.warc.gz",
+   "offset": 880308595,
+   "class": "broken"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13324,
+   "id": "<urn:uuid:d1e7e109-58c2-46f9-961e-ccea874a4fca>",
+   "url": "https://dahod.gujarat.gov.in/assets/downloads/rti_prant_limkheda_03072019.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-47/segments/1573496665767.51/warc/CC-MAIN-20191112202920-20191112230920-00490.warc.gz",
+   "offset": 392064619,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13325,
+   "id": "<urn:uuid:e154bbfe-b6ef-464a-8a31-6db4459d6301>",
+   "url": "https://gpssb.gujarat.gov.in/writereaddata/Portal/images/pdf/CANDIDATE-INSTRUCTION_for%20website.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710936.10/warc/CC-MAIN-20221203175958-20221203205958-00514.warc.gz",
+   "offset": 319764735,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13326,
+   "id": "<urn:uuid:5433a9e2-caa0-4d22-a605-9ced13b5c3d8>",
+   "url": "https://ojas.gujarat.gov.in/AdvtDetailFiles/1219885_TLECAS-45-2016-17.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-17/segments/1524125945497.22/warc/CC-MAIN-20180422061121-20180422081121-00325.warc.gz",
+   "offset": 655746401,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13328,
+   "id": "<urn:uuid:6e1125b9-6214-4b88-b7af-4774a39e0550>",
+   "url": "https://ojas.gujarat.gov.in/AdvtDetailFiles/1628144_LECI-56-202021.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224656675.90/warc/CC-MAIN-20230609100535-20230609130535-00299.warc.gz",
+   "offset": 472785282,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13332,
+   "id": "<urn:uuid:2e24533c-b70c-4101-85f8-e8fcaa3223ee>",
+   "url": "https://sje.gujarat.gov.in/downloads/gr_15062016_j_gscdc.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-47/segments/1573496671411.14/warc/CC-MAIN-20191122171140-20191122200140-00423.warc.gz",
+   "offset": 602428724,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13333,
+   "id": "<urn:uuid:e82bf197-4f9a-4231-8520-5c7fba44af64>",
+   "url": "https://gpssb.gujarat.gov.in/writereaddata/Portal/EventActivity/36/238_1_1_ADVT-14-MS-Provosinal_Answer_key-ADVT.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710936.10/warc/CC-MAIN-20221203175958-20221203205958-00509.warc.gz",
+   "offset": 333928861,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13335,
+   "id": "<urn:uuid:e1f8e2a7-1866-4517-8179-92607261219b>",
+   "url": "https://gsssb.gujarat.gov.in/images/Docu-Veri-note-on-web-147-171-179.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-16/segments/1585371806302.78/warc/CC-MAIN-20200407214925-20200408005425-00246.warc.gz",
+   "offset": 504244025,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 13336,
+   "id": "<urn:uuid:a8d107f8-3ebe-4030-a25f-db8c94e3fd0d>",
+   "url": "http://gujarat-education.gov.in/education/Images/gr-5.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-09/segments/1550247511174.69/warc/CC-MAIN-20190221213219-20190221235219-00193.warc.gz",
+   "offset": 120605149,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 22199,
+   "id": "<urn:uuid:dca4e028-ee5c-4c2a-8486-8593ccd27900>",
+   "url": "http://pbhealth.gov.in/MLT%20(1).pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-04/segments/1484560280280.6/warc/CC-MAIN-20170116095120-00305-ip-10-171-10-70.ec2.internal.warc.gz",
+   "offset": 215826980,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 22200,
+   "id": "<urn:uuid:a5828db3-e7dd-480e-a8bb-bdb2e847f660>",
+   "url": "https://cdn.s3waas.gov.in/s3d86ea612dec96096c5e0fcc8dd42ab6d/uploads/2019/10/2019100588.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964363290.59/warc/CC-MAIN-20211206072825-20211206102825-00213.warc.gz",
+   "offset": 229538904,
+   "class": "usable"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 24747,
+   "id": "<urn:uuid:89f6cd86-2aea-4adb-9e09-f9580dd79934>",
+   "url": "https://gsssb.gujarat.gov.in/images/Call-letter-Prog-Comp-Test-on-Web-147-171-179.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-16/segments/1585371806302.78/warc/CC-MAIN-20200407214925-20200408005425-00090.warc.gz",
+   "offset": 498214449,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 24748,
+   "id": "<urn:uuid:c280086c-920f-4168-b5de-1051e6abb105>",
+   "url": "https://spbanaskantha.gujarat.gov.in/Upload/sp_bk__sarikamgirimahiti_2102_to_2702.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656103645173.39/warc/CC-MAIN-20220629211420-20220630001420-00559.warc.gz",
+   "offset": 578095667,
+   "class": "usable"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 24751,
+   "id": "<urn:uuid:5097866f-7596-4c6f-9fd4-4615fc4170b3>",
+   "url": "http://cms.neva.gov.in/FileStructure_GJ/Notices/d886d278-500f-4a1c-9c64-6ad779d97a15.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107871231.19/warc/CC-MAIN-20201020080044-20201020110044-00418.warc.gz",
+   "offset": 26819030,
+   "class": "broken"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 24758,
+   "id": "<urn:uuid:01bbb3e6-61f0-4cc4-9cb3-715a567ce73b>",
+   "url": "https://www.suratmunicipal.gov.in/Content/Documents/Departments/Towndevelopment/n_c/4_ICDepositCircular.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-21/segments/1620243991772.66/warc/CC-MAIN-20210517115207-20210517145207-00172.warc.gz",
+   "offset": 1087777576,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 31155,
+   "id": "<urn:uuid:4d2d60ff-fe53-4492-8f9c-506a1d72b142>",
+   "url": "https://ojas.gujarat.gov.in/AdvtDetailFiles/1993627_DA-43-202021.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-10/segments/1614178361808.18/warc/CC-MAIN-20210228235852-20210301025852-00280.warc.gz",
+   "offset": 496187827,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 31160,
+   "id": "<urn:uuid:e42e790b-ed70-4830-a21c-14d4c1307717>",
+   "url": "https://www.home.gujarat.gov.in/homedepartment/downloads/g1_08.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-47/segments/1573496670268.0/warc/CC-MAIN-20191119222644-20191120010644-00483.warc.gz",
+   "offset": 837565152,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 31161,
+   "id": "<urn:uuid:84ad8563-b69a-4015-8a20-8a4f048ff208>",
+   "url": "https://www.home.gujarat.gov.in/homedepartment/downloads/Pariptra_kramaak%20_T_Branch_19-11-2013.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-47/segments/1573496670268.0/warc/CC-MAIN-20191119222644-20191120010644-00512.warc.gz",
+   "offset": 824513263,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 31164,
+   "id": "<urn:uuid:6854e564-7184-4c03-bc49-4e7d27899e69>",
+   "url": "https://sje.gujarat.gov.in/downloads/gr_27082018_ch.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-13/segments/1552912202924.93/warc/CC-MAIN-20190323181713-20190323203713-00018.warc.gz",
+   "offset": 628126592,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 31165,
+   "id": "<urn:uuid:1554bfd8-9aa9-435f-ba3c-f0b015c99977>",
+   "url": "https://panchmahaldp.gujarat.gov.in/Panchmahal/Images/khetivadi-sakha-19-07-2018.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578643556.86/warc/CC-MAIN-20190424134457-20190424160457-00365.warc.gz",
+   "offset": 514272333,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 48881,
+   "id": "<urn:uuid:93b8975b-2965-40f6-9251-36f2a627d42a>",
+   "url": "https://ojas.gujarat.gov.in/AdvtDetailFiles/GPSC_201617_24.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578529472.24/warc/CC-MAIN-20190420080927-20190420102927-00235.warc.gz",
+   "offset": 506192762,
+   "class": "usable"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 48882,
+   "id": "<urn:uuid:2dc14398-801f-4cdd-ac11-2adf74cd56b3>",
+   "url": "https://ahmedabadcity.gov.in/Images/RTI%20CELL%20PAD_23-24.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-26/segments/1718198862464.38/warc/CC-MAIN-20240623064523-20240623094523-00704.warc.gz",
+   "offset": 71836883,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 48889,
+   "id": "<urn:uuid:a9122ce6-6c35-4347-9e14-864fb07346a5>",
+   "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LICI-100-2016-17.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-26/segments/1560627998581.65/warc/CC-MAIN-20190617223249-20190618005249-00440.warc.gz",
+   "offset": 463755336,
+   "class": "broken"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 48891,
+   "id": "<urn:uuid:cbc15b1a-5cd9-45df-9ec7-2e81a6c99579>",
+   "url": "http://dte.gswan.gov.in/edte/Portal/News/1114_1_INSTRUCTORE%20GRADE%20C.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-34/segments/1502886103270.12/warc/CC-MAIN-20170817111816-20170817131816-00292.warc.gz",
+   "offset": 126379923,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 51596,
+   "id": "<urn:uuid:61b84dee-8a88-4609-91c3-2073649b5183>",
+   "url": "https://vmc.gov.in/pdf/Annoucement/2023/FINAL%20Advertisement%20mgy%20and%20pmay.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-46/segments/1730477028230.68/warc/CC-MAIN-20241111123424-20241111153424-00535.warc.gz",
+   "offset": 570479592,
+   "class": "broken"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 51607,
+   "id": "<urn:uuid:ae1db33d-0045-45a0-b41f-71fa7dfd0dfc>",
+   "url": "https://cpsurat.gujarat.gov.in/Upload/Saflyagatha_211220_cpsurat.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964359082.76/warc/CC-MAIN-20211130232232-20211201022232-00379.warc.gz",
+   "offset": 279592287,
+   "class": "broken"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 60746,
+   "id": "<urn:uuid:2805f1bc-1c41-4563-977f-ef7fad05290d>",
+   "url": "http://dat.gujarat.gov.in/Documents/Cir_205_2017-3-14_489.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-39/segments/1505818686983.8/warc/CC-MAIN-20170920085844-20170920105844-00666.warc.gz",
+   "offset": 84695607,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "guj_Gujr",
+   "row": 60757,
+   "id": "<urn:uuid:80b295b4-3ff2-4d72-b3fc-604b0e796661>",
+   "url": "http://dat.gujarat.gov.in/Documents/Cir_135_2015-2-27_424.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-39/segments/1505818686983.8/warc/CC-MAIN-20170920085844-20170920105844-00668.warc.gz",
+   "offset": 82489275,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 970,
+   "id": "<urn:uuid:604576ef-0140-4ee7-a1a8-46da75eb3235>",
+   "url": "http://hrms.punjab.gov.in/Home/GetNewsNotificationPDF?stateid=3%20&contentId=69",
+   "file_path": "crawl-data/CC-MAIN-2019-13/segments/1552912203493.88/warc/CC-MAIN-20190324210143-20190324232143-00245.warc.gz",
+   "offset": 95826793,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 976,
+   "id": "<urn:uuid:b90ff0bb-e5e8-4f1c-b7de-cea09a8ba7db>",
+   "url": "https://sssb.punjab.gov.in/Downloads/2023/Public%20Notice%20Clerk%20Adv%20No%2015%20of%202022.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-14/segments/1679296945168.36/warc/CC-MAIN-20230323132026-20230323162026-00003.warc.gz",
+   "offset": 613904723,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 5979,
+   "id": "<urn:uuid:62bd22d7-2b75-4f9f-a5f1-eefa441d8cae>",
+   "url": "http://faridkot.punjabpolice.gov.in/Files/mediafile/16509626568122.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738831951628.13/warc/CC-MAIN-20250209230119-20250210020119-00445.warc.gz",
+   "offset": 10161333,
+   "class": "usable"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 7052,
+   "id": "<urn:uuid:f4d227ca-ebd1-44ae-a011-97cb35c0a265>",
+   "url": "https://mea.gov.in/Images/arebic/Exchange-of-list-of-prisoners-01-01-2021-Punjabi.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964360881.12/warc/CC-MAIN-20211201173718-20211201203718-00581.warc.gz",
+   "offset": 440975346,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 7060,
+   "id": "<urn:uuid:2f484a0f-5345-4304-a62b-4df66740f0fc>",
+   "url": "https://dgrpg.punjab.gov.in/wp-content/uploads/2020/06/Press-Notes-Dt.-07.06.2020-Ferozepur.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-40/segments/1600400245109.69/warc/CC-MAIN-20200926200523-20200926230523-00710.warc.gz",
+   "offset": 352661900,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 7062,
+   "id": "<urn:uuid:ab22e41e-8d17-4398-abdd-6b319471fb7c>",
+   "url": "https://dgrpg.punjab.gov.in/wp-content/uploads/2020/04/Press-Notes-dt.-18.04.2020-Amritsar.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-40/segments/1600401582033.88/warc/CC-MAIN-20200927215009-20200928005009-00311.warc.gz",
+   "offset": 354997253,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 7063,
+   "id": "<urn:uuid:6ba572a3-d825-4a5e-af24-2f5a286b2a91>",
+   "url": "http://mandiboard.nic.in/plots/estate%20performa%204.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-43/segments/1539583510866.52/warc/CC-MAIN-20181016180631-20181016202131-00513.warc.gz",
+   "offset": 218187766,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 7067,
+   "id": "<urn:uuid:feaf7cec-978a-4d40-9366-177fbe33777a>",
+   "url": "https://mea.gov.in/Images/amb/JaUSAPunjabi.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-50/segments/1606141747323.98/warc/CC-MAIN-20201205074417-20201205104417-00506.warc.gz",
+   "offset": 402914177,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 7068,
+   "id": "<urn:uuid:d3d8b85e-ec09-4400-a1fe-49a90c673b2f>",
+   "url": "http://mea.gov.in/Images/amb/BiegunPunjabi.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-50/segments/1606141747323.98/warc/CC-MAIN-20201205074417-20201205104417-00509.warc.gz",
+   "offset": 57202416,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 8325,
+   "id": "<urn:uuid:b9229b4f-aae2-4b08-94b7-36c164a0a28d>",
+   "url": "https://www.mea.gov.in/Images/amb1/SpecialKey_Punjabi.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-33/segments/1659882572077.62/warc/CC-MAIN-20220814204141-20220814234141-00365.warc.gz",
+   "offset": 776808166,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 9644,
+   "id": "<urn:uuid:54edc0c8-cd37-4beb-a820-70ca51bb2d97>",
+   "url": "https://dgrpg.punjab.gov.in/wp-content/uploads/2020/05/Press-Note-Dt.-25-05-2020-Ferozepur.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-40/segments/1600401582033.88/warc/CC-MAIN-20200927215009-20200928005009-00783.warc.gz",
+   "offset": 352529796,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 9645,
+   "id": "<urn:uuid:6262ede5-513a-4a3f-b018-1b2dab6ef987>",
+   "url": "https://pulsa.punjab.gov.in/sites/default/files/Amended%20Public%20Notice%20Punjabi.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224649986.95/warc/CC-MAIN-20230604125132-20230604155132-00277.warc.gz",
+   "offset": 514086231,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 9650,
+   "id": "<urn:uuid:ff685caf-9a37-43d5-a364-677fd8829c60>",
+   "url": "https://vigilancebureau.punjab.gov.in/uploads/articles/press25524.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-26/segments/1718198861261.53/warc/CC-MAIN-20240612203157-20240612233157-00126.warc.gz",
+   "offset": 568527778,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 9655,
+   "id": "<urn:uuid:375711af-8045-4d59-a2e4-7ec1faab5737>",
+   "url": "http://pbhealth.gov.in/pdf/no-objection-courses.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-04/segments/1484560280587.1/warc/CC-MAIN-20170116095120-00066-ip-10-171-10-70.ec2.internal.warc.gz",
+   "offset": 215553458,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 12786,
+   "id": "<urn:uuid:d16d4396-fdc2-4d83-a0dd-dc87c300c56b>",
+   "url": "https://welfare.punjab.gov.in/Static/PDF/ScSchemes/SCpunjabi/p13.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-46/segments/1730477027821.39/warc/CC-MAIN-20241104100555-20241104130555-00383.warc.gz",
+   "offset": 590963680,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 12796,
+   "id": "<urn:uuid:9b529ecb-b652-4247-90e8-79ef42e61c35>",
+   "url": "http://punjabassembly.gov.in/Approved_LOB_Local04March.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-18/segments/1712296817181.55/warc/CC-MAIN-20240417204934-20240417234934-00619.warc.gz",
+   "offset": 21482146,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 12799,
+   "id": "<urn:uuid:63da7a50-8378-4d25-9ecc-ee206da398b7>",
+   "url": "http://upsc.gov.in/sites/default/files/LIT.PUNJABI-II.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-04/segments/1547583660258.36/warc/CC-MAIN-20190118172438-20190118194438-00162.warc.gz",
+   "offset": 227590700,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 13420,
+   "id": "<urn:uuid:8a0b5b27-22a3-43e4-87fd-f96080909cb3>",
+   "url": "http://tarntaran.gov.in/district_news/20.2-09-2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-43/segments/1508187827662.87/warc/CC-MAIN-20171023235958-20171024015958-00780.warc.gz",
+   "offset": 331023857,
+   "class": "broken"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 13423,
+   "id": "<urn:uuid:b8cf33a5-49c9-43da-92aa-725fe08c0df2>",
+   "url": "http://irrigation.punjab.gov.in/PDF/Notifications_and_Circulars/Departmental/Order_number_264-272_dt._01-03-2017_01032017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-26/segments/1529267864943.28/warc/CC-MAIN-20180623054721-20180623074721-00034.warc.gz",
+   "offset": 158171100,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "pan_Guru",
+   "row": 13429,
+   "id": "<urn:uuid:7e9f1b3e-55b1-45e6-9660-31421cd7dc91>",
+   "url": "https://sssb.punjab.gov.in/Downloads/2024/Advt%207%20of%202024%20final%20for%20website.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-38/segments/1725700651601.85/warc/CC-MAIN-20240914225323-20240915015323-00349.warc.gz",
+   "offset": 502257034,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 85,
+   "id": "<urn:uuid:18f8a742-15e3-450e-8907-8ecc5bec4120>",
+   "url": "https://aranya.gov.in/aranyacms/(S(konf5sw2rt55vweccgg1z2n2))/downloads/latestNews/TCMS%20(II)_28-06-2023_05.33.15.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100568.68/warc/CC-MAIN-20231205204654-20231205234654-00036.warc.gz",
+   "offset": 123916581,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 94,
+   "id": "<urn:uuid:2a20f68c-6124-44c2-b423-f3028fe0e7b1>",
+   "url": "https://www.mea.gov.in/Images/amb/PombeOdia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964360803.0/warc/CC-MAIN-20211201113241-20211201143241-00496.warc.gz",
+   "offset": 909093640,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 151,
+   "id": "<urn:uuid:66e69c8e-b9c5-451f-9029-016e5cc8d9a5>",
+   "url": "https://mea.gov.in/Images/amb1/TelepMinisteOdia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-17/segments/1618038879305.68/warc/CC-MAIN-20210419080654-20210419110654-00618.warc.gz",
+   "offset": 482296803,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 154,
+   "id": "<urn:uuid:89239dee-83b7-4a19-9360-7e32b9a6d597>",
+   "url": "https://mea.gov.in/Images/amb1/2plus2Odia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107878921.41/warc/CC-MAIN-20201022053410-20201022083410-00233.warc.gz",
+   "offset": 436253495,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 155,
+   "id": "<urn:uuid:e4bb2615-ebc9-4926-902b-8b3d3ba76463>",
+   "url": "http://dohodisha.nic.in/PDF/IMPORTANT%20NOTICE.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107878921.41/warc/CC-MAIN-20201022053410-20201022083410-00244.warc.gz",
+   "offset": 28775352,
+   "class": "usable"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 157,
+   "id": "<urn:uuid:6ace8926-c802-4d38-af94-8f2801146d26>",
+   "url": "http://www.mpsc.mp.nic.in/scholarships/Public/pdf/odiya%20advt%202018-19.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-47/segments/1542039746639.67/warc/CC-MAIN-20181120191321-20181120213321-00474.warc.gz",
+   "offset": 457718295,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 167,
+   "id": "<urn:uuid:c754ea37-7cba-42fb-bf0d-20cabc3fb782>",
+   "url": "https://mea.gov.in/Images/amb1/Pr_SA_Odia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656104249664.70/warc/CC-MAIN-20220703195118-20220703225118-00247.warc.gz",
+   "offset": 420956821,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 1947,
+   "id": "<urn:uuid:f4728a89-7526-4b7d-8d00-ebebc8fa6c0e>",
+   "url": "https://health.odisha.gov.in/sites/default/files/2022-03/Pocketbook-Paediatric-Covid-Frontline-workers%20%282%29.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100781.60/warc/CC-MAIN-20231209004202-20231209034202-00328.warc.gz",
+   "offset": 344451724,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 1954,
+   "id": "<urn:uuid:20943d10-52a2-454a-8013-730f40c068bc>",
+   "url": "http://odes.nic.in/odesofficer/Docs/Questions/2022/Questions%201st%20HYD%202022/Odia%20Paper-II_001.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-05/segments/1736703363457.40/warc/CC-MAIN-20250122163143-20250122193143-00720.warc.gz",
+   "offset": 20965133,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 2585,
+   "id": "<urn:uuid:fc7ae1b6-3c22-4a83-88ab-14959f76673f>",
+   "url": "https://mea.gov.in/Images/amb/G20Odia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710734.75/warc/CC-MAIN-20221130092453-20221130122453-00523.warc.gz",
+   "offset": 429727593,
+   "class": "usable"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 2588,
+   "id": "<urn:uuid:f2f75e86-5702-4fb0-b7ef-615bba178fec>",
+   "url": "https://cdn.s3waas.gov.in/s307cdfd23373b17c6b337251c22b7ea57/uploads/2019/06/2019061935.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323585449.31/warc/CC-MAIN-20211021230549-20211022020549-00461.warc.gz",
+   "offset": 261903053,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 2593,
+   "id": "<urn:uuid:3e05905b-1ee1-4ad5-8f7d-d776c22c40e5>",
+   "url": "https://cdn.s3waas.gov.in/s3f5deaeeae1538fb6c45901d524ee2f98/uploads/2021/02/2021021584.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323585460.87/warc/CC-MAIN-20211022052742-20211022082742-00585.warc.gz",
+   "offset": 251362048,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 2597,
+   "id": "<urn:uuid:fbd8dcea-4b16-4972-88ab-2cf27a4eb72a>",
+   "url": "https://mea.gov.in/Images/french/Disengagement-17A-06-08-2021-Oriya.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710765.76/warc/CC-MAIN-20221130160457-20221130190457-00757.warc.gz",
+   "offset": 451662038,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 2598,
+   "id": "<urn:uuid:58f29a16-0087-4e1f-8a1d-73ca5f41ecfe>",
+   "url": "https://mea.gov.in/Images/french/India-VietnamDialogue-30-05-2022-Oriya.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710765.76/warc/CC-MAIN-20221130160457-20221130190457-00769.warc.gz",
+   "offset": 427276855,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 2604,
+   "id": "<urn:uuid:df3cbed3-9392-4e53-93d2-621864f901c9>",
+   "url": "https://sahitya-akademi.gov.in/pdf/throughmywindow_17-06-2016.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738832262490.93/warc/CC-MAIN-20250218145202-20250218175202-00186.warc.gz",
+   "offset": 456326560,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 2655,
+   "id": "<urn:uuid:ed463cb6-47bb-4ae0-9ebb-f14da23bd94b>",
+   "url": "http://scert.ap.gov.in/SCERT/books/SSCModelQuestionPapers/Odia%20Medium/PSPDF%281%29.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218191353.5/warc/CC-MAIN-20170322212951-00308-ip-10-233-31-227.ec2.internal.warc.gz",
+   "offset": 316443755,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 2658,
+   "id": "<urn:uuid:8ba62bb8-d1d6-4b23-aebd-97c201ca79b2>",
+   "url": "https://icds-wcd.nic.in/RevisedMIS/State%20Specific%20Formats%20in%20Local%20Languages/State%20Specific%20Revised%20MIS%20Formats/Odisa/Reg-1-Family%20Details%20(Odia).pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-51/segments/1544376824822.41/warc/CC-MAIN-20181213123823-20181213145323-00175.warc.gz",
+   "offset": 621882513,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 4441,
+   "id": "<urn:uuid:ee317d64-bc94-4692-8970-56c3d1d6f23a>",
+   "url": "http://owssb.nic.in/WebFiles/Document/OWSSB_1._Auto_sticker-Odisha.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-22/segments/1715971058442.20/warc/CC-MAIN-20240521091208-20240521121208-00670.warc.gz",
+   "offset": 21585957,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 4450,
+   "id": "<urn:uuid:a75985d1-85b1-4b04-87be-b730fe3ee120>",
+   "url": "https://mea.gov.in/Images/amb/ThirdOdia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-04/segments/1610703507045.10/warc/CC-MAIN-20210116195918-20210116225918-00317.warc.gz",
+   "offset": 455632220,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 4515,
+   "id": "<urn:uuid:90054871-cf50-4884-a779-53f9f207bd62>",
+   "url": "https://mea.gov.in/Images/amb/UnwarrantedOdia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446711637.64/warc/CC-MAIN-20221210005738-20221210035738-00041.warc.gz",
+   "offset": 433005876,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 4520,
+   "id": "<urn:uuid:32358c8e-1012-40b8-ae5d-3d4f8c378d3b>",
+   "url": "https://pmjdy.gov.in/files/Financial-Literacy/flc-skilling-material/Odiya/Multiple-Choice-Questions.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323585045.2/warc/CC-MAIN-20211016231019-20211017021019-00241.warc.gz",
+   "offset": 598163944,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 4522,
+   "id": "<urn:uuid:ff68c255-c7a0-43b4-b6c6-c5b237274853>",
+   "url": "https://ncds.nic.in/sites/default/files/PolicyBriefs/PB23bNCDS.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-14/segments/1679296948951.4/warc/CC-MAIN-20230329054547-20230329084547-00550.warc.gz",
+   "offset": 485235507,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 5145,
+   "id": "<urn:uuid:be7f1d19-3023-4f2a-b1a5-0b38c946a872>",
+   "url": "https://mea.gov.in/Images/amb/PMDenmarkOdia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-50/segments/1606141674594.59/warc/CC-MAIN-20201201135627-20201201165627-00563.warc.gz",
+   "offset": 377054404,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 5146,
+   "id": "<urn:uuid:479ae9ae-ef95-4339-a410-1bab9990c11e>",
+   "url": "http://ceoorissa.nic.in/docs/FormsForVoters/form%206B.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-33/segments/1659882571536.89/warc/CC-MAIN-20220811224716-20220812014716-00716.warc.gz",
+   "offset": 10141193,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 5155,
+   "id": "<urn:uuid:4b48201a-0bf4-4789-99ef-92b5ec1956e1>",
+   "url": "https://mea.gov.in/Images/amb/Press-Statement-on-ceasefire-violations-by-Pakistani-forces-targeting-Indian-civilians-14-11-2020-Odia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964358469.34/warc/CC-MAIN-20211128043743-20211128073743-00100.warc.gz",
+   "offset": 464612015,
+   "class": "broken"
+  },
+  {
+   "cfg": "ory_Orya",
+   "row": 5156,
+   "id": "<urn:uuid:73b3e056-2b11-4a24-b383-8f33179949de>",
+   "url": "https://mea.gov.in/Images/amb/CooperationcountriesOdia.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964358469.34/warc/CC-MAIN-20211128043743-20211128073743-00101.warc.gz",
+   "offset": 463810980,
+   "class": "broken"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 3798,
+   "id": "<urn:uuid:40927ab9-0510-4ffb-ade3-569557a832bd>",
+   "url": "https://www.tnurbantree.tn.gov.in/thiruthuraipoondi/wp-content/uploads/sites/72/2023/06/COAPR2023.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-22/segments/1715971058147.77/warc/CC-MAIN-20240520015105-20240520045105-00539.warc.gz",
+   "offset": 931805400,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 3810,
+   "id": "<urn:uuid:13cb4e4d-7103-480d-8c6b-6a337aea7011>",
+   "url": "https://ctd.tn.gov.in/documents/10184/10943/G.O+72+%28TN+ET%29/90ff479b-21c9-4130-bc0c-6a9fd65bf0a6?version=1.0",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100583.31/warc/CC-MAIN-20231206063543-20231206093543-00563.warc.gz",
+   "offset": 226997119,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 3813,
+   "id": "<urn:uuid:2b4ae972-2892-45af-9bed-e58b38d7eacb>",
+   "url": "http://www.tnsic.gov.in/judgements/new/pdfs/T_3766_05112020.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-04/segments/1610703513144.48/warc/CC-MAIN-20210117174558-20210117204558-00352.warc.gz",
+   "offset": 185254537,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 21198,
+   "id": "<urn:uuid:df19a490-e8db-4a83-8f8d-7fda9e46b268>",
+   "url": "http://www.kanyakumari.nic.in/pressrelease/922_30.12.2016.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218189884.21/warc/CC-MAIN-20170322212949-00588-ip-10-233-31-227.ec2.internal.warc.gz",
+   "offset": 552665320,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 21201,
+   "id": "<urn:uuid:2833c68d-e063-4dcc-bb7b-1701670493ac>",
+   "url": "https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2022/01/2022011199.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320301670.75/warc/CC-MAIN-20220120005715-20220120035715-00145.warc.gz",
+   "offset": 228197007,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 21202,
+   "id": "<urn:uuid:0d4d72aa-40e9-4b0f-8f78-fdba2974b75e>",
+   "url": "https://www.tnpsc.gov.in/static_pdf/press/46_PRESS-RELEASE.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-10/segments/1707947474643.29/warc/CC-MAIN-20240225203035-20240225233035-00771.warc.gz",
+   "offset": 1059876775,
+   "class": "broken"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 21213,
+   "id": "<urn:uuid:eb006316-497f-409c-90ed-eb1e9b6386a7>",
+   "url": "https://tnpsc.gov.in/static_pdf/press/2018_press_release_g2_tentative_keys_new_method.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738831951754.36/warc/CC-MAIN-20250212124130-20250212154130-00288.warc.gz",
+   "offset": 524065331,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 33495,
+   "id": "<urn:uuid:e8ba9c7d-672a-4724-80aa-b81270cbaf96>",
+   "url": "http://elections.tn.gov.in/PDF/dt5/ac051/ac051274.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-05/segments/1516084889325.32/warc/CC-MAIN-20180120043530-20180120063530-00496.warc.gz",
+   "offset": 107999519,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 33497,
+   "id": "<urn:uuid:45ac42ce-7840-4e66-a823-00993ae51dc9>",
+   "url": "http://elections.tn.gov.in/PDF/dt5/ac056/ac056177.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-30/segments/1500549423785.29/warc/CC-MAIN-20170721142410-20170721162410-00312.warc.gz",
+   "offset": 95811686,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 33502,
+   "id": "<urn:uuid:b35fe528-2f0f-47f4-9852-0d9ba11aa476>",
+   "url": "http://vellore.nic.in/district_pr/pr0217/pr13022017_vlr_86.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218186353.38/warc/CC-MAIN-20170322212946-00397-ip-10-233-31-227.ec2.internal.warc.gz",
+   "offset": 391110257,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 33503,
+   "id": "<urn:uuid:6dc219d9-e5f4-45f8-af34-a3d56a5dd49b>",
+   "url": "http://vellore.nic.in/district_pr/pr0617/pr29062017_vlr_383.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-34/segments/1502886104631.25/warc/CC-MAIN-20170818082911-20170818102911-00064.warc.gz",
+   "offset": 444775529,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 33505,
+   "id": "<urn:uuid:83c9a931-2c0f-413f-bd64-7411453a16ed>",
+   "url": "http://elections.tn.gov.in/PDF/dt5/ac051/ac051136.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218188213.41/warc/CC-MAIN-20170322212948-00371-ip-10-233-31-227.ec2.internal.warc.gz",
+   "offset": 124852766,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 33506,
+   "id": "<urn:uuid:6ebda5ae-1101-41f3-bd6a-0afe55e268c5>",
+   "url": "https://rera.tn.gov.in/cms/Other_Details/Layout/Approval_Details/2021/99-2021.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-18/segments/1712296817670.11/warc/CC-MAIN-20240420153103-20240420183103-00336.warc.gz",
+   "offset": 447818294,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 33512,
+   "id": "<urn:uuid:c49515d8-e348-45fa-9950-614872bc7451>",
+   "url": "http://elections.tn.gov.in/PDF/dt5/ac055/ac055318.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-05/segments/1516084889325.32/warc/CC-MAIN-20180120043530-20180120063530-00499.warc.gz",
+   "offset": 110920874,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 43448,
+   "id": "<urn:uuid:df876c48-bcf0-47b7-8c1a-b589ca2aff9b>",
+   "url": "http://tiruvannamalai.tn.nic.in/ethical.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-26/segments/1529267860557.7/warc/CC-MAIN-20180618125242-20180618145242-00183.warc.gz",
+   "offset": 316469514,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 84696,
+   "id": "<urn:uuid:a6b5996f-c385-4c1e-8489-811cd8243daa>",
+   "url": "https://transport.py.gov.in/sites/default/files/thiru-tax.PDF",
+   "file_path": "crawl-data/CC-MAIN-2019-26/segments/1560627999946.25/warc/CC-MAIN-20190625192953-20190625214953-00055.warc.gz",
+   "offset": 628338140,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 84699,
+   "id": "<urn:uuid:c4dafbb7-15fb-4b01-a8a6-2612b917cd4e>",
+   "url": "https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2019/09/2019090894-1.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514573827.2/warc/CC-MAIN-20190920030357-20190920052357-00036.warc.gz",
+   "offset": 419420938,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 84703,
+   "id": "<urn:uuid:f23cece1-425c-4dfc-937b-5f56be8e1ea5>",
+   "url": "http://socwelfare.pondicherry.gov.in/Trining-Advt-July-2015.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-43/segments/1508187823067.51/warc/CC-MAIN-20171018180631-20171018200631-00498.warc.gz",
+   "offset": 305433807,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 84704,
+   "id": "<urn:uuid:65064d0e-4256-44db-9960-949fd1059c21>",
+   "url": "https://dvac.tn.gov.in/pdf/FIR/2019/08-2019%20Tiruppur.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-51/segments/1733066142519.55/warc/CC-MAIN-20241204014854-20241204044854-00501.warc.gz",
+   "offset": 189371579,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 84705,
+   "id": "<urn:uuid:7cc22b04-3f71-4f96-9157-d0bafc5a46b7>",
+   "url": "http://elections.tn.gov.in/PDF/dt5/ac054/ac054173.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-05/segments/1516084890771.63/warc/CC-MAIN-20180121135825-20180121155825-00776.warc.gz",
+   "offset": 111284614,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 84708,
+   "id": "<urn:uuid:71ccc97b-4dd7-4c32-903a-adc24e1ab5b0>",
+   "url": "https://www.tnurbantree.tn.gov.in/arakkonam/wp-content/uploads/sites/111/2022/06/DEC_U_2021.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-06/segments/1674764500671.13/warc/CC-MAIN-20230208024856-20230208054856-00175.warc.gz",
+   "offset": 1014265109,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 84709,
+   "id": "<urn:uuid:e9173f46-dfb1-4751-91b2-6c571588f1e6>",
+   "url": "https://www.elections.tn.gov.in/PS26032019/dt29/Tamil/AC221.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944253194.34/warc/CC-MAIN-20241003155217-20241003185217-00181.warc.gz",
+   "offset": 692121012,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 85278,
+   "id": "<urn:uuid:fafe6c0d-d1ba-41f9-a735-0d057fe08cc4>",
+   "url": "https://www.tnurbantree.tn.gov.in/melur/wp-content/uploads/sites/25/2019/08/BUDGET2015-16.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662522270.37/warc/CC-MAIN-20220518115411-20220518145411-00380.warc.gz",
+   "offset": 1212436574,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 85281,
+   "id": "<urn:uuid:c489455e-1641-48a3-8bd0-993318286000>",
+   "url": "https://www.tnurbantree.tn.gov.in/chinnamanur/wp-content/uploads/sites/26/2023/05/Mar-2023.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944253294.3/warc/CC-MAIN-20241004042015-20241004072015-00219.warc.gz",
+   "offset": 937079491,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 85287,
+   "id": "<urn:uuid:83841e98-235b-44a0-99f0-6981c7009a57>",
+   "url": "https://fsi.mea.gov.in/Images/french/USAC-15-09-2023-Tamil.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-10/segments/1707947473347.0/warc/CC-MAIN-20240220211055-20240221001055-00148.warc.gz",
+   "offset": 281571390,
+   "class": "broken"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 92485,
+   "id": "<urn:uuid:b8cd4a52-6962-44b0-adc1-d2b2f2b9acda>",
+   "url": "https://mea.gov.in/Images/arebic/ConsFMTamil.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-17/segments/1618038879305.68/warc/CC-MAIN-20210419080654-20210419110654-00394.warc.gz",
+   "offset": 493923702,
+   "class": "broken"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 92491,
+   "id": "<urn:uuid:486bd8c7-04af-4027-8d28-3231e5ffa03f>",
+   "url": "https://tnpcb.gov.in/pdf/ph/ExeSumtamSadhasivam15523.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-10/segments/1707947473738.92/warc/CC-MAIN-20240222093910-20240222123910-00591.warc.gz",
+   "offset": 588719783,
+   "class": "broken"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 92494,
+   "id": "<urn:uuid:833b6cd3-ca02-44c7-a781-3ac1a4da378b>",
+   "url": "https://www.tnurbantree.tn.gov.in/kumbakonam/wp-content/uploads/sites/63/2021/03/KUM-oct-2020.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100873.6/warc/CC-MAIN-20231209071722-20231209101722-00779.warc.gz",
+   "offset": 1150604683,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 92501,
+   "id": "<urn:uuid:c3641863-ee1e-4c9c-a59d-2319d3827b72>",
+   "url": "https://cdn.s3waas.gov.in/s3ec8ce6abb3e952a85b8551ba726a1227/uploads/2019/12/2019122074.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323583408.93/warc/CC-MAIN-20211016013436-20211016043436-00137.warc.gz",
+   "offset": 257542014,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tam_Taml",
+   "row": 97093,
+   "id": "<urn:uuid:5720ccc7-bc02-46c8-a7af-cea610a16079>",
+   "url": "https://www.tnagrisnet.tn.gov.in/fcms/documents/go/23-agri_t_214_2022.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-22/segments/1715971059246.67/warc/CC-MAIN-20240529134803-20240529164803-00657.warc.gz",
+   "offset": 889754301,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 11049,
+   "id": "<urn:uuid:68b93356-8f80-4472-af8b-377fdd007c51>",
+   "url": "https://ipr.telangana.gov.in/wp-content/uploads/2018/07/Honble-Minister-for-Tourism-and-Culture-released-Chitramayee-Art-Gallery-Document-Film.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030335059.31/warc/CC-MAIN-20220927225413-20220928015413-00207.warc.gz",
+   "offset": 346414427,
+   "class": "broken"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 11050,
+   "id": "<urn:uuid:f77fd4d2-e8db-4325-ad98-80b2b1d7d328>",
+   "url": "https://mea.gov.in/Images/amb1/Alxtelgu.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323585246.50/warc/CC-MAIN-20211019074128-20211019104128-00450.warc.gz",
+   "offset": 503671610,
+   "class": "usable"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 11055,
+   "id": "<urn:uuid:1de10c1c-bf87-4e88-9bc3-cd196b023ea5>",
+   "url": "https://schooleducation.kar.nic.in/Officers/Pdfdocuments/SakalaTrg17180113.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656103322581.16/warc/CC-MAIN-20220626222503-20220627012503-00261.warc.gz",
+   "offset": 555843255,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 15519,
+   "id": "<urn:uuid:7e1b9412-6bfc-43fb-b9b8-d485d74cf2cd>",
+   "url": "https://www.gad.ap.gov.in/notifications/press/21-08-2020-c15c4bc35c3fc21c4d-c06c38c4dc2ac24c4dc30c41c32-c38c02c16c4dc2f-138-c28c41c02c1ac3f-287c15c41-c2ac46c02c2ac41.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107880401.35/warc/CC-MAIN-20201022225046-20201023015046-00329.warc.gz",
+   "offset": 736080430,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 15521,
+   "id": "<urn:uuid:8ab8c3ad-04a5-47db-81db-91048eb39df6>",
+   "url": "https://www.gad.ap.gov.in/notifications/press/27-02-2020-c07c30c3fc17c47c37c28c4d-c2ac4dc30c3ec1cc46c15c4dc1fc4d-c32c2a-c38c40c0ec02-c36c4dc30c40-c35c0ec38c4d-c1cc17c28c4d-c38c2ec40c15c4dc37.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107880401.35/warc/CC-MAIN-20201022225046-20201023015046-00343.warc.gz",
+   "offset": 710659447,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 18552,
+   "id": "<urn:uuid:b011d6cc-deba-4d86-a5f7-af78c3d6880d>",
+   "url": "https://dtek.karnataka.gov.in/storage/pdf-files/SPS/AICTE%20Technical%20Journal.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662522556.18/warc/CC-MAIN-20220518215138-20220519005138-00280.warc.gz",
+   "offset": 282210164,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 18554,
+   "id": "<urn:uuid:d9f0b6ac-36ab-4ae8-8849-804bac96d585>",
+   "url": "https://www.niepid.nic.in/10.2%20Enhancing%20Gross%20Motor%20Skills%20(Telugu).PDF",
+   "file_path": "crawl-data/CC-MAIN-2024-22/segments/1715971059206.29/warc/CC-MAIN-20240529041915-20240529071915-00287.warc.gz",
+   "offset": 790422823,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 18552,
+   "id": "<urn:uuid:b011d6cc-deba-4d86-a5f7-af78c3d6880d>",
+   "url": "https://dtek.karnataka.gov.in/storage/pdf-files/SPS/AICTE%20Technical%20Journal.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662522556.18/warc/CC-MAIN-20220518215138-20220519005138-00280.warc.gz",
+   "offset": 282210164,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 18554,
+   "id": "<urn:uuid:d9f0b6ac-36ab-4ae8-8849-804bac96d585>",
+   "url": "https://www.niepid.nic.in/10.2%20Enhancing%20Gross%20Motor%20Skills%20(Telugu).PDF",
+   "file_path": "crawl-data/CC-MAIN-2024-22/segments/1715971059206.29/warc/CC-MAIN-20240529041915-20240529071915-00287.warc.gz",
+   "offset": 790422823,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 18555,
+   "id": "<urn:uuid:4297ec4e-95f1-44b5-8460-eb2f2bfdafd5>",
+   "url": "http://kplc.kar.nic.in/IP/AC.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-47/segments/1510934806720.32/warc/CC-MAIN-20171123031247-20171123051247-00733.warc.gz",
+   "offset": 173069888,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 18559,
+   "id": "<urn:uuid:96b2cc8a-dd8f-46ec-b30a-f2261a5108b1>",
+   "url": "https://cdn.s3waas.gov.in/s30777d5c17d4066b82ab86dff8a46af6f/uploads/2020/12/2020121973.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780057303.94/warc/CC-MAIN-20210922011746-20210922041746-00715.warc.gz",
+   "offset": 214479442,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 21542,
+   "id": "<urn:uuid:41babc8a-b635-4dcf-923e-424bbc7dec15>",
+   "url": "https://ipr.ap.nic.in/images/press-releases/MEDICAL%20ASSISTANCE.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100172.28/warc/CC-MAIN-20231130062948-20231130092948-00432.warc.gz",
+   "offset": 378798966,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 21543,
+   "id": "<urn:uuid:53094dbe-74e8-4851-bc7d-4feefc8b6c32>",
+   "url": "https://ipr.ap.nic.in/images/press-releases/CABINET%20BRIEFING%20budget%20sessions.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100172.28/warc/CC-MAIN-20231130062948-20231130092948-00433.warc.gz",
+   "offset": 377130727,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 21547,
+   "id": "<urn:uuid:60d09851-3bde-46bd-829b-8efd7d37c119>",
+   "url": "https://www.apagrisnet.gov.in/Panchangam/kuragayalu/capsicum.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-33/segments/1659882571996.63/warc/CC-MAIN-20220814052950-20220814082950-00656.warc.gz",
+   "offset": 578977198,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 21550,
+   "id": "<urn:uuid:f11ff874-969a-447b-b616-93e35665bd77>",
+   "url": "http://rdpr.kar.nic.in/document/not_308_17_9_13.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514574084.88/warc/CC-MAIN-20190920221241-20190921003241-00410.warc.gz",
+   "offset": 158994151,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 21553,
+   "id": "<urn:uuid:9fd8a634-769d-46cc-b5d6-b26be3ee1ae0>",
+   "url": "https://karunadu.karnataka.gov.in/hfw/kannada/drc/Notification%20-%20False%20Information%20about%20the%20%20Para%20Medical%20Recruitment%20%20in%20Health%20And%20Family%20Welfare%20Department%20.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-21/segments/1620243990551.51/warc/CC-MAIN-20210515161657-20210515191657-00245.warc.gz",
+   "offset": 359129042,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 21557,
+   "id": "<urn:uuid:dab8a82c-d1f1-4e66-8580-c8589cbc2bff>",
+   "url": "http://ipr.ap.nic.in/images/tenders/04-12-2018/SE_R&B_Vizianagaram.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-51/segments/1544376823565.27/warc/CC-MAIN-20181211040413-20181211061913-00155.warc.gz",
+   "offset": 147171877,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 21558,
+   "id": "<urn:uuid:856f8e0c-73fe-403a-bb2f-adac130b6f39>",
+   "url": "http://ipr.ap.nic.in/images/tenders/29-10-2018/EE_PR_Narasapuram.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-51/segments/1544376823565.27/warc/CC-MAIN-20181211040413-20181211061913-00155.warc.gz",
+   "offset": 147409208,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 25112,
+   "id": "<urn:uuid:1b6280fc-75fd-4f22-97d3-3829a0eb6816>",
+   "url": "http://rdpr.kar.nic.in/document/246_8_11.PDF",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514573011.59/warc/CC-MAIN-20190917020816-20190917042816-00513.warc.gz",
+   "offset": 161219142,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 25121,
+   "id": "<urn:uuid:c9e2e7d5-4c2a-4032-a6aa-47dc5b01d11a>",
+   "url": "https://www.mea.gov.in/Images/positive/PMIICMG-Telugu.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030337504.21/warc/CC-MAIN-20221004121345-20221004151345-00438.warc.gz",
+   "offset": 913311552,
+   "class": "usable"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 25122,
+   "id": "<urn:uuid:c48046c3-cae0-4cd3-9149-68f18aa9eb21>",
+   "url": "https://psc.ap.gov.in/Documents/GroupI/QuestionPapers/General%20%20Essay.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662601401.72/warc/CC-MAIN-20220526035036-20220526065036-00662.warc.gz",
+   "offset": 528513756,
+   "class": "broken"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 29711,
+   "id": "<urn:uuid:1b3d87cd-0302-44e8-b1f2-f90623c7a7e5>",
+   "url": "https://dtek.karnataka.gov.in/storage/pdf-files/JSP/IPGRS%20Login_0001.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-10/segments/1707947473401.5/warc/CC-MAIN-20240221070402-20240221100402-00266.warc.gz",
+   "offset": 238112374,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 29720,
+   "id": "<urn:uuid:6732c4ca-2368-4749-bbf9-735326c4f76a>",
+   "url": "http://www.vmrda.gov.in/vmrdabm/BM/year-1982/Resolution%20No.%20247.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320301863.7/warc/CC-MAIN-20220120130236-20220120160236-00069.warc.gz",
+   "offset": 135829867,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30432,
+   "id": "<urn:uuid:96f4f0ee-e74d-4616-a669-0d84eab0776c>",
+   "url": "https://csis.tshc.gov.in/hcorders/scorders/telugu/1952/ca/ca_78_1952.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738831951679.59/warc/CC-MAIN-20250211040852-20250211070852-00687.warc.gz",
+   "offset": 154890383,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30433,
+   "id": "<urn:uuid:100c640b-c402-45d9-ae8a-1429580ffff1>",
+   "url": "https://csis.tshc.gov.in/hcorders/scorders/telugu/1983/ca/ca_5855_1983.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738831951679.59/warc/CC-MAIN-20250211040852-20250211070852-00693.warc.gz",
+   "offset": 167830967,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30434,
+   "id": "<urn:uuid:57318f72-c305-42c0-acc1-3abccfedba86>",
+   "url": "https://cm.telangana.gov.in/jsp/mediaGallery/press_789_23-05-2016-05-48-19.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514572289.5/warc/CC-MAIN-20190915195146-20190915221146-00108.warc.gz",
+   "offset": 438667015,
+   "class": "broken"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30435,
+   "id": "<urn:uuid:a8a494c9-340b-42f0-87ea-c4bdff96b728>",
+   "url": "https://cm.telangana.gov.in/jsp/mediaGallery/press_1234_01-06-2019-12-32-44.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514572289.5/warc/CC-MAIN-20190915195146-20190915221146-00109.warc.gz",
+   "offset": 429940164,
+   "class": "broken"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30436,
+   "id": "<urn:uuid:7deab323-e08a-42d5-b668-32192ec5c1f4>",
+   "url": "http://rdpr.kar.nic.in/document/not_89_04_07_15.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514574710.66/warc/CC-MAIN-20190921231814-20190922013814-00220.warc.gz",
+   "offset": 153132542,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30437,
+   "id": "<urn:uuid:29669a61-e815-4c9a-8fa0-40f673d6b608>",
+   "url": "https://www.karnataka.gov.in/law/Govt%20Order%20%20Circulars/law137lad2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-47/segments/1573496669730.38/warc/CC-MAIN-20191118080848-20191118104848-00452.warc.gz",
+   "offset": 857774717,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30445,
+   "id": "<urn:uuid:c22c7ea2-b33b-4ce2-af3c-3f17ca7944ab>",
+   "url": "https://csis.tshc.gov.in/hcorders/scorders/telugu/1952/ca/ca_75_1952.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738831951679.59/warc/CC-MAIN-20250211040852-20250211070852-00702.warc.gz",
+   "offset": 158648909,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30447,
+   "id": "<urn:uuid:facccb85-a680-41ab-aa75-ed47543b9056>",
+   "url": "https://nfdb.gov.in/PDF/NFDBNFFBB_TEL.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-21/segments/1620243991812.46/warc/CC-MAIN-20210515004936-20210515034936-00249.warc.gz",
+   "offset": 445778192,
+   "class": "broken"
+  },
+  {
+   "cfg": "tel_Telu",
+   "row": 30448,
+   "id": "<urn:uuid:b9cb6454-0722-467c-badd-13e132462634>",
+   "url": "https://cm.telangana.gov.in/jsp/mediaGallery/press_308_09-11-2014-08-52-40.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514574710.66/warc/CC-MAIN-20190921231814-20190922013814-00226.warc.gz",
+   "offset": 400617463,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 90,
+   "id": "<urn:uuid:70454ef4-a480-424d-bffb-2afc41f10e7f>",
+   "url": "https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/Kannada%20Thayi%20Bhagya.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656104512702.80/warc/CC-MAIN-20220705022909-20220705052909-00405.warc.gz",
+   "offset": 391276766,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 91,
+   "id": "<urn:uuid:2698f018-e6a6-497c-86e9-1309666c0be5>",
+   "url": "https://rdpr.karnataka.gov.in/storage/pdf-files/Panchayatraj/do_956_16_10_10_18.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623487608856.6/warc/CC-MAIN-20210613131257-20210613161257-00290.warc.gz",
+   "offset": 450003024,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 92,
+   "id": "<urn:uuid:3cb7b85d-8b71-4c31-8581-29e907469609>",
+   "url": "https://rdpr.karnataka.gov.in/storage/pdf-files/Panchayatraj/go_73_20_28_04_21.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623487608856.6/warc/CC-MAIN-20210613131257-20210613161257-00292.warc.gz",
+   "offset": 449239955,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 93,
+   "id": "<urn:uuid:e452141e-dc19-474b-bf34-8782c42eac08>",
+   "url": "https://www.schooleducation.kar.nic.in/Prypdfs/rte/RTEREIM212216032022.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662580803.75/warc/CC-MAIN-20220525054507-20220525084507-00079.warc.gz",
+   "offset": 1091223706,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 94,
+   "id": "<urn:uuid:843b60c1-735e-4de0-ab67-831e51564122>",
+   "url": "https://www.schooleducation.kar.nic.in/Prypdfs/rte/RTEFeeReimbCircular09042020.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656104215790.65/warc/CC-MAIN-20220703043548-20220703073548-00512.warc.gz",
+   "offset": 1024018948,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 97,
+   "id": "<urn:uuid:842c960f-d7ec-4b53-9e14-8962b55ac5de>",
+   "url": "http://rdpr.kar.nic.in/document/go_79_22_21_02_17.PDF",
+   "file_path": "crawl-data/CC-MAIN-2017-39/segments/1505818690340.48/warc/CC-MAIN-20170925055211-20170925075211-00325.warc.gz",
+   "offset": 276242648,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 98,
+   "id": "<urn:uuid:e39ec5cc-3605-4700-a489-ce2c2c779568>",
+   "url": "http://pue.kar.nic.in/PUE/PDF_files/prom_transfer/KCS_RTT_ACT2007.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917122933.39/warc/CC-MAIN-20170423031202-00370-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 315697057,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 100,
+   "id": "<urn:uuid:61f39762-7de5-4c13-84ee-c75762b4a839>",
+   "url": "https://dtek.karnataka.gov.in/storage/pdf-files/EST/Court%20Case%20M%20Gopal_0001.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-10/segments/1707947474674.35/warc/CC-MAIN-20240227085429-20240227115429-00892.warc.gz",
+   "offset": 214063945,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 106,
+   "id": "<urn:uuid:918884ee-6d39-40a9-afde-53906ae53cdd>",
+   "url": "https://rdpr.karnataka.gov.in/storage/pdf-files/Panchayatraj/not_87_2020_06_06_2020.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623487608856.6/warc/CC-MAIN-20210613131257-20210613161257-00293.warc.gz",
+   "offset": 448101989,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 107,
+   "id": "<urn:uuid:28e0ac0b-f73a-4d6b-acb2-8dafbf6044b1>",
+   "url": "https://himshassan.karnataka.gov.in/storage/pdf-files/HIMS%20Quotations/Quotation%20for%20installation%20of%20%20oxygen%20pipeline%20%20to%20HIMS%20HOSPITAL%20HASSAN.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320305494.6/warc/CC-MAIN-20220128104113-20220128134113-00089.warc.gz",
+   "offset": 362599334,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 108,
+   "id": "<urn:uuid:b2f5542a-7571-494c-91ed-4edc2b06856f>",
+   "url": "https://karunadu.karnataka.gov.in/fisheries/english/Govt%20Order%20%20Circulars/2010-11/SCP.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-06/segments/1674764500028.12/warc/CC-MAIN-20230202133541-20230202163541-00672.warc.gz",
+   "offset": 352019899,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 780,
+   "id": "<urn:uuid:490c51f7-285c-4e42-a448-74e3115b68da>",
+   "url": "http://pue.kar.nic.in/PUE/PDF_files/circular/2016/Yuva%20Samsath%20Anuku.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218186841.66/warc/CC-MAIN-20170322212946-00080-ip-10-233-31-227.ec2.internal.warc.gz",
+   "offset": 290118861,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 781,
+   "id": "<urn:uuid:f48ea06b-a8a0-432b-a31f-2adf7ca394f7>",
+   "url": "http://pue.kar.nic.in/PUE/PDF_files/exam/2016/II_Time%20Table_FINAL.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-09/segments/1518891807660.32/warc/CC-MAIN-20180217185905-20180217205905-00527.warc.gz",
+   "offset": 285201224,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 784,
+   "id": "<urn:uuid:e6ff564b-18aa-4797-b492-51efba8dc4e8>",
+   "url": "http://pue.kar.nic.in/PUE/PDF_files/circular/2016/janapada.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-47/segments/1542039743854.48/warc/CC-MAIN-20181117205946-20181117231123-00015.warc.gz",
+   "offset": 283598402,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 786,
+   "id": "<urn:uuid:1d59d3b7-beaa-4502-b0de-0850fbf40bce>",
+   "url": "http://dte.kar.nic.in/Circulars/Budget/NP%20Budget%20aided%20institutes.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-30/segments/1500549424910.80/warc/CC-MAIN-20170724202315-20170724222315-00446.warc.gz",
+   "offset": 105644139,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 787,
+   "id": "<urn:uuid:7d22ae0e-8d29-4d8b-b346-9f8531afa05c>",
+   "url": "http://siudmysore.gov.in/pdf/calendar/Training%20Info/December/schedule/SC_DN.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-22/segments/1495463605188.47/warc/CC-MAIN-20170522151715-20170522171715-00302.warc.gz",
+   "offset": 341399555,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 788,
+   "id": "<urn:uuid:e72a63dc-f825-4746-be2e-5b82d949c438>",
+   "url": "https://kla.kar.nic.in/council/Replies/unstarred/09032022/usq1408(09032022).pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710902.80/warc/CC-MAIN-20221202114800-20221202144800-00870.warc.gz",
+   "offset": 386750882,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 789,
+   "id": "<urn:uuid:06992dbd-9189-4c6c-a6f0-53d3ce7371b2>",
+   "url": "https://dpue-exam.karnataka.gov.in/MODEL_QP2023/websiteupload/I%20PUC-MODEL%20QP%20%20IN%20PDF%20FORMAT/63.%20AUTOMOBILE%20NSQF%20MODEL%20QP%20I%20PU%202023-24.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100989.75/warc/CC-MAIN-20231209233632-20231210023632-00208.warc.gz",
+   "offset": 247502103,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 790,
+   "id": "<urn:uuid:a02d388d-3489-4a48-b2af-e637fb11fe04>",
+   "url": "http://advgen.kar.nic.in/docs/RTI/RTI%20%20INFORMATION%20HAND%20BOOK%20-%20KANNADA.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-17/segments/1524125945724.44/warc/CC-MAIN-20180423031429-20180423051429-00252.warc.gz",
+   "offset": 13281419,
+   "class": "broken"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 791,
+   "id": "<urn:uuid:9aad2ff0-dcdd-4d16-9ae8-d16d6330a3e0>",
+   "url": "http://chamrajnagar.nic.in/eroll/A222/A2220064.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917119782.43/warc/CC-MAIN-20170423031159-00178-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 68841564,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 792,
+   "id": "<urn:uuid:eb3f3ec0-1602-4953-8d3a-80b27733e2c9>",
+   "url": "http://chamrajnagar.nic.in/eroll/A222/A2220096.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917119782.43/warc/CC-MAIN-20170423031159-00179-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 84317875,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 798,
+   "id": "<urn:uuid:f12d3abd-0dd2-4d34-befa-d61bcac5837f>",
+   "url": "https://schooleducation.kar.nic.in/Officers/Pdfdocuments/DD-JD_Promo0706.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656103324665.17/warc/CC-MAIN-20220627012807-20220627042807-00713.warc.gz",
+   "offset": 557121976,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 799,
+   "id": "<urn:uuid:f26307fb-bc4b-4e3c-ad3c-6432491ab47e>",
+   "url": "https://kla.kar.nic.in/council/Replies/unstarred/29012021/26(07).pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-38/segments/1725700652246.93/warc/CC-MAIN-20240920090502-20240920120502-00322.warc.gz",
+   "offset": 308163759,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5292,
+   "id": "<urn:uuid:95cc2454-8203-47c3-be12-764eaaf88067>",
+   "url": "http://mysuru.nic.in/photographs/CS-16.03.2018.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-17/segments/1524125947803.66/warc/CC-MAIN-20180425115743-20180425135743-00216.warc.gz",
+   "offset": 237832093,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5294,
+   "id": "<urn:uuid:47bf477d-361e-46de-9c84-8cee1aeb680b>",
+   "url": "http://scert.kerala.gov.in/images/2013/KANNADA/Integration01.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-30/segments/1500549423222.65/warc/CC-MAIN-20170720141821-20170720161821-00712.warc.gz",
+   "offset": 289742316,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5295,
+   "id": "<urn:uuid:6c0a0c43-860d-42e0-9dc2-6a34a0ba304e>",
+   "url": "https://cdn.s3waas.gov.in/s3fa14d4fe2f19414de3ebd9f63d5c0169/uploads/2020/07/2020072047.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-40/segments/1600400192783.34/warc/CC-MAIN-20200919173334-20200919203334-00695.warc.gz",
+   "offset": 331796069,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5299,
+   "id": "<urn:uuid:6203f61f-e2e4-467a-9e04-7919c0602b54>",
+   "url": "https://kla.kar.nic.in/council/notification25012024.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738832263287.85/warc/CC-MAIN-20250219070951-20250219100951-00881.warc.gz",
+   "offset": 303583409,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5301,
+   "id": "<urn:uuid:d8fd9f44-83ef-4695-a520-0f9a064b940d>",
+   "url": "http://chamrajnagar.nic.in/eroll/A221/A2210099.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-22/segments/1495463607813.12/warc/CC-MAIN-20170524112717-20170524132717-00111.warc.gz",
+   "offset": 63551785,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5302,
+   "id": "<urn:uuid:19d73b34-90b7-4e54-be2b-85565644cffc>",
+   "url": "http://chamrajnagar.nic.in/eroll/A223/A2230190.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-22/segments/1495463607813.12/warc/CC-MAIN-20170524112717-20170524132717-00119.warc.gz",
+   "offset": 72580425,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5303,
+   "id": "<urn:uuid:edf09cd9-5d3c-4120-9795-b6de0e9e03aa>",
+   "url": "https://www.rera.karnataka.gov.in/download_jc?DOC_ID=772816",
+   "file_path": "crawl-data/CC-MAIN-2024-18/segments/1712296817249.26/warc/CC-MAIN-20240418222029-20240419012029-00674.warc.gz",
+   "offset": 837662473,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5304,
+   "id": "<urn:uuid:5974c77e-ab01-445e-9852-5e9c4f8af980>",
+   "url": "https://sericulture.karnataka.gov.in/storage/pdf-files/GM-1%20HK.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-33/segments/1659882573242.55/warc/CC-MAIN-20220818154820-20220818184820-00068.warc.gz",
+   "offset": 480951826,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5305,
+   "id": "<urn:uuid:0e7b479c-a56d-4b51-8be1-4c7065da7a25>",
+   "url": "http://pue.kar.nic.in/PUE/PDF_files/prom_transfer/2018/PRIN_COUN_2018.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-43/segments/1539583512501.27/warc/CC-MAIN-20181020013721-20181020035221-00537.warc.gz",
+   "offset": 295800394,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5308,
+   "id": "<urn:uuid:21902774-ccdb-49d6-beb6-02b156f2d085>",
+   "url": "https://www.upsc.gov.in/sites/default/files/KANADA-PAPER-II-LETERATURE.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780057598.98/warc/CC-MAIN-20210925052020-20210925082020-00189.warc.gz",
+   "offset": 1046274987,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5309,
+   "id": "<urn:uuid:88560840-df07-4db8-b2c2-2ed76e8ab3bb>",
+   "url": "http://horticulture.kar.nic.in/RTI/HassanRTI/Arasikere%20RTI/RTI%20Details%20-%20Arasikere%204_1__b_.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-05/segments/1516084888113.39/warc/CC-MAIN-20180119184632-20180119204632-00083.warc.gz",
+   "offset": 168223806,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5760,
+   "id": "<urn:uuid:95ee6fd2-38e7-40fc-b1ec-94d35957854f>",
+   "url": "http://ignca.gov.in/invitations/05012018_Rcb_film_screen_aihole_invite.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-22/segments/1526794863923.6/warc/CC-MAIN-20180521023747-20180521043747-00088.warc.gz",
+   "offset": 145341394,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5761,
+   "id": "<urn:uuid:93236e5e-0983-44bb-9956-fd614efe66c7>",
+   "url": "https://schooleducation.kar.nic.in/pdffiles/General%20cicular/State%20Teacher%20award%202023/STA%2001-08-23.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-40/segments/1695233510368.33/warc/CC-MAIN-20230928063033-20230928093033-00393.warc.gz",
+   "offset": 554013845,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5762,
+   "id": "<urn:uuid:6d07cde4-f115-442e-bb46-e1d819d78ba4>",
+   "url": "http://pue.kar.nic.in/PUE/PDF_files/infra/lab_fur/infr_gn3.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-30/segments/1531676589417.43/warc/CC-MAIN-20180716174032-20180716194032-00230.warc.gz",
+   "offset": 305698013,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5765,
+   "id": "<urn:uuid:74246047-3b65-47fe-a8a4-5175ac826c47>",
+   "url": "http://chamrajnagar.nic.in/eroll/A224/A2240179.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-47/segments/1542039743521.59/warc/CC-MAIN-20181117123417-20181117145417-00503.warc.gz",
+   "offset": 58204576,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5768,
+   "id": "<urn:uuid:23bdd088-aab9-4101-97d5-35ab931238e8>",
+   "url": "http://yadgir.nic.in/Documents/Files/Departments/DistIndustriesOfficeDet.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-26/segments/1498128323889.3/warc/CC-MAIN-20170629070237-20170629090237-00417.warc.gz",
+   "offset": 688335203,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5769,
+   "id": "<urn:uuid:41789107-105a-40f0-95ec-fa9a42b4e66f>",
+   "url": "http://mysore.nic.in/photographs/RTI-4_1_B2015-QASub-Dn-Mysore.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-22/segments/1495463607806.46/warc/CC-MAIN-20170524074252-20170524094252-00223.warc.gz",
+   "offset": 263642778,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5771,
+   "id": "<urn:uuid:d3212a07-eb62-4651-9c9a-e96d387f6411>",
+   "url": "http://karsec.gov.in/Results_23-11-2016_BBMPTPZP_Nov2016.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-22/segments/1495463607647.16/warc/CC-MAIN-20170523143045-20170523163045-00001.warc.gz",
+   "offset": 196287421,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5772,
+   "id": "<urn:uuid:cd964a97-68d3-4bbf-9d03-67028d14cd9e>",
+   "url": "http://des.kar.nic.in/docs/promotions%202016/fda%20to%20supdt.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-26/segments/1529267863489.85/warc/CC-MAIN-20180620065936-20180620085936-00258.warc.gz",
+   "offset": 74748747,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5773,
+   "id": "<urn:uuid:b85b7c23-9979-45a3-9160-7b3374f6b875>",
+   "url": "http://schooleducation.kar.nic.in/Prypdfs/rte/sakalaMRPTrg12.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-26/segments/1529267863489.85/warc/CC-MAIN-20180620065936-20180620085936-00262.warc.gz",
+   "offset": 277749685,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5774,
+   "id": "<urn:uuid:81c7e104-f0aa-437d-8a72-247119bad9b9>",
+   "url": "http://dte.kar.nic.in/Circulars/EGU/k2%20070919.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514573053.13/warc/CC-MAIN-20190917061226-20190917083226-00057.warc.gz",
+   "offset": 58753226,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5777,
+   "id": "<urn:uuid:73d7c240-ebb2-4f5b-9e5a-3ed3979a5cc1>",
+   "url": "http://www.dte.kar.nic.in/Circulars/CDC/PMKVY280618.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-30/segments/1531676590169.5/warc/CC-MAIN-20180718115544-20180718135544-00591.warc.gz",
+   "offset": 442232548,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 5778,
+   "id": "<urn:uuid:73a81467-524f-46c1-ad1c-6269c1e2c7eb>",
+   "url": "https://dtek.karnataka.gov.in/storage/pdf-files/EST/Adhar%20as%20Proof.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-50/segments/1606141732696.67/warc/CC-MAIN-20201203190021-20201203220021-00506.warc.gz",
+   "offset": 261263941,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6421,
+   "id": "<urn:uuid:759c1ab2-68a2-4c20-ba0c-f87d98161482>",
+   "url": "https://rcmysore.gov.in/staff.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-26/segments/1560627998605.33/warc/CC-MAIN-20190618023245-20190618045245-00268.warc.gz",
+   "offset": 563499316,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6422,
+   "id": "<urn:uuid:fcb04a28-b66c-43e4-b783-11f6f95960f1>",
+   "url": "https://kla.kar.nic.in/council/Replies/starred/220719/klc85(475)22719sq.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710980.82/warc/CC-MAIN-20221204204504-20221204234504-00090.warc.gz",
+   "offset": 398658790,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6423,
+   "id": "<urn:uuid:ab6e2af4-7a0d-4032-896d-5a76d4230b2a>",
+   "url": "https://kla.kar.nic.in/council/Replies/unstarred/24032021/usq1431769(2040).pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446711121.31/warc/CC-MAIN-20221206225143-20221207015143-00140.warc.gz",
+   "offset": 389741861,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6424,
+   "id": "<urn:uuid:ab6344ce-ba2f-4b99-95e6-de2d364f22dc>",
+   "url": "http://regional-commissioner-belgaum.gov.in/All-files/talukawise_candidate/gadag-gadag.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-30/segments/1531676591719.4/warc/CC-MAIN-20180720174340-20180720194340-00543.warc.gz",
+   "offset": 313980813,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6425,
+   "id": "<urn:uuid:4617bf07-3aff-48c6-8c36-745e4a36052a>",
+   "url": "https://rdpr.karnataka.gov.in/storage/pdf-files/RTI%20Act/RTI_4_1_A_07_08_21.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964358570.48/warc/CC-MAIN-20211128164634-20211128194634-00629.warc.gz",
+   "offset": 565436528,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6427,
+   "id": "<urn:uuid:6bbd1d09-b610-45bd-922e-93ca1b4dfc21>",
+   "url": "https://bidarpolice.karnataka.gov.in/storage/pdf-files/Daily%20Crime%20Data/DCR%2029-08-2022.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224655092.36/warc/CC-MAIN-20230608172023-20230608202023-00280.warc.gz",
+   "offset": 158000381,
+   "class": "broken"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6428,
+   "id": "<urn:uuid:524179a6-764c-4d0f-a2a4-bb51a66ce64a>",
+   "url": "https://bidarpolice.karnataka.gov.in/storage/pdf-files/Daily%20Crime%20Data/DCR%2025-11-2022.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224655092.36/warc/CC-MAIN-20230608172023-20230608202023-00284.warc.gz",
+   "offset": 164438986,
+   "class": "broken"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6429,
+   "id": "<urn:uuid:76692f5c-aacd-4693-b387-c00b0bdd0605>",
+   "url": "https://bidarpolice.karnataka.gov.in/storage/pdf-files/Daily%20Crime%20Data/DCR%2018-11-2022.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224655092.36/warc/CC-MAIN-20230608172023-20230608202023-00288.warc.gz",
+   "offset": 154565930,
+   "class": "broken"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6431,
+   "id": "<urn:uuid:6103fd14-3900-43ee-8ca4-f49221505a31>",
+   "url": "https://schooleducation.kar.nic.in/cacellpdfs/KARTET2021/KARTET2021-PRAKATANE-20072021.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656104204514.62/warc/CC-MAIN-20220702192528-20220702222528-00446.warc.gz",
+   "offset": 555564267,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6433,
+   "id": "<urn:uuid:520bea57-cb0c-499c-8435-ec9af0ea21f6>",
+   "url": "http://rdpr.kar.nic.in/document/let_42_22_06_14.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-51/segments/1544376824525.29/warc/CC-MAIN-20181213054204-20181213075704-00563.warc.gz",
+   "offset": 232144373,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6435,
+   "id": "<urn:uuid:fd270aae-ac3c-4e43-a810-0c1a93ae5d20>",
+   "url": "http://www.kpsc.kar.nic.in/PROLST%20ADTP.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320300849.28/warc/CC-MAIN-20220118122602-20220118152602-00165.warc.gz",
+   "offset": 123355858,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6437,
+   "id": "<urn:uuid:ddefea96-3a7e-425a-b29b-bfed6bd3ab8e>",
+   "url": "http://karsec.gov.in/Results_Gen-ByElection_Feb2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-47/segments/1510934804724.3/warc/CC-MAIN-20171118094746-20171118114746-00452.warc.gz",
+   "offset": 176965464,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6438,
+   "id": "<urn:uuid:8a52cd03-bb6f-4579-bdf7-f1c7d80ddb7a>",
+   "url": "http://chamrajnagar.nic.in/eroll/A221/A2210100.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-30/segments/1500549424586.47/warc/CC-MAIN-20170723182550-20170723202550-00389.warc.gz",
+   "offset": 66731671,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 6439,
+   "id": "<urn:uuid:4c596022-8e2f-46ab-b4fe-00c7e97f22ce>",
+   "url": "http://chamrajnagar.nic.in/eroll/A224/A2240200.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-30/segments/1500549424586.47/warc/CC-MAIN-20170723182550-20170723202550-00390.warc.gz",
+   "offset": 55008549,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15289,
+   "id": "<urn:uuid:3a69b267-9e4c-4616-879b-82a31f3d3ad0>",
+   "url": "http://chamrajnagar.nic.in/eroll/A224/A2240035.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218189316.33/warc/CC-MAIN-20170322212949-00459-ip-10-233-31-227.ec2.internal.warc.gz",
+   "offset": 63008273,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15290,
+   "id": "<urn:uuid:84d47a3b-cce2-4684-898c-171db73d7b78>",
+   "url": "http://chamrajnagar.nic.in/eroll/A223/A2230187.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218189316.33/warc/CC-MAIN-20170322212949-00469-ip-10-233-31-227.ec2.internal.warc.gz",
+   "offset": 61959513,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15293,
+   "id": "<urn:uuid:f6cb8eff-7063-40ca-ba13-56140c6f589f>",
+   "url": "https://schooleducation.kar.nic.in/pdffiles/GPTR2019/DistwiseNotification/185%20-%20V%20-%20ED%2094%20PBS%202018%20Udupi.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656103324665.17/warc/CC-MAIN-20220627012807-20220627042807-00499.warc.gz",
+   "offset": 562161601,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15295,
+   "id": "<urn:uuid:30543a4b-ea24-4a2d-be22-64abdc8f7527>",
+   "url": "http://rdpr.kar.nic.in/document/cir_101_02_02_10.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-39/segments/1505818691476.47/warc/CC-MAIN-20170925111643-20170925131643-00318.warc.gz",
+   "offset": 277815990,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15296,
+   "id": "<urn:uuid:df1772b4-8394-4f43-82b2-9958fd762c12>",
+   "url": "https://pue.kar.nic.in/PUE/PDF_files/circular/2017/English_trng_class.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320304947.93/warc/CC-MAIN-20220126101419-20220126131419-00294.warc.gz",
+   "offset": 544363232,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15297,
+   "id": "<urn:uuid:83fdaa78-7e77-470f-be7e-f65576464511>",
+   "url": "http://ceokarnataka.kar.nic.in/FinalRoll-2017/Kannada/WOIMG/AC218/AC2180119.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-43/segments/1508187824471.6/warc/CC-MAIN-20171020230225-20171021010225-00606.warc.gz",
+   "offset": 63892251,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15298,
+   "id": "<urn:uuid:266a06cc-37e9-4e50-8fdf-4a3bdc9312f8>",
+   "url": "https://agricoop.nic.in/sites/default/files/MODEL%20AGREEMENT%20BANANA%20Kannada%20Version_0.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623487641593.43/warc/CC-MAIN-20210618200114-20210618230114-00192.warc.gz",
+   "offset": 94439109,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15300,
+   "id": "<urn:uuid:679e11f4-263e-4922-8714-8f0ad24ec7bc>",
+   "url": "http://pue.kar.nic.in/PUE/PDF_files/Genral_Orders/PPD/gadag%2001-12-2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-43/segments/1539583512501.27/warc/CC-MAIN-20181020013721-20181020035221-00373.warc.gz",
+   "offset": 293904762,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 15301,
+   "id": "<urn:uuid:5c0f4ed2-5988-42a7-9f1f-64c073ff0ee8>",
+   "url": "http://pue.kar.nic.in/PUE/PDF_files/Genral_Orders/PPD/mysore%2030-10-17.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-43/segments/1539583512501.27/warc/CC-MAIN-20181020013721-20181020035221-00374.warc.gz",
+   "offset": 289195771,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25017,
+   "id": "<urn:uuid:171ade16-d563-4748-bd73-6fb8e945cfd0>",
+   "url": "https://ceokarnataka.kar.nic.in/ElectionFinalroll2014/PCROLL_2014/Kannada/WOIMG/AC154/AC1540200.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578528481.47/warc/CC-MAIN-20190420020937-20190420042937-00268.warc.gz",
+   "offset": 375439657,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25019,
+   "id": "<urn:uuid:919c941e-8096-46bb-8fc6-5c03093d24f1>",
+   "url": "https://kla.kar.nic.in/council/Replies/unstarred/14122020/usq142636(681).pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710869.86/warc/CC-MAIN-20221201185801-20221201215801-00326.warc.gz",
+   "offset": 401980247,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25020,
+   "id": "<urn:uuid:c70ad0eb-f7cb-46c1-a89f-febbdb286258>",
+   "url": "https://www.dsert.kar.nic.in/trgmodules/rachana/Maths-107-112.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662631064.64/warc/CC-MAIN-20220527015812-20220527045812-00436.warc.gz",
+   "offset": 837708741,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25021,
+   "id": "<urn:uuid:24baaacd-b449-434c-8e67-15ffcc60e57e>",
+   "url": "https://transport.karnataka.gov.in/storage/pdf-files/dl%20guide%20in%20kan.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710698.62/warc/CC-MAIN-20221129132340-20221129162340-00192.warc.gz",
+   "offset": 615947047,
+   "class": "broken"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25023,
+   "id": "<urn:uuid:b3806a07-324c-42aa-bb2b-a2015e659937>",
+   "url": "https://karunadu.karnataka.gov.in/fisheries/english/Govt%20Order%20%20Circulars/2010-11/Matsya%20Ashraya%20CSS.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-06/segments/1674764500028.12/warc/CC-MAIN-20230202133541-20230202163541-00461.warc.gz",
+   "offset": 370441562,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25024,
+   "id": "<urn:uuid:01cba785-b2e0-4ea2-a3f2-c4f1b2829688>",
+   "url": "https://dtek.karnataka.gov.in/storage/pdf-files/DVP/AE%20intake%20nitte%20minakshi14122020.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-10/segments/1707947474643.29/warc/CC-MAIN-20240225203035-20240225233035-00855.warc.gz",
+   "offset": 229346018,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25025,
+   "id": "<urn:uuid:e7eacb69-91bf-484f-be1d-054e501c7753>",
+   "url": "https://ceokarnataka.kar.nic.in/ElectionFinalroll2014/PCROLL_2014/Kannada/WOIMG/AC154/AC1540093.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578528481.47/warc/CC-MAIN-20190420020937-20190420042937-00276.warc.gz",
+   "offset": 360887412,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25026,
+   "id": "<urn:uuid:c0464e2e-4636-4337-9b14-8f1c5ac7cd04>",
+   "url": "https://ceokarnataka.kar.nic.in/ElectionFinalroll2014/PCROLL_2014/Kannada/WOIMG/AC154/AC1540288.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578528481.47/warc/CC-MAIN-20190420020937-20190420042937-00284.warc.gz",
+   "offset": 382579932,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25027,
+   "id": "<urn:uuid:9a8524a4-c9e5-4909-b40e-ea12eb1bd622>",
+   "url": "https://ceokarnataka.kar.nic.in//FinalRoll-2017/Kannada/WOIMG/AC218/AC2180035.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320301217.83/warc/CC-MAIN-20220119003144-20220119033144-00415.warc.gz",
+   "offset": 235089932,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25028,
+   "id": "<urn:uuid:6674b3fd-08ca-4ed8-8211-e634026fb5d5>",
+   "url": "https://ceokarnataka.kar.nic.in//FinalRoll-2017/Kannada/WOIMG/AC218/AC2180135.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320301217.83/warc/CC-MAIN-20220119003144-20220119033144-00416.warc.gz",
+   "offset": 220307260,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25029,
+   "id": "<urn:uuid:ba9b4150-f00b-468d-aa99-37517c7f25d6>",
+   "url": "https://fsi.mea.gov.in/Images/Amaz/NVBA-10-05-2023-Kannada.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-33/segments/1722641082193.83/warc/CC-MAIN-20240813172835-20240813202835-00504.warc.gz",
+   "offset": 219924071,
+   "class": "broken"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25031,
+   "id": "<urn:uuid:ad5874d8-5f6f-42cf-b9fc-674f1ab4bb64>",
+   "url": "http://sakala.kar.nic.in/GO1/2013-14/04.02.2014%20Television%20broadcasting.PDF",
+   "file_path": "crawl-data/CC-MAIN-2020-16/segments/1585371826355.84/warc/CC-MAIN-20200408233313-20200409023813-00233.warc.gz",
+   "offset": 152951467,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25032,
+   "id": "<urn:uuid:472c07d6-92a9-45ad-8d54-6852fb44534b>",
+   "url": "http://sakala.kar.nic.in/GO1/2013-14/28.09.2013%20SITC%20Salary.PDF",
+   "file_path": "crawl-data/CC-MAIN-2020-16/segments/1585371826355.84/warc/CC-MAIN-20200408233313-20200409023813-00233.warc.gz",
+   "offset": 152990119,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25033,
+   "id": "<urn:uuid:900667b9-914c-448c-88a2-ebc61b648ae7>",
+   "url": "https://kpsc.kar.nic.in/Prov%20list%20Water%20supply%20Operator.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-05/segments/1736703362541.8/warc/CC-MAIN-20250120010617-20250120040617-00360.warc.gz",
+   "offset": 350067005,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 25036,
+   "id": "<urn:uuid:afa30608-6768-41bb-b0e5-6c933c080ac8>",
+   "url": "http://dce.kar.nic.in/Files%20NRR/2016/agp4thlist.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917121865.67/warc/CC-MAIN-20170423031201-00053-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 105685656,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32207,
+   "id": "<urn:uuid:2fc97f31-8573-49b9-aed6-57ff63f1d609>",
+   "url": "http://mysore.nic.in/photographs/F156W52P554.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-30/segments/1531676596463.91/warc/CC-MAIN-20180723125929-20180723145929-00630.warc.gz",
+   "offset": 247905835,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32208,
+   "id": "<urn:uuid:9b9f0dd8-e2d2-4762-ae14-dbac5cf92b17>",
+   "url": "http://chamrajnagar.nic.in/eroll/A223/A2230139.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917122174.32/warc/CC-MAIN-20170423031202-00528-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 67467580,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32210,
+   "id": "<urn:uuid:abe348fc-5edc-4d7a-918e-f2228e73150a>",
+   "url": "https://kla.kar.nic.in/council/Replies/unstarred/23032022/usq2474(23032022).pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710473.38/warc/CC-MAIN-20221128034307-20221128064307-00522.warc.gz",
+   "offset": 400633133,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32211,
+   "id": "<urn:uuid:ac4a7591-569c-4f17-aff4-04ba6532d898>",
+   "url": "http://schooleducation.kar.nic.in/pdffiles/CPI-RTI.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-09/segments/1487501170600.29/warc/CC-MAIN-20170219104610-00551-ip-10-171-10-108.ec2.internal.warc.gz",
+   "offset": 230165159,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32212,
+   "id": "<urn:uuid:402d74d5-77ff-4057-a7b7-691b653d14dc>",
+   "url": "https://kla.kar.nic.in/council/Replies/unstarred/31032021/usq1433000(2533).pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710902.80/warc/CC-MAIN-20221202114800-20221202144800-00539.warc.gz",
+   "offset": 387702603,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32213,
+   "id": "<urn:uuid:a6161740-9f08-4d13-8582-cff53e173333>",
+   "url": "https://kla.kar.nic.in/council/Replies/unstarred/11032022/usq1574(11032022).pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710902.80/warc/CC-MAIN-20221202114800-20221202144800-00540.warc.gz",
+   "offset": 385436508,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32215,
+   "id": "<urn:uuid:e164370d-d123-4b54-b877-e5a8312afba6>",
+   "url": "https://ksrtc.karnataka.gov.in/storage/pdf-files/Seniority%20List/stat-01282021110519.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780056548.77/warc/CC-MAIN-20210918154248-20210918184248-00514.warc.gz",
+   "offset": 403245932,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32217,
+   "id": "<urn:uuid:48679719-be52-4db5-9ee2-9bc59010e775>",
+   "url": "http://rdpr.kar.nic.in/document/go_243_3_1.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514573385.29/warc/CC-MAIN-20190918234431-20190919020431-00207.warc.gz",
+   "offset": 160988523,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32218,
+   "id": "<urn:uuid:da9de579-d96f-48a2-8260-9c73b71805b1>",
+   "url": "http://kla.kar.nic.in/council/bullitten%20no%2031.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-43/segments/1508187822625.57/warc/CC-MAIN-20171017234801-20171018014801-00467.warc.gz",
+   "offset": 208004578,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32219,
+   "id": "<urn:uuid:78534793-07f0-4ae6-9818-01204538f7ed>",
+   "url": "http://chamrajnagar.nic.in/FINAL%20ULB/ULB/Kollegala/Kannada/No%20Image/Ward27/F276W27P040.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-30/segments/1531676591216.51/warc/CC-MAIN-20180719183926-20180719203926-00572.warc.gz",
+   "offset": 70238541,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32220,
+   "id": "<urn:uuid:95f65e66-547f-451a-9a9a-80e01188c1cb>",
+   "url": "http://chamrajnagar.nic.in/eroll/A221/A2210070.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-30/segments/1531676591216.51/warc/CC-MAIN-20180719183926-20180719203926-00573.warc.gz",
+   "offset": 73656250,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32221,
+   "id": "<urn:uuid:62d09418-765e-41ff-ab5b-d411fcfb4901>",
+   "url": "http://chamrajnagar.nic.in/FINAL%20ULB/ULB/Kollegala/Kannada/No%20Image/Ward15/F276W15P024.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-30/segments/1531676591216.51/warc/CC-MAIN-20180719183926-20180719203926-00576.warc.gz",
+   "offset": 72828396,
+   "class": "usable"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32222,
+   "id": "<urn:uuid:e0c1b1a7-1b79-43e5-9262-32baee8080a7>",
+   "url": "https://bidarpolice.karnataka.gov.in/storage/pdf-files/Daily%20Crime%20Data/DCR%2008-11-2022.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224655092.36/warc/CC-MAIN-20230608172023-20230608202023-00513.warc.gz",
+   "offset": 153849746,
+   "class": "broken"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32224,
+   "id": "<urn:uuid:e69f28a3-51b6-46ab-9aa9-35cc75db0826>",
+   "url": "https://kla.kar.nic.in/council/Replies/unstarred/17122018/usq811(17122018).pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446710473.38/warc/CC-MAIN-20221128034307-20221128064307-00527.warc.gz",
+   "offset": 387738514,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "kan_Knda",
+   "row": 32226,
+   "id": "<urn:uuid:0fda5ba8-1c2a-4c32-8016-fc43ac759172>",
+   "url": "https://kpwd.karnataka.gov.in/storage/pdf-files/KSHIP&KRDCL.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-10/segments/1707947474594.56/warc/CC-MAIN-20240225071740-20240225101740-00662.warc.gz",
+   "offset": 348996446,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8748,
+   "id": "<urn:uuid:543f69d4-a024-4a38-8573-2aa0f6c4739f>",
+   "url": "https://www.keralapsc.gov.in/sites/default/files/2022-02/press-releas.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030335257.60/warc/CC-MAIN-20220928145118-20220928175118-00042.warc.gz",
+   "offset": 933033954,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8751,
+   "id": "<urn:uuid:3d3c3fe9-d30e-4ea0-b40a-e2dd8bcdc94c>",
+   "url": "http://archive.education.kerala.gov.in/downloads2014/ktetexemption1232019.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944253879.21/warc/CC-MAIN-20241012051558-20241012081558-00899.warc.gz",
+   "offset": 1946622,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8752,
+   "id": "<urn:uuid:3dd3c6ce-20a3-42ed-87aa-0eb65c08fc36>",
+   "url": "http://archive.education.kerala.gov.in/downloads2014/announcement/dedcourse372017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944253879.21/warc/CC-MAIN-20241012051558-20241012081558-00894.warc.gz",
+   "offset": 2309621,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8753,
+   "id": "<urn:uuid:3941171e-e736-45a7-a692-1fcfca7eafec>",
+   "url": "http://archive.education.kerala.gov.in/downloads2014/announcement/2018/ministeriasection_28032018.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944253879.21/warc/CC-MAIN-20241012051558-20241012081558-00899.warc.gz",
+   "offset": 1810770,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8755,
+   "id": "<urn:uuid:a226dcbc-e8a9-455a-b5e0-1f5aec29eede>",
+   "url": "https://www.noticeboard.kerala.gov.in/documents/tenders/tender1309202418:06:15.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-05/segments/1736703363457.40/warc/CC-MAIN-20250122163143-20250122193143-00404.warc.gz",
+   "offset": 934713695,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8758,
+   "id": "<urn:uuid:2e44a01b-db11-4588-9274-90c370b5eaf7>",
+   "url": "http://keralaagriculture.gov.in/AWARD_2016-17/saf_award_2016_16a.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-17/segments/1492917121665.69/warc/CC-MAIN-20170423031201-00617-ip-10-145-167-34.ec2.internal.warc.gz",
+   "offset": 201438738,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8759,
+   "id": "<urn:uuid:f728ba06-7a08-4ef6-afed-995ebb12f369>",
+   "url": "http://dhsekerala.gov.in/downloads/circulars/2112221053_circu.PDF",
+   "file_path": "crawl-data/CC-MAIN-2023-06/segments/1674764500058.1/warc/CC-MAIN-20230203154140-20230203184140-00112.warc.gz",
+   "offset": 10642822,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8761,
+   "id": "<urn:uuid:96910b4b-2c7d-425f-b45d-40c9437787fd>",
+   "url": "http://collegiateedu.kerala.gov.in/wp-content/uploads/2020/09/Final-Integrated-Seniority-List-of-Lectures-in-Govt-Sanskrit-Colleges-Sanskrit-Special-as-on-01.01.2019-Dated-13.05.2019.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780054023.35/warc/CC-MAIN-20210917024943-20210917054943-00669.warc.gz",
+   "offset": 14584612,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 8763,
+   "id": "<urn:uuid:538473cc-b714-41bf-8a43-e59ce1db1262>",
+   "url": "http://gcda.kerala.gov.in/adminpanel/upload/tenders/834E21.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323588102.27/warc/CC-MAIN-20211027053727-20211027083727-00129.warc.gz",
+   "offset": 35451419,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9556,
+   "id": "<urn:uuid:74ee70ff-4f8e-4f2c-84e8-69b28f897687>",
+   "url": "http://collegiateedu.kerala.gov.in/docs/pdf/circular311220162.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-26/segments/1498128319933.33/warc/CC-MAIN-20170622234435-20170623014435-00030.warc.gz",
+   "offset": 86441017,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9558,
+   "id": "<urn:uuid:cdea5ad7-bd2a-4589-82b1-ee0c33cb7ca0>",
+   "url": "http://www.dhsekerala.gov.in/downloads/circulars/1805230452_tnr%20of%20PO.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-23/segments/1685224652207.81/warc/CC-MAIN-20230606013819-20230606043819-00042.warc.gz",
+   "offset": 57645127,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9559,
+   "id": "<urn:uuid:62038cea-8280-499b-9c5a-ff331cae3374>",
+   "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/noti-91-2022-mal.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446711712.26/warc/CC-MAIN-20221210042021-20221210072021-00503.warc.gz",
+   "offset": 916104671,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9560,
+   "id": "<urn:uuid:24926a2e-4fc6-481e-94cb-5d0af72e49ca>",
+   "url": "https://kdisc.kerala.gov.in/images/pdf2021/PRGM-mazhavillu.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323584913.24/warc/CC-MAIN-20211016170013-20211016200013-00301.warc.gz",
+   "offset": 457711579,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9562,
+   "id": "<urn:uuid:ad3fafe6-3945-44b5-87b0-8123f51abcb7>",
+   "url": "https://keralapsc.gov.in/sites/default/files/2018-08/REPAIR.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-40/segments/1600400244231.61/warc/CC-MAIN-20200926134026-20200926164026-00039.warc.gz",
+   "offset": 462998144,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9564,
+   "id": "<urn:uuid:aa4a99b4-644d-4d9b-a80e-7822e1d429ce>",
+   "url": "https://keralapsc.gov.in/sites/default/files/inline-files/noti-124-23-mlm.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100056.38/warc/CC-MAIN-20231129041834-20231129071834-00082.warc.gz",
+   "offset": 407375788,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9566,
+   "id": "<urn:uuid:dec217d3-a364-41c4-bd9c-af2a8cae476b>",
+   "url": "http://www.old.keralapsc.gov.in/index.php?option=com_docman&task=doc_download&gid=17993&Itemid=15",
+   "file_path": "crawl-data/CC-MAIN-2019-43/segments/1570987828425.99/warc/CC-MAIN-20191023015841-20191023043341-00368.warc.gz",
+   "offset": 296063599,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9567,
+   "id": "<urn:uuid:3444c032-40c7-4446-8095-19f70a351c7f>",
+   "url": "https://dop.lsgkerala.gov.in/index.php/system/files/proceedings/dop/E1-01-2018%282%29%20Dt%2018.04.2018%20%20Reinstatement%20of%20Grama%20Panchayat%20Secretary%20Order.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-05/segments/1736703696749.66/warc/CC-MAIN-20250124115547-20250124145547-00355.warc.gz",
+   "offset": 201610333,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 9568,
+   "id": "<urn:uuid:5f8d6366-6a00-47c4-8983-a7f54923df1d>",
+   "url": "https://cooperation.kerala.gov.in/coop/wp-content/uploads/GO/110.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323587659.72/warc/CC-MAIN-20211025092203-20211025122203-00559.warc.gz",
+   "offset": 279060504,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 18260,
+   "id": "<urn:uuid:119dc67d-b6e9-44fb-9436-1af256f8ec88>",
+   "url": "http://covid19jagratha.kerala.nic.in/resources/downloads/guildline1.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-31/segments/1627046152085.13/warc/CC-MAIN-20210805224801-20210806014801-00404.warc.gz",
+   "offset": 11025668,
+   "class": "usable"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 18261,
+   "id": "<urn:uuid:5064bcdd-7563-4a73-8e10-a57fb1a16c36>",
+   "url": "https://keralapsc.gov.in/sites/default/files/inline-files/682-2021-mal.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652662558015.52/warc/CC-MAIN-20220523101705-20220523131705-00382.warc.gz",
+   "offset": 392671261,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 18262,
+   "id": "<urn:uuid:6018e08a-0d0d-418b-9c4a-57de3d220e83>",
+   "url": "https://www.keralapsc.gov.in/sites/default/files/2023-05/u_o_note-1.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944253413.55/warc/CC-MAIN-20241006122235-20241006152235-00096.warc.gz",
+   "offset": 747065275,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 18263,
+   "id": "<urn:uuid:220d5b0c-e502-4487-bbc9-f1282a1c85dd>",
+   "url": "https://www.niyamasabha.nic.in/images/15th-KLA-committee-report/11SubComVIIIPeriodicalReport2022-23.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944253436.51/warc/CC-MAIN-20241006214240-20241007004240-00631.warc.gz",
+   "offset": 816915411,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 18264,
+   "id": "<urn:uuid:4113b4cc-c7c2-4561-bf57-61d22fb7630d>",
+   "url": "https://www.niyamasabha.nic.in/images/15th-KLA-committee-report/4SubCo3-2nd-Scruti-Report-27-06.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944253436.51/warc/CC-MAIN-20241006214240-20241007004240-00636.warc.gz",
+   "offset": 809018848,
+   "class": "usable"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 18269,
+   "id": "<urn:uuid:a6cda823-e647-4a14-b76a-eb071b5fd428>",
+   "url": "https://keralaagriculture.gov.in/wp-content/uploads/2024/03/GO-40-11-01-2024.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-18/segments/1712296817073.16/warc/CC-MAIN-20240416062523-20240416092523-00160.warc.gz",
+   "offset": 311396064,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 18275,
+   "id": "<urn:uuid:737814f1-cec0-469a-9395-a10c32916731>",
+   "url": "http://keralapolice.gov.in/media/pdf/auctions/2018/tvmrl/14897_tvmrl.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-26/segments/1529267864300.98/warc/CC-MAIN-20180621211603-20180621231603-00311.warc.gz",
+   "offset": 184260124,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 21161,
+   "id": "<urn:uuid:9c6bfd50-624f-4fff-88c8-02fb6cf52954>",
+   "url": "https://cooperation.kerala.gov.in/wp-content/uploads/2021/09/circular_41.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-43/segments/1634323588242.22/warc/CC-MAIN-20211027181907-20211027211907-00003.warc.gz",
+   "offset": 273607468,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 21162,
+   "id": "<urn:uuid:f1598b2f-0fd9-4164-8491-20b2bd9f9c33>",
+   "url": "http://celsgd.kerala.gov.in/old_site/pdf/cirular/NO-DA1-859-2017-LSGD-21-11-2017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-22/segments/1715971058721.41/warc/CC-MAIN-20240524152541-20240524182541-00154.warc.gz",
+   "offset": 5831675,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 21166,
+   "id": "<urn:uuid:c3d9fb09-f281-4a38-8889-00091fd468a4>",
+   "url": "http://collegiateedu.kerala.gov.in/docs/pdf/circular020320171.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-05/segments/1516084886895.18/warc/CC-MAIN-20180117102533-20180117122533-00598.warc.gz",
+   "offset": 68853710,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 21170,
+   "id": "<urn:uuid:e9624df5-5a17-49bc-9e8c-cc8b8ce220b6>",
+   "url": "https://cee.kerala.gov.in/keam2017_noti/Proceedings20220520.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656103322581.16/warc/CC-MAIN-20220626222503-20220627012503-00235.warc.gz",
+   "offset": 218973902,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 21171,
+   "id": "<urn:uuid:c0153574-de3b-419a-bba1-e7d48f81cc35>",
+   "url": "https://sametham.kite.kerala.gov.in/assets/documents/usermanual.pdf",
+   "file_path": "crawl-data/CC-MAIN-2020-16/segments/1585370525223.55/warc/CC-MAIN-20200404200523-20200404230523-00423.warc.gz",
+   "offset": 681634167,
+   "class": "usable"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 21173,
+   "id": "<urn:uuid:12cac190-3056-44a2-ae23-8148421d3e42>",
+   "url": "https://mea.gov.in/Images/french/WendyShermanMalayalam.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-49/segments/1669446711336.41/warc/CC-MAIN-20221208114402-20221208144402-00725.warc.gz",
+   "offset": 403972095,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 21176,
+   "id": "<urn:uuid:8d6975d0-cfb7-4345-8a0d-6cd49036d878>",
+   "url": "http://finance.kerala.gov.in/index.php?option=com_docman&task=doc_download&gid=13833&Itemid=57",
+   "file_path": "crawl-data/CC-MAIN-2018-17/segments/1524125944677.39/warc/CC-MAIN-20180420174802-20180420194802-00519.warc.gz",
+   "offset": 117086940,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 21177,
+   "id": "<urn:uuid:440d1c99-f4bc-470f-b3e8-84035166f896>",
+   "url": "https://watershed.karnataka.gov.in/storage/pdf-files/MPIC/MPIC%20January-2020.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780053657.29/warc/CC-MAIN-20210916145123-20210916175123-00009.warc.gz",
+   "offset": 646804144,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 39961,
+   "id": "<urn:uuid:9a336e44-8a3e-4b2d-abad-dcc1271ec6b4>",
+   "url": "http://ceokerala.nic.in/Form8.pdf",
+   "file_path": "crawl-data/CC-MAIN-2017-30/segments/1500549423901.32/warc/CC-MAIN-20170722042522-20170722062522-00024.warc.gz",
+   "offset": 62252973,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 39964,
+   "id": "<urn:uuid:fb0ff773-15c8-4f5c-9605-e64789e23730>",
+   "url": "http://www.old.ecostat.kerala.gov.in/images/pdf/orders/govt_orders/data/2021/after22092020/do_prb_19042021.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-06/segments/1674764500813.58/warc/CC-MAIN-20230208123621-20230208153621-00172.warc.gz",
+   "offset": 72871105,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 39968,
+   "id": "<urn:uuid:5bac7013-ce55-4b6a-93ac-55efebd089b5>",
+   "url": "https://fisheries.kerala.gov.in/sites/default/files/inline-files/openIssuedGOList%20-%202024-04-08T173306.306.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-26/segments/1718198861733.59/warc/CC-MAIN-20240617153913-20240617183913-00286.warc.gz",
+   "offset": 220668634,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 39973,
+   "id": "<urn:uuid:e206d6eb-0d44-4dc0-81f0-88d94a218749>",
+   "url": "https://egazette.kerala.gov.in/pdf/2022/kg_6/Thiru-trivandrum.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-21/segments/1652663011588.83/warc/CC-MAIN-20220528000300-20220528030300-00732.warc.gz",
+   "offset": 289336249,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 42538,
+   "id": "<urn:uuid:48aa358b-a6f6-4fe4-92eb-927ff83ae432>",
+   "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/4029-1.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-42/segments/1727944255215.78/warc/CC-MAIN-20241013153511-20241013183511-00400.warc.gz",
+   "offset": 107574180,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 42541,
+   "id": "<urn:uuid:2da4f386-24a8-44b2-a526-eae6e43fd787>",
+   "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/noti-275-23-mlm.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-18/segments/1712296816070.70/warc/CC-MAIN-20240412194614-20240412224614-00690.warc.gz",
+   "offset": 784516977,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 42543,
+   "id": "<urn:uuid:f46e1c3c-54e4-4b9c-b932-53756958b6ee>",
+   "url": "https://dhs.kerala.gov.in/wp-content/uploads/2024/10/img_0106.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-51/segments/1733066400558.71/warc/CC-MAIN-20241206093646-20241206123646-00346.warc.gz",
+   "offset": 176950755,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 42546,
+   "id": "<urn:uuid:14a9d31c-560a-4b9a-a0ed-26c677670bdf>",
+   "url": "https://kja.gov.in/kjauploads/media/reauction_noticed_dated_19_09_2023_1695275997.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100164.15/warc/CC-MAIN-20231130000127-20231130030127-00418.warc.gz",
+   "offset": 414125645,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 42548,
+   "id": "<urn:uuid:64b56602-24b9-4db0-b437-34a6b717108a>",
+   "url": "https://dashboard.kerala.gov.in/covid/orders/1599897450.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-46/segments/1730477027933.5/warc/CC-MAIN-20241106163535-20241106193535-00865.warc.gz",
+   "offset": 172037561,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 42549,
+   "id": "<urn:uuid:bc968384-b748-4fcf-b2e3-bcdc055a11de>",
+   "url": "https://dashboard.kerala.gov.in/covid/orders/1620577069.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-46/segments/1730477027933.5/warc/CC-MAIN-20241106163535-20241106193535-00877.warc.gz",
+   "offset": 172226696,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 42552,
+   "id": "<urn:uuid:fae4f440-1003-44c8-9f32-5d96ec2f692f>",
+   "url": "https://arogyakeralam.gov.in/wp-content/uploads/2020/04/palakkad-6.7.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656104189587.61/warc/CC-MAIN-20220702162147-20220702192147-00116.warc.gz",
+   "offset": 157750811,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 42553,
+   "id": "<urn:uuid:d342f743-6b46-4972-9b48-2982d27b012f>",
+   "url": "http://clr.kerala.gov.in/images/Establishment/Seniority/DTJS/DT_JS%20FINAL%20SENIORITY.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656104189587.61/warc/CC-MAIN-20220702162147-20220702192147-00132.warc.gz",
+   "offset": 13515156,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 43874,
+   "id": "<urn:uuid:81ef66d1-6f72-4413-8f89-b568fa43c576>",
+   "url": "https://www.crlindia.gov.in/writereaddata/files/Deshiya%20Granthasuchi%202019_1.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-05/segments/1736703362322.50/warc/CC-MAIN-20250117063557-20250117093557-00713.warc.gz",
+   "offset": 744750202,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 43876,
+   "id": "<urn:uuid:effb6b8a-2602-4189-a00f-bfcbcc8c1537>",
+   "url": "http://dhs.kerala.gov.in/docs/transfer/results/msa2_08112017.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-51/segments/1544376828507.57/warc/CC-MAIN-20181217113255-20181217135255-00421.warc.gz",
+   "offset": 77959533,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 43882,
+   "id": "<urn:uuid:edcde307-b48d-4c24-899e-c0ee98fe39e7>",
+   "url": "http://dme.kerala.gov.in/images/pdf/pdf2019/Notification%202019/GNM_Notifcation_19_10_2019_spot_on_26_10_19.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100674.56/warc/CC-MAIN-20231207121942-20231207151942-00627.warc.gz",
+   "offset": 12646011,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 43883,
+   "id": "<urn:uuid:3381929d-46dc-4765-a75c-57554e39ef96>",
+   "url": "http://dhs.kerala.gov.in/docs/transfer/results/es2_31012018b.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-43/segments/1539583509170.2/warc/CC-MAIN-20181015100606-20181015122106-00260.warc.gz",
+   "offset": 94512134,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 43886,
+   "id": "<urn:uuid:6fa49633-c845-4907-bc51-8702c89daedd>",
+   "url": "https://www.keralapsc.gov.in/sites/default/files/2022-11/sl__bfo_final_bt__93.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-06/segments/1674764500837.65/warc/CC-MAIN-20230208155417-20230208185417-00646.warc.gz",
+   "offset": 855069986,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 43887,
+   "id": "<urn:uuid:63b7b018-9d76-4dbb-a01f-f6b3da54bfce>",
+   "url": "http://collegiateedu.kerala.gov.in/docs/pdf/sabareeshvig20072018.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-34/segments/1534221213247.0/warc/CC-MAIN-20180818001437-20180818021437-00287.warc.gz",
+   "offset": 96638108,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 43892,
+   "id": "<urn:uuid:0069844d-899e-4d64-83cc-54c491633204>",
+   "url": "http://wcd.kerala.gov.in/DOCUMENTS/IEC-Child%20Protection/Print/27548.pdf",
+   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030335034.61/warc/CC-MAIN-20220927131111-20220927161111-00293.warc.gz",
+   "offset": 70963271,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 48958,
+   "id": "<urn:uuid:006a3fe5-ec2d-4882-b3b3-338cb39b46f9>",
+   "url": "http://clr.kerala.gov.in/docs/Typist2014/ld_typist_promotion.pdf",
+   "file_path": "crawl-data/CC-MAIN-2018-34/segments/1534221211167.1/warc/CC-MAIN-20180816191550-20180816211550-00099.warc.gz",
+   "offset": 84074106,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 48960,
+   "id": "<urn:uuid:30a24c5f-afbf-4778-9bed-73d6618447d3>",
+   "url": "https://www.noticeboard.kerala.gov.in/documents/tenders/tender1107202411:07:42.pdf",
+   "file_path": "crawl-data/CC-MAIN-2025-05/segments/1736703362263.14/warc/CC-MAIN-20250115174754-20250115204754-00454.warc.gz",
+   "offset": 955372805,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 48963,
+   "id": "<urn:uuid:4fc50c4e-ee70-408b-95e9-30f83767b48e>",
+   "url": "https://cooperation.kerala.gov.in/coop/wp-content/uploads/employees/arp19.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-21/segments/1620243991557.62/warc/CC-MAIN-20210517023244-20210517053244-00095.warc.gz",
+   "offset": 208662525,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 48964,
+   "id": "<urn:uuid:4d0bf300-3db7-4c9d-8c3c-304a35c9f1c9>",
+   "url": "https://cooperation.kerala.gov.in/coop/wp-content/uploads/employees/21%20eb%20dr.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-21/segments/1620243991557.62/warc/CC-MAIN-20210517023244-20210517053244-00096.warc.gz",
+   "offset": 208470807,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 48966,
+   "id": "<urn:uuid:a396505a-dd55-4d55-8e8e-7cb7b48de185>",
+   "url": "https://homoeopathy.kerala.gov.in/wp-content/uploads/2018/07/OA-ratio-promotion-order.pdf",
+   "file_path": "crawl-data/CC-MAIN-2023-40/segments/1695233510208.72/warc/CC-MAIN-20230926111439-20230926141439-00473.warc.gz",
+   "offset": 324560325,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 48969,
+   "id": "<urn:uuid:e3b576ab-017e-44f0-b16b-5982370bb6b7>",
+   "url": "https://sdma.kerala.gov.in/wp-content/uploads/2021/06/minutes_kozhikode.pdf",
+   "file_path": "crawl-data/CC-MAIN-2024-30/segments/1720763514484.89/warc/CC-MAIN-20240713020211-20240713050211-00441.warc.gz",
+   "offset": 417237787,
+   "class": "broken"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 48973,
+   "id": "<urn:uuid:f667e748-cc0c-4227-b80a-8164a4da773b>",
+   "url": "https://cdn.s3waas.gov.in/s3577ef1154f3240ad5b9b413aa7346a1e/uploads/2019/03/2019030812.pdf",
+   "file_path": "crawl-data/CC-MAIN-2019-13/segments/1552912203493.88/warc/CC-MAIN-20190324210143-20190324232143-00182.warc.gz",
+   "offset": 445964906,
+   "class": "ocr_routed"
+  },
+  {
+   "cfg": "mal_Mlym",
+   "row": 48976,
+   "id": "<urn:uuid:9e1a7145-8cb1-4348-94e5-320f2c6db179>",
+   "url": "https://tvmcity.keralapolice.gov.in/media/pdf/press-releases/2021/11-04-2021.pdf",
+   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964363465.47/warc/CC-MAIN-20211208083545-20211208113545-00126.warc.gz",
+   "offset": 650702187,
+   "class": "ocr_routed"
+  }
+ ]
+}

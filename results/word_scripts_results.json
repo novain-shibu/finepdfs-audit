@@ -1,0 +1,114 @@
+{
+ "en": {
+  "font": "Calibri",
+  "words": 697,
+  "word_recall_pymupdf": 1.0,
+  "word_recall_pdfminer": 1.0,
+  "letter_recall": 1.0,
+  "letter3_recall": 1.0
+ },
+ "ru": {
+  "font": "Calibri",
+  "words": 456,
+  "word_recall_pymupdf": 1.0,
+  "word_recall_pdfminer": 1.0,
+  "letter_recall": 1.0,
+  "letter3_recall": 1.0
+ },
+ "he": {
+  "font": "Segoe UI",
+  "words": 695,
+  "word_recall_pymupdf": 0.9971,
+  "word_recall_pdfminer": 0.1324,
+  "letter_recall": 0.9997,
+  "letter3_recall": 0.9984
+ },
+ "ka": {
+  "font": "Segoe UI",
+  "words": 135,
+  "word_recall_pymupdf": 1.0,
+  "word_recall_pdfminer": 1.0,
+  "letter_recall": 1.0,
+  "letter3_recall": 1.0
+ },
+ "ar": {
+  "font": "Arial",
+  "words": 676,
+  "word_recall_pymupdf": 0.9275,
+  "word_recall_pdfminer": 0.0399,
+  "letter_recall": 0.9849,
+  "letter3_recall": 0.9429
+ },
+ "fa": {
+  "font": "Arial",
+  "words": 367,
+  "word_recall_pymupdf": 0.9155,
+  "word_recall_pdfminer": 0.0627,
+  "letter_recall": 0.9972,
+  "letter3_recall": 0.9894
+ },
+ "ur": {
+  "font": "Arial",
+  "words": 881,
+  "word_recall_pymupdf": 0.9103,
+  "word_recall_pdfminer": 0.0829,
+  "letter_recall": 0.971,
+  "letter3_recall": 0.911
+ },
+ "km": {
+  "font": "Leelawadee UI",
+  "words": 59,
+  "word_recall_pymupdf": 0.0,
+  "word_recall_pdfminer": 0.0,
+  "letter_recall": 0.3585,
+  "letter3_recall": 0.302
+ },
+ "lo": {
+  "font": "Leelawadee UI",
+  "words": 113,
+  "word_recall_pymupdf": 0.3982,
+  "word_recall_pdfminer": 0.1947,
+  "letter_recall": 0.9722,
+  "letter3_recall": 0.8468
+ },
+ "my": {
+  "font": "Myanmar Text",
+  "words": 131,
+  "word_recall_pymupdf": 0.0687,
+  "word_recall_pdfminer": 0.0687,
+  "letter_recall": 0.8742,
+  "letter3_recall": 0.5056
+ },
+ "bo": {
+  "font": "Microsoft Himalaya",
+  "words": 992,
+  "word_recall_pymupdf": 0.873,
+  "word_recall_pdfminer": 0.873,
+  "letter_recall": 0.9534,
+  "letter3_recall": 0.8718
+ },
+ "am": {
+  "font": "Ebrima",
+  "words": 452,
+  "word_recall_pymupdf": 0.9889,
+  "word_recall_pdfminer": 0.9845,
+  "letter_recall": 0.9988,
+  "letter3_recall": 0.9965
+ },
+ "dv": {
+  "font": "MV Boli",
+  "words": 468,
+  "word_recall_pymupdf": 0.0043,
+  "word_recall_pdfminer": 0.0021,
+  "letter_recall": 0.7171,
+  "letter3_recall": 0.4933
+ },
+ "jv": {
+  "font": "Javanese Text",
+  "words": 301,
+  "word_recall_pymupdf": 1.0,
+  "word_recall_pdfminer": 1.0,
+  "letter_recall": 1.0,
+  "letter3_recall": 1.0
+ }
+}

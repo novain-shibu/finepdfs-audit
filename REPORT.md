@@ -1,4 +1,4 @@
-# FinePDFs: corrupted (text-layer path) and fabricated (rolmOCR path) text in complex-script configs, and small-language configs filled with broken text
+# FinePDFs: corrupted (text-layer path) and fabricated (rolmOCR path) text in complex-script configs, small-language configs filled with broken text, and why: unreadable government PDFs and Word's PDF export
 
 **Full report, code and results:** https://github.com/novain-shibu/finepdfs-audit · permanent record: DOI [10.5281/zenodo.23432200](https://doi.org/10.5281/zenodo.23432200)
 
@@ -9,6 +9,8 @@
 4. **The text-layer damage is recoverable without OCR:** inverting OpenType shaping recovers 99.1% of words on held-out Word PDFs in 10 scripts (free Tesseract 86.2%; RolmOCR 61.2% on the documents it finished in our run).
 5. **New in v1.2: the `glk_Arab` ("Gilaki") config is mostly broken Persian/Arabic PDF text.** In a fresh random sample, **80/95 docs (84%, 95% CI 76-90%; about 90% of the sampled tokens)** are Persian or Arabic PDFs whose text layer came out broken (presentation forms, reversed lines, legacy-font mojibake), labelled Gilaki by language ID; the same rules flag 0/104 real Gilaki and 0/40 Persian Wikipedia articles. If the rate holds, that is about 4.5 billion of the config's 4.98 billion tokens (section 5).
 6. **New in v1.3: broken text of big languages is filed under small languages.** Across all 82 non-Latin configs with >= 1,000 docs, damaged or wrong-script text piles up in small-language configs while the big ones stay mostly clean. Confirmed on fresh samples: Southern Balochi `bcc_Arab` 99%, Kashmiri `kas_Arab` 94%, "Gilaki" `glk_Arab` 73% and Mesopotamian Arabic `acm_Arab` 69% are mostly Persian or standard Arabic with a broken text layer; Assamese 82%, Uyghur 67% and Punjabi 60% are the right language with a broken text layer. About 6.1 billion tokens are mislabelled if the sampled rates hold (section 6).
+7. **New in v1.4: Indian government PDFs in regional languages are mostly unreadable by screen readers and AI.** Of 791 randomly sampled government (gov.in / nic.in) PDFs in nine Indian languages, **93.8% (95% CI 91.9-95.3%)** have no correct Unicode text: 73% are scans with no text, 21% have a broken text layer from Microsoft Word, only 6% are clean (checked on 29 originals: 27 agree). It got worse over time: 91% in 2017-19 crawls, 97.5% in 2023-25 (section 7).
+8. **New in v1.4: the root cause reaches beyond India.** Microsoft Word made 79% (75-82%) of 477 broken Indian-language originals, every version from 2007 to Microsoft 365. In a controlled test, Word 365's "Save as PDF" also garbles Khmer (36% of letters survive), Divehi, Myanmar and Lao, while Arabic, Hebrew, Thai, Amharic and Georgian survive (section 8).
 
 The dataset card already warns that rolmOCR may hallucinate in low-resource languages. What this adds: in our samples of these seven languages (together well over 200 million speakers) it is the norm, not the exception, while scripts close to high-resource ones (Devanagari, Bengali, Gujarati, Thai) are largely fine; and nothing in the released data marks it. It matches a known model weakness: GlotOCR Bench (Kargaran et al., arXiv 2604.12978) reports RolmOCR at 0-3% Acc@5 on Tamil, Telugu, Kannada and Malayalam with the script itself correct.
 
@@ -133,6 +135,42 @@ Controls with the same rules: Wikipedia Uyghur 0/87, Arabic 0/97, Persian 0/100,
 
 **What this means.** In FinePDFs, text that the extractor damaged is often assigned by language ID to a small neighbouring language (median language-ID confidence 0.15-0.6 in the affected configs). The result is that the configs a builder would use for Balochi, Kashmiri, Gilaki or Mesopotamian Arabic are mostly broken Persian or Arabic: about 6.1 billion tokens in the four confirmed wrong-language configs if the sampled rates hold (about 6.6 billion with the two likely ones). The `glk_Arab` part overlaps section 5 (same config, stricter rule here); do not add the two. The general phenomenon, small-language subsets of web corpora that are mostly wrong-language or junk, was documented for older corpora by Kreutzer et al. (2022, "Quality at a Glance"); earlier related evidence: only about 40% of mC4's Marathi bucket was well-formed Marathi (Chung et al. 2023, UniMax); language-ID models confuse Balochi, Gilaki and Kashmiri with Persian (Ahmadi 2023, PALI); and a MITRE study found Word-made PDFs the worst source for Arabic and Persian text extraction (DTIC ADA546769). To our knowledge, this section is the first to show the effect in a 2025 PDF corpus, trace it to broken PDF text layers, and size it. A quick comparison points at PDF extraction as the cause: in Hugging Face's web corpus FineWeb-2, which uses the same config names, the same rules flag 0/19 `kas_Arab` docs (real Kashmiri) and 1/20 `glk_Arab` docs (20-row screen; `bcc_Arab` could not be fetched). Not claimed: anything about configs not re-tested; rolmOCR fabrication in these configs; exact token totals (estimates from mean tokens per sampled doc).
 
+## 7. New in v1.4: Indian government regional-language PDFs - can a screen reader read them?
+The text layer of a PDF is what screen readers (for blind and low-vision readers), search engines, translation tools and AI pipelines read. India's Rights of Persons with Disabilities Act 2016 and the Guidelines for Indian Government Websites (GIGW 3.0) require accessible documents, and the Supreme Court e-Committee's 2026 PDF guidance asks for Unicode regional-language text and OCR'd scans. Code: `code/gov_check.py`; results: `results/gov_results_run1_seed3535.json`, `results/gov_results_run2_seed3636.json`, `results/gov_verify_29_originals.json`.
+
+**Method** (pre-registered). Random rows from ten Indian-language configs; keep documents whose URL host ends in `gov.in` or `nic.in`; drop truncated PDFs (FinePDFs sent those to OCR regardless). Classes: *OCR-routed* (FinePDFs judged the text layer unusable), *broken* (> 5% orthographically impossible words in the stored text), *usable*. **Verification**: 29 of the originals fetched from Common Crawl and read with PyMuPDF (the PDF's own text layer): OCR-routed -> 8/9 had no text at all (scanner output) and 1 broken; broken -> 9/10 broken, all made by Microsoft Word 2007-365; usable -> 9/10 usable. Agreement 27/29 = 93% (bar set beforehand: 80%). The downloaded PDFs were deleted after the check.
+
+| | run 1 (seed 3535) | run 2, confirmation (seed 3636, fresh) |
+|---|---|---|
+| govt documents classified | 394 | 791 |
+| scans / no usable text (OCR-routed) | 294 (75%) | 574 (73%) |
+| broken text layer | 69 (18%) | 168 (21%) |
+| usable | 31 (8%) | 49 (6%) |
+| **not readable (95% CI)** | **92.1% (89.0-94.4%)** | **93.8% (91.9-95.3%)** |
+
+Run 2 per language: Hindi 99%, Marathi 99%, Tamil 100%, Malayalam 97.5%, Punjabi 96%, Gujarati 90%, Odia 88%, Telugu 88%, Kannada 87% (Bengali: almost no Indian government PDFs in the config). **Trend** (pre-registered, by Common Crawl snapshot year): 2017-19 91.4% (87.6-94.1%) -> 2023-25 97.5% (94.4-98.9%), confidence intervals not overlapping; the broken-Word share rose from 8% to 27-30%. By host (n >= 15): Karnataka district sites (kar.nic.in) 103/103 not readable, Tamil Nadu 38/38, Bihar districts 26/26, Rajasthan 24/24, Maharashtra 18/18, Kerala 71/72, Ministry of External Affairs 39/49 (all broken Word exports, no scans), and the government's own website platform S3WaaS ("Secure, Scalable and Sugamya", i.e. accessible) 24/24; one district site (Chamarajanagar, report-generator output) was 17/17 readable, so clean output is possible.
+
+**Scope.** These are government PDFs that Common Crawl captured and FinePDFs kept in its Indian-language configs (2013-2025), not a census of all government documents; crawl year approximates publication year. Prior work audited Indian government *websites* (Centre for Internet & Society 2016, 7,800 sites; WCAG 2.1 studies of ministry sites); we found no measurement of regional-language PDF text layers. The local checker `tools/indic_pdf_check.py` gives any office the same verdict (no text / broken / OK) for its own PDFs before publishing.
+
+## 8. New in v1.4: Microsoft Word's "Save as PDF" and complex scripts
+**At scale** (`results/word_rootcause_555.json`, `tools/indic_pdf_check.py` on the 555 broken originals of section 3): 477 have a broken text layer; Microsoft Word made 375 of them (79%, 95% CI 75-82%), across every version (2010: 103, 2016: 70, 2007: 64, 2013: 45, Microsoft 365: 49, 2019: 21); 308 of the 375 are tagged PDFs, i.e. made with accessibility structure switched on, and still unreadable.
+
+**Controlled test** (`code/word_scripts_test.py`, results `results/word_scripts_results.json`): Wikipedia text in 14 scripts saved as PDF by Word for Microsoft 365 with the default Windows font for each script, read back with PyMuPDF and pdfminer (pre-registered: a script is broken if both extractors recover < 90% of words; English and Russian controls must be >= 98%).
+
+| script (font) | words recovered, PyMuPDF / pdfminer | letters recovered | verdict |
+|---|---|---|---|
+| English, Russian (Calibri) | 100% / 100% | 100% | control |
+| Georgian (Segoe UI), Javanese, Amharic (Ebrima) | 99-100% | 100% | fine |
+| Hebrew (Segoe UI) | 99.7% / 13.2% | 100% | fine (pdfminer's right-to-left handling) |
+| Arabic, Persian, Urdu (Arial) | 91-93% / 4-8% | 97-99.7% | not broken by the rule |
+| Tibetan (Microsoft Himalaya) | 87.3% / 87.3% | 95.3% | broken (mild) |
+| Lao (Leelawadee UI) | 39.8% / 19.5% | 97.2% (85% of letter triples) | broken |
+| Myanmar (Myanmar Text) | 6.9% / 6.9% | 87.4% (51% of letter triples) | broken |
+| Divehi / Thaana (MV Boli) | 0.4% / 0.2% | 71.7% | broken |
+| Khmer (Leelawadee UI) | 0.0% / 0.0% | 35.8% | broken |
+
+With section 3's Word test (Devanagari, Bengali, Tamil, Malayalam, Telugu, Kannada, Gujarati, Gurmukhi, Odia and Sinhala: 7-65% of words recoverable), Word 365's PDF export garbles about 15 scripts whose languages have over a billion speakers, while it handles Arabic, Hebrew, Thai, Amharic and Georgian. Another PDF producer (Typst) has been reported to export Khmer that extracts exactly, so the problem is fixable at the source. Prior art: many user reports (Adobe and Aspose forums: Khmer, Myanmar, Lao, Hindi), a 2020 PDF Association talk on complex scripts, and a MITRE study on Arabic/Persian PDFs (DTIC ADA546769); we found no systematic cross-script measurement of Word. Limits: one Word build, one font per script, Wikipedia text; readers that use the PDF's text layer (screen readers, search, copy-paste) see the same text as the extractors.
+
 ## Suggestions
 1. Don't route damaged Tamil/Malayalam/Telugu/Kannada text-layer docs to rolmOCR as is: that trades visible corruption for invisible fabrication.
 2. Flag or drop rolmOCR-path docs in these configs whose text disagrees with an independent reader, or add a per-language OCR quality gate; at minimum, document the per-language risk in the card.
@@ -140,6 +178,7 @@ Controls with the same rules: Wikipedia Uyghur 0/87, Arabic 0/97, Persian 0/100,
 4. For Word-made PDFs, consider re-extraction by inverse shaping instead of OCR.
 5. For Arabic-script PDFs, NFKC-normalise presentation forms and detect reversed lines before language ID; low-confidence language-ID results in rare-language configs deserve a check (`glk_Arab`: median 0.44).
 6. Before release, check every config for script mismatch and broken text with the cheap per-document rules of section 6, and treat low language-ID confidence in small-language configs as a warning sign; the configs listed in section 6 can be re-assigned (most are Persian or Arabic) or dropped.
+7. For Microsoft: write ActualText (or a correct ToUnicode mapping per glyph cluster) when exporting complex-script text from Word to PDF; until then, publishers of Indic, Sinhala, Khmer, Myanmar, Lao and Thaana PDFs should check that copied text matches the source (for Indian scripts: `tools/indic_pdf_check.py`).
 
 I'm happy to run the two-reader check over full configs, or help test any fix.
 

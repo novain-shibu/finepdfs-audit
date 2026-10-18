@@ -1,0 +1,5552 @@
+[
+ {
+  "file": "urn_uuid_0032a0fc-bd2c-4fb9-b5d6-14d7456b14ec.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 4206,
+  "broken_share": 0.3212,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_013bd616-267e-4426-9b4e-e7af03845e4c.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 67,
+  "broken_share": 0.0896,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_019c8012-b42d-439a-b53a-89b1ec6c24c1.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 128,
+  "broken_share": 0.0938,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_01fd3f56-ef52-455f-8200-77c2b414f2b1.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 446,
+  "broken_share": 0.2556,
+  "tagged": true,
+  "creator": "Microsoft® PowerPoint® 2019",
+  "producer": "Microsoft® PowerPoint® 2019"
+ },
+ {
+  "file": "urn_uuid_0268883a-cadc-41f4-9605-80eda4db5b30.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 3557,
+  "broken_share": 0.0593,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_027a74b3-e130-4058-bd2a-23f1820038e1.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1810,
+  "broken_share": 0.2934,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_04248324-68b5-42f6-a4f8-75d863552a34.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 2401,
+  "broken_share": 0.167,
+  "tagged": true,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_04f3c59e-a948-4716-b1ef-a0c32196baa6.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 6760,
+  "broken_share": 0.2725,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_054e2fb6-a982-4af2-8e38-ea2a75840fb6.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 2116,
+  "broken_share": 0.1701,
+  "tagged": false,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_0555beff-8e2d-44ed-9d3d-2273ffb65087.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 2006,
+  "broken_share": 0.2871,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_0561ed41-764d-402c-bf12-beaa9ebcbcce.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 746,
+  "broken_share": 0.1743,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_06116db2-fdba-47cd-a503-e6a28111f711.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 182,
+  "broken_share": 0.3242,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_06d77818-7598-40f5-83a9-890e3e523e46.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 2192,
+  "broken_share": 0.2527,
+  "tagged": false,
+  "creator": "",
+  "producer": "PDF Candy"
+ },
+ {
+  "file": "urn_uuid_07105469-dcc6-4bae-af8b-b40170eaf9ba.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 221,
+  "broken_share": 0.095,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_091430e2-3f98-4336-90e6-191b62f26ac8.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 5034,
+  "broken_share": 0.2757,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_091a0dc5-4d58-4dbd-acc7-afca422cc4e6.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 2037,
+  "broken_share": 0.2533,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_0a110ff8-7809-4758-a779-7264f694d572.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 1630,
+  "broken_share": 0.1497,
+  "tagged": false,
+  "creator": "",
+  "producer": "mPDF 6.1"
+ },
+ {
+  "file": "urn_uuid_0af7578e-c799-462a-b328-7cbd77c7fb70.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 193,
+  "broken_share": 0.1606,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_0b1949bf-a5bb-4228-a9d3-f567e453f4cc.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 4796,
+  "broken_share": 0.4033,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_0bb06344-46ad-4875-88a2-242adf097522.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 1262,
+  "broken_share": 0.0943,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 7.0"
+ },
+ {
+  "file": "urn_uuid_0bf6200d-b68a-406d-a9a9-d508cdd5cd70.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 1822,
+  "broken_share": 0.1262,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_0bfa20a6-f2ca-4c9b-89eb-29498551b3fd.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 4302,
+  "broken_share": 0.1134,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_0c6fe210-1c52-4d8c-87b4-9f97b40dab09.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_0c77577c-ffb1-4c7a-9d01-436f28fbd778.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 305,
+  "broken_share": 0.2328,
+  "tagged": true,
+  "creator": "Microsoft® Office PowerPoint® 2007",
+  "producer": "Microsoft® Office PowerPoint® 2007"
+ },
+ {
+  "file": "urn_uuid_0c9fdc37-2cbc-4604-ba59-239a74d6a1e2.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 697,
+  "broken_share": 0.274,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_0cba1a1e-0d4c-4b01-b53b-e8137c197c73.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 389,
+  "broken_share": 0.2031,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_0cbd1406-b82b-43dc-92f9-7409eaf90ed5.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_0ce60af4-9603-4b27-866e-1382004079dd.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_0e812eec-76c6-4155-a67c-95c83baec40e.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 149,
+  "broken_share": 0.2081,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_0eec1cfa-778f-40ea-ba76-007ab035dc0f.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 154,
+  "broken_share": 0.0649,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_0f98794d-721b-4309-bbde-626b368170e9.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3921,
+  "broken_share": 0.1252,
+  "tagged": false,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_1034142f-729e-47d3-9d75-c26662ec22ac.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 1004,
+  "broken_share": 0.1125,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_11796a3d-a0c7-4fe2-9b08-74fed8e3f6c2.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 215,
+  "broken_share": 0.2279,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_121b87e2-fc94-4e4f-9ad8-dd54bd660c01.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 219,
+  "broken_share": 0.0959,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_1228c291-7c31-4361-9a45-2690dcb51a04.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 379,
+  "broken_share": 0.2823,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "OpenOffice.org 3.2"
+ },
+ {
+  "file": "urn_uuid_1269e7c0-13b0-496d-a175-3dc1311a2a77.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 122,
+  "broken_share": 0.1967,
+  "tagged": false,
+  "creator": "PDFium",
+  "producer": "PDFium"
+ },
+ {
+  "file": "urn_uuid_12d98d12-5444-4a7e-b0ca-131bb6221794.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 172,
+  "broken_share": 0.1279,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_12e7ddbe-3c1d-4c9d-ac4e-88ca3c8e650f.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 141,
+  "broken_share": 0.1702,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_1341cc42-0c1a-45dd-a72a-892c7f34d2ae.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 805,
+  "broken_share": 0.154,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_13d4b2ae-59cc-45aa-a249-ac4b6f33cd4d.pdf",
+  "verdict": "OK",
+  "script": "Gujr",
+  "words": 13599,
+  "broken_share": 0.0438,
+  "tagged": false,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_14432853-2ace-4865-ab89-2b35d3a88243.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 938,
+  "broken_share": 0.1493,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_1443f7ab-2f80-4959-87ff-f4b75fda7584.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 2070,
+  "broken_share": 0.2179,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_1547eef5-721f-427f-af6c-4d564ef44c5c.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 444,
+  "broken_share": 0.0653,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_15c9d2b7-98e1-46af-a68a-af868f6ec717.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 783,
+  "broken_share": 0.2695,
+  "tagged": true,
+  "creator": "Microsoft® Excel® 2016",
+  "producer": "Microsoft® Excel® 2016"
+ },
+ {
+  "file": "urn_uuid_1616c99c-905e-459c-b412-279eb98f5ee0.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 172,
+  "broken_share": 0.0698,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_1647993f-eead-4bd8-9ee6-effbd35ddf0a.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 496,
+  "broken_share": 0.0746,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_165761ab-8d78-4024-a9dc-714563d3cb21.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 766,
+  "broken_share": 0.342,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_168b82c1-79a3-4f47-8dd3-4bb0d83a80a0.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 440,
+  "broken_share": 0.1955,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_178ce91d-c269-4470-bdf6-83693295ed6f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 476,
+  "broken_share": 0.0966,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_179d6b3d-d646-4a98-bb8d-a09224b1fa1c.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 224,
+  "broken_share": 0.058,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_17e8b95f-f547-4c53-87ad-f51103f9ed00.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 544,
+  "broken_share": 0.0993,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_19188c83-a5f8-4984-bd6c-95e9f9a5bf03.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 1118,
+  "broken_share": 0.1154,
+  "tagged": false,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_1919e543-16e4-4bfb-8c85-103bb42884b2.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 3547,
+  "broken_share": 0.1365,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_1abbe1ed-d721-4c41-8c08-a3d500e431ec.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 2443,
+  "broken_share": 0.1077,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_1ac7631a-dc1c-41a6-b333-09f219a12534.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 926,
+  "broken_share": 0.1479,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_1aecf995-1f4c-4cbb-9625-1c3801c19a3d.pdf",
+  "verdict": "OK",
+  "script": "Mlym",
+  "words": 218,
+  "broken_share": 0.0138,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 5.1; modified using iText® 5.4.0 ©2000-2012 1T3XT BVBA (AGPL-version)"
+ },
+ {
+  "file": "urn_uuid_1afee871-46bd-41dd-8447-e7e79b2a4858.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Acrobat PDFMaker 9.0 for Word",
+  "producer": "Adobe PDF Library 9.0"
+ },
+ {
+  "file": "urn_uuid_1bdb0701-7234-4345-9a00-50cd19fcf86f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 2174,
+  "broken_share": 0.2042,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_1bebca8f-ff1d-415c-8881-47f52354d528.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 677,
+  "broken_share": 0.0724,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_1c2b1913-1605-4faa-a78c-ff86332d3aa9.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 369,
+  "broken_share": 0.3442,
+  "tagged": false,
+  "creator": "Microsoft® Word 2013",
+  "producer": "macOS Version 11.5 (Build 20G71) Quartz PDFContext"
+ },
+ {
+  "file": "urn_uuid_1ca28ef1-ff66-4898-98f6-016fa82fd10b.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 882,
+  "broken_share": 0.1667,
+  "tagged": true,
+  "creator": "Microsoft® Office Excel® 2007",
+  "producer": "Microsoft® Office Excel® 2007"
+ },
+ {
+  "file": "urn_uuid_1cc8b001-82bf-4e3e-92bf-be5fcca37342.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 876,
+  "broken_share": 0.1416,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_1d3b9cac-fea8-43f1-ad8c-965f74658f53.pdf",
+  "verdict": "OK",
+  "script": "Gujr",
+  "words": 2155,
+  "broken_share": 0.0459,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_1d45b98f-bb60-473a-989e-3550560c4341.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 643,
+  "broken_share": 0.0747,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_1d7566ab-16ce-41c1-af21-e27fb5968d1a.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 2128,
+  "broken_share": 0.2209,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "3-Heights(TM) PDF Optimization Shell 5.9.1.5 (http://www.pdf-tools.com)"
+ },
+ {
+  "file": "urn_uuid_1e5326f5-c94e-4d63-aa6a-1653fe810f56.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 226,
+  "broken_share": 0.2389,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_1e73c57e-c680-4cc6-a194-aa1b39c27904.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 270,
+  "broken_share": 0.063,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_1fabdfae-6264-4b96-b7e6-23e8c7faec05.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 185,
+  "broken_share": 0.2054,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_205e33a7-471f-4e5e-9104-24c9efcde1c2.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 151,
+  "broken_share": 0.2914,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_2236d276-251e-4a51-8ec5-63827e0c2b41.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 640,
+  "broken_share": 0.2547,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_22c85b0c-97be-4447-b4a8-d1f145e98ef7.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1311,
+  "broken_share": 0.1327,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_22f732cc-c54e-470d-988f-0cc9fbf44285.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 201,
+  "broken_share": 0.1891,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_2312af0b-6605-4e92-8db4-80a74916e233.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 761,
+  "broken_share": 0.2102,
+  "tagged": false,
+  "creator": "Word",
+  "producer": "Mac OS X 10.11.1 Quartz PDFContext"
+ },
+ {
+  "file": "urn_uuid_232ce752-377b-42a6-8e6d-607c6e340a28.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 952,
+  "broken_share": 0.187,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_23cdbe55-9c73-4a67-bd8e-28690a55058a.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 541,
+  "broken_share": 0.1738,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_240fb1d5-a779-410e-91ca-e823d388669c.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 804,
+  "broken_share": 0.26,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_242379ef-80eb-42fd-93c5-efa0ab717db6.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 2511,
+  "broken_share": 0.1792,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 6.0"
+ },
+ {
+  "file": "urn_uuid_25359daa-7404-435d-9d51-46999e9aa101.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 469,
+  "broken_share": 0.1578,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_26057fe1-8b82-4ff3-8c15-ffbc1186f202.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 719,
+  "broken_share": 0.1613,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_27382e06-2da3-4285-90e9-446d9f59ba6a.pdf",
+  "verdict": "OK",
+  "script": "Guru",
+  "words": 169,
+  "broken_share": 0.0414,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_27535a79-8d10-44e5-adcf-337b49f36290.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 741,
+  "broken_share": 0.4008,
+  "tagged": false,
+  "creator": "PDFium",
+  "producer": "PDFium"
+ },
+ {
+  "file": "urn_uuid_2800f519-1c12-4376-9dac-689d062313ac.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 535,
+  "broken_share": 0.1402,
+  "tagged": true,
+  "creator": "Microsoft® Word 2021",
+  "producer": "Microsoft® Word 2021"
+ },
+ {
+  "file": "urn_uuid_29062fec-8f85-43be-a725-a7c42636cea2.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 549,
+  "broken_share": 0.2149,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_290bb59c-9047-42d7-b7a2-f623cc8f79c2.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 171,
+  "broken_share": 0.2573,
+  "tagged": false,
+  "creator": "",
+  "producer": "LibreOffice 5.4; modified using iText 5.0.6 (c) 1T3XT BVBA"
+ },
+ {
+  "file": "urn_uuid_2934fd7d-a67a-4392-a846-282e54c4dc17.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 325,
+  "broken_share": 0.1569,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_297aa884-0d82-4bbe-8846-d0faccc6039d.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 116,
+  "broken_share": 0.2328,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_29c0e82a-e6fa-4694-8d9e-a5de8716ed97.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 449,
+  "broken_share": 0.3764,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "ConvertAPI"
+ },
+ {
+  "file": "urn_uuid_29e2f898-95d9-4733-819f-16d491b9f5ed.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_2ac07d1b-11d9-490a-8184-878d4b1dd0c4.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 296,
+  "broken_share": 0.1689,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_2b918a8d-6082-4066-847e-d29faea57973.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 393,
+  "broken_share": 0.1934,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_2bd031cb-a999-4734-ba97-3a8d3ca4d537.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 418,
+  "broken_share": 0.1675,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_2c193d90-57b2-497f-804f-91bdc796abb1.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 156,
+  "broken_share": 0.2179,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "3-Heights™ PDF Optimization Shell 6.3.1.5 (http://www.pdf-tools.com)"
+ },
+ {
+  "file": "urn_uuid_2c8f66f2-b2f5-402f-b2c5-05a1a2df5581.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_2d1feed3-0f2e-4e26-b1b9-97d236487df2.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 170,
+  "broken_share": 0.1,
+  "tagged": false,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_2d7e01fe-873b-43c0-b3b8-962ac96dd494.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 242,
+  "broken_share": 0.2107,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_2e0963ef-5b2a-4a60-a780-9e59048561b1.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 386,
+  "broken_share": 0.114,
+  "tagged": true,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_2e5a457a-444d-47f4-8bc7-47127eb7cc66.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3312,
+  "broken_share": 0.1854,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_2e7eef4a-6d63-4e0f-ba3a-58b2e9074c2c.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1553,
+  "broken_share": 0.1912,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "ConvertAPI"
+ },
+ {
+  "file": "urn_uuid_2e897e57-8c18-466a-9716-35bddf0dc444.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 300,
+  "broken_share": 0.3167,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_2ee33963-46a6-4b1c-8d5e-682447f03200.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 5570,
+  "broken_share": 0.3206,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_2f1b4138-73ca-430f-af01-0f0451a77ad4.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 220,
+  "broken_share": 0.2045,
+  "tagged": false,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_30435b5d-d105-488e-970c-2f4f0c37f4ed.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 3395,
+  "broken_share": 0.1853,
+  "tagged": false,
+  "creator": "PDFium",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_3138e33a-32e7-4aa7-8cec-ed0789e125b5.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 496,
+  "broken_share": 0.2056,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_322407a7-b6c8-4fe6-94b9-97eca8568eb8.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 2832,
+  "broken_share": 0.0597,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_32a5e784-0871-4bc6-b20d-b1df428252f2.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 468,
+  "broken_share": 0.3526,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_330898c7-1e97-4f7d-9e54-487832a1cf5f.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1303,
+  "broken_share": 0.2226,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_330bc1c5-9be7-4b65-b282-de0e52225bc5.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_3334f1dc-458e-4949-9c0c-2fb86eafc391.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 321,
+  "broken_share": 0.1713,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_340ffb6a-693e-4ec1-a2be-74826415b5b7.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1782,
+  "broken_share": 0.2295,
+  "tagged": true,
+  "creator": "Microsoft® Word LTSC",
+  "producer": "Microsoft® Word LTSC"
+ },
+ {
+  "file": "urn_uuid_348c98d9-aa6a-4a4b-9e33-a0f25f8ec540.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1357,
+  "broken_share": 0.2063,
+  "tagged": false,
+  "creator": "",
+  "producer": "iText 2.1.7 by 1T3XT"
+ },
+ {
+  "file": "urn_uuid_352a0d11-4513-402a-ad26-9633b6580413.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 129,
+  "broken_share": 0.186,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_3548f3e4-5037-45ea-94cc-fd76e1931432.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 220,
+  "broken_share": 0.3136,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_354c10d8-a7fc-4d04-9591-308ebb731cab.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 631,
+  "broken_share": 0.065,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_358dc6f9-5227-4cc9-b007-9524ca0a9ce8.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 280,
+  "broken_share": 0.0929,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016; modified using iTextSharp™ 5.5.0 ©2000-2013 iText Group NV (AGPL-version)"
+ },
+ {
+  "file": "urn_uuid_35f89ee5-d805-43fe-8fc4-915e6e24d1f4.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 371,
+  "broken_share": 0.3504,
+  "tagged": true,
+  "creator": "",
+  "producer": "Accessibil-IT Inc."
+ },
+ {
+  "file": "urn_uuid_37917cac-6047-4623-b92b-ab379142d871.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 231,
+  "broken_share": 0.3333,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_37c08eea-92d1-4b05-a270-25c99202aefe.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 578,
+  "broken_share": 0.2976,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_37f9c8cc-90e4-4a88-b4fc-30c6013f1712.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 3346,
+  "broken_share": 0.0729,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_38042ccc-35f8-4bc1-9d55-54249dd36d28.pdf",
+  "verdict": "OK",
+  "script": "Telu",
+  "words": 2135,
+  "broken_share": 0.0379,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_38a6d403-4767-4cd2-a8f4-5923acc40466.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 14,
+  "broken_share": 0.0714,
+  "tagged": true,
+  "creator": "Microsoft® Excel® 2013",
+  "producer": "Microsoft® Excel® 2013"
+ },
+ {
+  "file": "urn_uuid_38ae5e6e-d6f8-4924-8e47-ba3da283ee6e.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 124,
+  "broken_share": 0.1613,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_3915ddd7-6c88-40a1-bd38-966f85cfe565.pdf",
+  "verdict": "OK",
+  "script": "Beng",
+  "words": 562,
+  "broken_share": 0.0089,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_393b40e8-42c2-4253-9a1f-a6b296b04cd6.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 4819,
+  "broken_share": 0.1388,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_39446dd5-66c3-44ba-9849-82649e15ad9f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 370,
+  "broken_share": 0.0973,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_396c060f-f232-4e3a-8ec0-ab676a808189.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 15483,
+  "broken_share": 0.181,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_3a922c0f-09fe-4fa0-b848-8041adfacc82.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 359,
+  "broken_share": 0.1031,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_3bf9a979-b9e7-4b33-9938-5ca4f85c0e0a.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_3c14f37b-37b4-4c3a-92f1-da508f125ae2.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 212,
+  "broken_share": 0.0991,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_3c4dcf22-27d1-461b-b60c-c5d4edd67258.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1038,
+  "broken_share": 0.2659,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_3d14de6d-619a-4364-a056-574f06c4cb31.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 572,
+  "broken_share": 0.25,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_3d539caa-7dd3-4cd9-9965-9b5509371d1e.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 773,
+  "broken_share": 0.1915,
+  "tagged": false,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_3e19be34-d222-4c3a-8022-f837b631b16b.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 136,
+  "broken_share": 0.2721,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_3ed6a580-2854-4828-8a99-698bf667c201.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 155,
+  "broken_share": 0.1032,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_3f3870e6-8bd7-4905-8d8d-b9ee39883fc7.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 211,
+  "broken_share": 0.5403,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_3f48ae06-a932-4975-843a-c9a70be3dc9d.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 731,
+  "broken_share": 0.3543,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_403a0c79-903a-4d39-9ace-ad73426c67ac.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 285,
+  "broken_share": 0.3404,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_406d1bd0-b2f2-4dbb-8867-0ff8da8a16c9.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "GPL Ghostscript 9.52"
+ },
+ {
+  "file": "urn_uuid_42561988-91ba-4a16-af98-03d2af0b2e0d.pdf",
+  "verdict": "OK",
+  "script": "Orya",
+  "words": 301,
+  "broken_share": 0.0498,
+  "tagged": false,
+  "creator": "Microsoft Word v16",
+  "producer": "Neevia Document Converter Pro v6.9 (http://neevia.com)"
+ },
+ {
+  "file": "urn_uuid_42658d52-0469-442f-ad02-de996e9458a2.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 409,
+  "broken_share": 0.1198,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_42958f1b-8f74-4535-966a-72c715042a63.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 144,
+  "broken_share": 0.2292,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_42bc6e2a-5f4b-4e9f-b8dd-8e5e87c69db1.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3654,
+  "broken_share": 0.1554,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_43243f75-6e17-4ca9-baa4-1872ab10e41e.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 913,
+  "broken_share": 0.3549,
+  "tagged": false,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_433e5dbc-eca1-4d7c-9529-b0a4434801c2.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 189,
+  "broken_share": 0.1587,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_435abd23-25b9-4be6-8ca6-647a062b6b42.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_438d61fb-4446-4549-93c6-24429bef6ab6.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_446f240c-acd7-4680-b24e-25384ec78621.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_45b983e1-dead-4e25-9f20-40a5d4c31862.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_4627d5c3-5bb3-4967-b7db-cc84c1fd279c.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 198,
+  "broken_share": 0.2677,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_46ab2cca-6c6b-4007-bd0a-ee743336d352.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_46d876b2-705b-43d4-bc6e-e59ef8325c28.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 3657,
+  "broken_share": 0.1293,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_46e8ea5a-a9ad-4fbd-b2bb-138c1ef404a1.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 404,
+  "broken_share": 0.0693,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_47216c31-5ebb-4b4f-aa2b-635b19907264.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 238,
+  "broken_share": 0.2143,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_4791e3f0-ac19-4517-8d9b-85d74bc08f12.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 2876,
+  "broken_share": 0.3908,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_47d2f362-52be-42f7-b015-7d6ac91a0b05.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 1433,
+  "broken_share": 0.0649,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_4829b571-1f21-4dce-8d5b-94fbe95a3940.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 162,
+  "broken_share": 0.179,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_48ca7d9a-6e38-41ce-a81e-0dfb8f2b2967.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 193,
+  "broken_share": 0.0518,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_4938acc2-864e-4362-b9c6-3aace05709fb.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 179,
+  "broken_share": 0.2179,
+  "tagged": true,
+  "creator": "http://www.convertapi.com                 ",
+  "producer": "http://www.convertapi.com                               "
+ },
+ {
+  "file": "urn_uuid_499a23a5-3d6a-448b-8689-49395be6c4bd.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 387,
+  "broken_share": 0.1292,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_49d7efb6-2ca1-4318-9bea-d9a7ac8f349a.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 874,
+  "broken_share": 0.119,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "www.ilovepdf.com"
+ },
+ {
+  "file": "urn_uuid_4a0b90b7-c99c-4abf-8332-b7c60be5839b.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 661,
+  "broken_share": 0.3449,
+  "tagged": false,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_4a79fb8e-80ee-43b3-a26f-897e3ce54383.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3324,
+  "broken_share": 0.1793,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_4a81ecb8-203f-43b6-aacb-3f11b5af591b.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1281,
+  "broken_share": 0.1288,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_4b5c9d7f-def6-4827-bf4a-b277f2ad83fc.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 235,
+  "broken_share": 0.2766,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_4c1049f1-74e7-4266-9dfa-17391bfef571.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 194,
+  "broken_share": 0.2423,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_4ca97555-26e1-4934-8729-c12826c131c6.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 18,
+  "broken_share": 0.0556,
+  "tagged": true,
+  "creator": "Microsoft® Office Excel® 2007",
+  "producer": "Microsoft® Office Excel® 2007"
+ },
+ {
+  "file": "urn_uuid_4cd6b07d-29b4-49e9-92b8-4adb3d51c906.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 724,
+  "broken_share": 0.1354,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_4d23f39f-ee9b-4c68-be68-15378c807e17.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1338,
+  "broken_share": 0.1375,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_4e12d6b2-2bb5-401e-88b5-6a40c3b9be8f.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 9823,
+  "broken_share": 0.1714,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_4e21a6b9-6cb2-4508-9f95-1e706147896a.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 325,
+  "broken_share": 0.2462,
+  "tagged": false,
+  "creator": "PDFium",
+  "producer": "PDFium"
+ },
+ {
+  "file": "urn_uuid_501ea06f-1b8d-4050-9e5f-9dc6a0df427d.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 3122,
+  "broken_share": 0.1019,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_50b3442c-0884-49b3-b23d-e5d64e7253d4.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 794,
+  "broken_share": 0.3577,
+  "tagged": false,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_51d62140-508a-4479-ba18-88a316cc700c.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 391,
+  "broken_share": 0.312,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_52d15e85-6733-4e08-bc09-32f09fddc3a1.pdf",
+  "verdict": "OK",
+  "script": "Deva",
+  "words": 179,
+  "broken_share": 0.0447,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_55957c60-89ad-4da7-8c3e-8511ffd1c402.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 2327,
+  "broken_share": 0.1646,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_55b9b71c-0956-443b-94ce-f2671ff043a6.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 641,
+  "broken_share": 0.2746,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_55f1f65e-5212-46c0-80ec-1a8d7a82a6b6.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 286,
+  "broken_share": 0.1713,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_5664bc70-ea5e-47e6-a769-2fbc6b5e019c.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 217,
+  "broken_share": 0.7373,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_569080d0-ea09-41df-8722-bcb4e1c5bc88.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1794,
+  "broken_share": 0.3278,
+  "tagged": false,
+  "creator": "",
+  "producer": "mPDF 6.0"
+ },
+ {
+  "file": "urn_uuid_57050fda-dd7e-4293-9df2-b4f8e3d6c10e.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 13610,
+  "broken_share": 0.2748,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2",
+  "producer": "Acrobat Distiller 7.0 (Windows)"
+ },
+ {
+  "file": "urn_uuid_57834eab-dc43-4b96-ba02-5efaf397e908.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 344,
+  "broken_share": 0.2006,
+  "tagged": false,
+  "creator": "Word",
+  "producer": "macOS Version 12.0.1 (Build 21A559) Quartz PDFContext"
+ },
+ {
+  "file": "urn_uuid_57b38ca1-2823-41c6-9938-fd355dc5050f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 865,
+  "broken_share": 0.2613,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_58ee46f2-68d2-4e68-bb85-9c9e51df30f4.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 174,
+  "broken_share": 0.2701,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_58fa8937-a165-4b58-8569-73432a00237d.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 399,
+  "broken_share": 0.584,
+  "tagged": false,
+  "creator": "LaTeX with hyperref",
+  "producer": "MiKTeX-xdvipdfmx (20200315)"
+ },
+ {
+  "file": "urn_uuid_5b490cc3-0bb8-40e9-8db8-78ebb21ec756.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 181,
+  "broken_share": 0.1768,
+  "tagged": false,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_5bb88e89-2177-420a-8809-98210ea5a267.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 116,
+  "broken_share": 0.1552,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2.2",
+  "producer": "Acrobat Distiller 9.0.0 (Windows)"
+ },
+ {
+  "file": "urn_uuid_5bd4b9f2-869a-4192-bb35-637b6755067b.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 852,
+  "broken_share": 0.27,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_5bfd2731-699b-4376-adb8-7fff191f265a.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 563,
+  "broken_share": 0.1936,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_5c1724d7-ff7d-490a-87f8-14dd3512f35a.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 200,
+  "broken_share": 0.09,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_5c303efc-6d8e-43d5-b167-41510278e169.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 268,
+  "broken_share": 0.2164,
+  "tagged": false,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_5c8004da-7a2e-44e0-aebe-d0958bccf58d.pdf",
+  "verdict": "OK",
+  "script": "Gujr",
+  "words": 2270,
+  "broken_share": 0.0476,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_5d704375-45da-4fd7-84ab-876208dac30f.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_5d81d998-fb83-4192-9d36-4f80cac7d3df.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 2510,
+  "broken_share": 0.2793,
+  "tagged": false,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_5de69927-33b0-45dd-b85c-bee9d71dc2a7.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 17,
+  "broken_share": 0.2941,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_5f925c3d-7875-4780-8129-f8d6a48e7c2e.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 1262,
+  "broken_share": 0.1799,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_5fb0687d-3772-4148-9e66-e0ef038b0a6e.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_60727e49-1fb0-4462-bed9-2f4dd560ac40.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 1010,
+  "broken_share": 0.1178,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_6083a0b6-0b34-4e6a-94d6-9745f3355890.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 419,
+  "broken_share": 0.4654,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_608ceca1-93f1-4509-9553-1cd1cfd55825.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 296,
+  "broken_share": 0.1791,
+  "tagged": true,
+  "creator": "",
+  "producer": "AbleDocs Inc."
+ },
+ {
+  "file": "urn_uuid_611f6232-b618-49f3-87f7-96880a6dfab5.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 187,
+  "broken_share": 0.2941,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010 Trial",
+  "producer": "Microsoft® Word 2010 Trial"
+ },
+ {
+  "file": "urn_uuid_6158590d-4798-4b44-b89e-c10cc9bc79f2.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 819,
+  "broken_share": 0.1221,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_6183bc67-9996-4ec2-954d-5e747bf7ce6a.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 2220,
+  "broken_share": 0.3464,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_627d7c42-0fca-447e-a260-a79657957b38.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 708,
+  "broken_share": 0.2684,
+  "tagged": true,
+  "creator": "Microsoft® PowerPoint® 2013",
+  "producer": "Microsoft® PowerPoint® 2013"
+ },
+ {
+  "file": "urn_uuid_62882e28-d73a-4f18-8ea8-8270f89d844b.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 188,
+  "broken_share": 0.4468,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "www.ilovepdf.com"
+ },
+ {
+  "file": "urn_uuid_633254e8-26b5-4c97-88a3-e5235ff3ed8e.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 400,
+  "broken_share": 0.305,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_638482b3-357e-44ed-8d14-c886fdfcfa6c.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 117,
+  "broken_share": 0.4786,
+  "tagged": false,
+  "creator": "LaTeX with hyperref",
+  "producer": "MiKTeX-xdvipdfmx (20200315)"
+ },
+ {
+  "file": "urn_uuid_639c6a47-89cf-48f1-8593-2f215490af5a.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 928,
+  "broken_share": 0.0539,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_6429c1d9-ed91-43c1-ab52-fbdcae07324d.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 156,
+  "broken_share": 0.2949,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_646b617c-afd0-47c8-b16c-66863a261ed5.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1629,
+  "broken_share": 0.0712,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_6480ad16-9fcf-4524-9ea9-81bf25edf293.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 194,
+  "broken_share": 0.2371,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_64f5efd0-7d3b-43e4-9a03-34321d159e58.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_6532f214-17c0-4661-bf92-3ceb3e683057.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 452,
+  "broken_share": 0.25,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_655f8090-1693-4a29-af40-73f86d67de90.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 1207,
+  "broken_share": 0.2162,
+  "tagged": false,
+  "creator": "pdfsam-console (Ver. 2.4.0e)",
+  "producer": "iText 2.1.7 by 1T3XT"
+ },
+ {
+  "file": "urn_uuid_65b5e8d1-97a4-4e8c-8805-dcbb6904f7e9.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3045,
+  "broken_share": 0.0805,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_66397d37-86d5-4a9b-bb7a-20d9d80b787e.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 136,
+  "broken_share": 0.3456,
+  "tagged": false,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_6665a3ba-386d-4a4e-858c-ddb0f022e92e.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 876,
+  "broken_share": 0.3071,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_66707d23-db30-46c7-85f1-37fa95749fd5.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 602,
+  "broken_share": 0.2658,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_6695e443-0387-47d4-8c5b-1ad0dcd0171c.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 782,
+  "broken_share": 0.11,
+  "tagged": false,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_66b0b622-7244-46a4-bee6-f81300f2c13c.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 10377,
+  "broken_share": 0.1757,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_66d2e96e-0b7d-49ea-843f-b069798516f7.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 290,
+  "broken_share": 0.3103,
+  "tagged": false,
+  "creator": "",
+  "producer": "mPDF 6.0"
+ },
+ {
+  "file": "urn_uuid_675f7b02-88b4-41ce-8986-855bc3bc67ee.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 2040,
+  "broken_share": 0.227,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_6767453e-0622-40a9-9c2a-628932ca48e9.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 905,
+  "broken_share": 0.1646,
+  "tagged": true,
+  "creator": "Microsoft® Excel® 2013",
+  "producer": "Microsoft® Excel® 2013"
+ },
+ {
+  "file": "urn_uuid_677cfee3-8ff1-4494-ab1e-46af8ac85eae.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_6857beee-b58d-4f4e-ac03-e69938accb14.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1145,
+  "broken_share": 0.1039,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_68dae5df-de40-4518-ae7a-ae68b902d65f.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 807,
+  "broken_share": 0.1549,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_68e501c1-aee0-422c-b263-dac8aeccab9b.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 507,
+  "broken_share": 0.2012,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_6923a614-6502-4187-93cb-6311d299d5fb.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 125,
+  "broken_share": 0.264,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_6b2ffc2d-56c6-4a39-9aa2-50f13619ce99.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 332,
+  "broken_share": 0.25,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_6b33fc3a-d164-4664-8042-ae72bbbe0c05.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 159,
+  "broken_share": 0.7673,
+  "tagged": false,
+  "creator": "WPS Writer",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_6b75c96d-4045-4277-aac9-f93ea2a958e4.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_6b7f071e-2077-4540-a238-cc4318dbaf7f.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 659,
+  "broken_share": 0.0956,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_6ba8e5d7-1eba-4737-9432-030236907575.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 476,
+  "broken_share": 0.1639,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_6c382d81-b20a-40d9-af5d-989b0a952ffc.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 159,
+  "broken_share": 0.3208,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_6cc460f3-6c09-4abe-8394-fa99dd45ef44.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1302,
+  "broken_share": 0.1283,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_6d2e0c9e-a548-4ca8-933c-3e755e0c17e8.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 828,
+  "broken_share": 0.1437,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_6ee80597-82d0-434b-a055-6ace6d35d2a9.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 501,
+  "broken_share": 0.2116,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_6f43c085-6d50-4266-bdbd-2106919ff3e4.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_70164f1a-5db0-4701-8931-f716f9e73bdf.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1258,
+  "broken_share": 0.093,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_7042d846-0b2f-4463-98a4-49bfd4dad8b6.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 128,
+  "broken_share": 0.3203,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_705d3e16-fe15-4679-86a0-cca17b2d60fb.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 331,
+  "broken_share": 0.1662,
+  "tagged": true,
+  "creator": "Microsoft® Word 2021",
+  "producer": "Microsoft® Word 2021"
+ },
+ {
+  "file": "urn_uuid_72992e27-1cff-4cf1-97cc-dd65100494fd.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 760,
+  "broken_share": 0.0855,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_73c9bf5a-2447-496a-bcc3-8f0a8101e7d0.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_73ff162d-ddb0-440f-98eb-724c0dfb49c7.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2.2",
+  "producer": "Acrobat Distiller 8.1.0 (Windows)"
+ },
+ {
+  "file": "urn_uuid_754f40b9-fa8b-44ff-8d05-6db4bd01d8c9.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 1085,
+  "broken_share": 0.1963,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 5.2"
+ },
+ {
+  "file": "urn_uuid_75b41fe6-8811-469e-8d97-4165143507b9.pdf",
+  "verdict": "OK",
+  "script": "Orya",
+  "words": 631,
+  "broken_share": 0.046,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_75be43de-0d64-42c7-a24a-934f7c95669b.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 1556,
+  "broken_share": 0.1883,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_76dfc2e0-5b7d-4a46-9daf-326061f27f6b.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 188,
+  "broken_share": 0.3457,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_774de516-27d3-4a67-a8a3-9ecdd97c319c.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 243,
+  "broken_share": 0.1235,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_77b80517-57a7-4287-8d9c-145f9f72d74a.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 879,
+  "broken_share": 0.1991,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_77d577e2-f341-409d-8427-1e70bf77fbb4.pdf",
+  "verdict": "OK",
+  "script": "Guru",
+  "words": 191,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "",
+  "producer": "Skia/PDF m133 Google Docs Renderer"
+ },
+ {
+  "file": "urn_uuid_783af1af-96f5-4233-af87-98e809f4864f.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 167,
+  "broken_share": 0.1557,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_784bf17f-718d-4eb5-a7d1-dc6dddd70b39.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 1446,
+  "broken_share": 0.0705,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_78aafa4a-e381-4a17-bea7-9e2ed6a4fe4d.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 659,
+  "broken_share": 0.217,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_78c479dd-eb99-49ef-8d88-55d4118596e9.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 2355,
+  "broken_share": 0.0675,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_7ac0f457-f74d-4d08-86de-969a8e3da7f9.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 761,
+  "broken_share": 0.0907,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_7acded5a-d8eb-4160-b81a-4d36668d0fbe.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 216,
+  "broken_share": 0.2685,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_7afd6cee-35b2-4b74-86a5-ba7f1c4bb7a1.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 310,
+  "broken_share": 0.1871,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_7c0e12b3-a96c-471e-8ebe-5223333c4af0.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 206,
+  "broken_share": 0.1408,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_7d00914c-95cd-4a9c-8591-58a7b90e332c.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 257,
+  "broken_share": 0.07,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_7d0397a3-422e-41ab-8ea0-30d4ef3dfd20.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 17,
+  "broken_share": 0.2941,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_7d16864c-964e-4f50-b7fa-f8c38ec268ff.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 17,
+  "broken_share": 0.2941,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_7d44ab81-601a-4d2c-b4bd-fdee072cb2dd.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 400,
+  "broken_share": 0.09,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_7d917302-ef78-488c-bbef-b42703ef517a.pdf",
+  "verdict": "OK",
+  "script": "Deva",
+  "words": 234,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_7e026254-145c-4d07-b3dd-004f9d4d2f3f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1030,
+  "broken_share": 0.2767,
+  "tagged": true,
+  "creator": "Adobe InDesign 16.1 (Windows)",
+  "producer": "Adobe PDF Library 15.0"
+ },
+ {
+  "file": "urn_uuid_7f6c3576-9a8e-4947-8a9a-d4ff04bdb0e7.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 697,
+  "broken_share": 0.3027,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_801a061e-62b2-4cc0-a930-4f3324190eb0.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 1523,
+  "broken_share": 0.2515,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_805acd06-ff8b-4b45-8b3c-5bd33f3ba20d.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1095,
+  "broken_share": 0.389,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_811056db-107c-457b-8ef6-a830698ee4ee.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 17,
+  "broken_share": 0.2941,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_8123cf43-a949-48bd-a64d-b6254b9bc66b.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 511,
+  "broken_share": 0.2348,
+  "tagged": true,
+  "creator": "Microsoft® Word 2021",
+  "producer": "Microsoft® Word 2021"
+ },
+ {
+  "file": "urn_uuid_813fedd8-52ff-4560-81d4-92754a131814.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 524,
+  "broken_share": 0.1088,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_81d81fa9-93c3-4cc9-90f9-123762935fca.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 4445,
+  "broken_share": 0.184,
+  "tagged": false,
+  "creator": "",
+  "producer": "mPDF 6.0"
+ },
+ {
+  "file": "urn_uuid_82e71185-e929-4904-b2cb-728e0bc9368f.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 2171,
+  "broken_share": 0.1225,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_838ab588-49ce-4a11-97d2-bb7e784d9d4d.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1744,
+  "broken_share": 0.0711,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_83965f92-9c6d-4aee-9d6c-9eba7fa1975c.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 2986,
+  "broken_share": 0.2696,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_83e0d5fe-eb1b-45eb-9603-d3f9fe1c4515.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 179,
+  "broken_share": 0.2179,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_85166183-2883-4368-8f51-f249725d1162.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 137,
+  "broken_share": 0.3504,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_86b40527-4763-4461-b1b9-e8b08193a5f5.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1570,
+  "broken_share": 0.0879,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_87d533f1-5b54-4159-93e6-444259bb195c.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1742,
+  "broken_share": 0.1343,
+  "tagged": false,
+  "creator": "",
+  "producer": "Prince 13.5 (www.princexml.com)"
+ },
+ {
+  "file": "urn_uuid_8804c504-4c4b-4c2b-a40b-0a48476b0d24.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 247,
+  "broken_share": 0.3117,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_8884e8f1-0918-4d9d-b10b-d1ad1e269b90.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 133,
+  "broken_share": 0.1504,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_890f6e03-c38d-495b-90a8-fe9699f853bf.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 9239,
+  "broken_share": 0.1856,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_89ba59d9-60d8-4378-8623-ffb174c62e79.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 648,
+  "broken_share": 0.3272,
+  "tagged": false,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_8a66bee7-be2b-4cb8-8a48-90fc4d13990c.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1716,
+  "broken_share": 0.2314,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_8ade61d1-ee80-492d-b846-ba5ce8d9906f.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 153,
+  "broken_share": 0.1373,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_8b33e506-b903-42aa-b6e3-f56a2e45740a.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 126,
+  "broken_share": 0.1032,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_8b38f88b-8349-4e67-bdcd-a92edcae9c61.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 473,
+  "broken_share": 0.1142,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_8b451702-953a-4920-8772-eabe2d9dd3c5.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 3731,
+  "broken_share": 0.2018,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_8b947b17-b1bf-4770-8f49-1f46d5396e96.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_8bd1d8ee-808f-4166-8e5f-a9ecdf2022da.pdf",
+  "verdict": "OK",
+  "script": "Guru",
+  "words": 454,
+  "broken_share": 0.0044,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_8bfbe90e-fb4c-49de-bb86-193816719a57.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 2021,
+  "broken_share": 0.3711,
+  "tagged": false,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_8bffc549-9c03-4aa1-8fce-e06c3508bae6.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 315,
+  "broken_share": 0.3143,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_8c570016-c858-4580-8586-5e03ba57b791.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 938,
+  "broken_share": 0.3337,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_8ce00bb4-85e5-49e9-aa64-a315de6cccd9.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 536,
+  "broken_share": 0.1437,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_8d56df07-334e-41e7-9d83-5d211c912e43.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 590,
+  "broken_share": 0.1424,
+  "tagged": false,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_8ebc8b99-b8cd-4c8f-93d7-b722399a3fb7.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 229,
+  "broken_share": 0.4891,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_8ed0a8a5-43dd-4b2d-9724-29830d6a562f.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 1273,
+  "broken_share": 0.1508,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_90054871-cf50-4884-a779-53f9f207bd62.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 123,
+  "broken_share": 0.0976,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_9015bc5b-f9a3-4be6-b216-18889514c42b.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 292,
+  "broken_share": 0.0685,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_90747cd5-ee57-49c1-bb20-d8d33d26ab6b.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 164,
+  "broken_share": 0.1341,
+  "tagged": true,
+  "creator": "適用於 Office 365 的 Microsoft® Word",
+  "producer": "適用於 Office 365 的 Microsoft® Word"
+ },
+ {
+  "file": "urn_uuid_90bca69d-a873-426b-ae18-11b2a2f7fc3a.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 534,
+  "broken_share": 0.2828,
+  "tagged": false,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_924046a5-aa76-4b7f-bc1c-b83968ac711a.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 439,
+  "broken_share": 0.3349,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_9355da60-c4fe-4eea-b712-951154a3ecc2.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 762,
+  "broken_share": 0.3871,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_9434698f-eba2-45c1-b7fa-8da7d668c473.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 214,
+  "broken_share": 0.2103,
+  "tagged": false,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_94b35cc0-7fc8-4ab5-af16-62ff683cbdfb.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 694,
+  "broken_share": 0.0821,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_956ad553-2fca-4e80-aa79-f9c2d0fa9ee1.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 857,
+  "broken_share": 0.3967,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_96e47636-5170-4dc7-9424-7b7d4706d270.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 1049,
+  "broken_share": 0.1287,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_98665982-a7a8-4fe5-987e-55efd4134099.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 491,
+  "broken_share": 0.0652,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_98aaef7c-7891-400f-b711-ce5fdf1bb58c.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1814,
+  "broken_share": 0.0568,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_9958f54e-4fb2-4855-9a6a-dfcab15ef517.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2.2",
+  "producer": "Acrobat Distiller 8.1.0 (Windows)"
+ },
+ {
+  "file": "urn_uuid_99844040-bb18-4de4-9985-ba29ed923b5a.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 449,
+  "broken_share": 0.49,
+  "tagged": false,
+  "creator": "",
+  "producer": "LibreOffice 5.4; modified using iText 5.0.6 (c) 1T3XT BVBA"
+ },
+ {
+  "file": "urn_uuid_99a14bf5-bb87-4403-8be6-d0bf663d6b02.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 243,
+  "broken_share": 0.4033,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_99c6f838-7174-4387-9390-cfbce7966aa3.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 358,
+  "broken_share": 0.1397,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_99def614-59f8-4058-a1c6-78c9d8525f0d.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 2061,
+  "broken_share": 0.0699,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 5.2"
+ },
+ {
+  "file": "urn_uuid_99ea182e-7072-40cc-8eae-c09c6cac2324.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 2519,
+  "broken_share": 0.3124,
+  "tagged": true,
+  "creator": "Microsoft® Office Excel® 2007",
+  "producer": "Microsoft® Office Excel® 2007"
+ },
+ {
+  "file": "urn_uuid_9a429216-f026-43f4-a9cb-1b830fb503fa.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1493,
+  "broken_share": 0.0529,
+  "tagged": true,
+  "creator": "Microsoft® Office Excel® 2007",
+  "producer": "Microsoft® Office Excel® 2007"
+ },
+ {
+  "file": "urn_uuid_9aa4d257-393c-448b-bc5e-4b194dc7dcdb.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 300,
+  "broken_share": 0.1267,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_9af28b72-32cb-471f-975d-df614ed9b056.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 543,
+  "broken_share": 0.4438,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_9afded72-ca37-46b5-9c83-7e962ccce4f9.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 226,
+  "broken_share": 0.1637,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_9b27fd07-0dae-4056-9661-fb1267e35399.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 158,
+  "broken_share": 0.2215,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_9c464a14-2afa-4cb4-9779-14e96e986ad2.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 563,
+  "broken_share": 0.1456,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_9d01598e-93eb-4e68-b416-0dfced517af6.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 281,
+  "broken_share": 0.1851,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_9dd953d8-17db-4968-9303-2ac6067d7c6f.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 151,
+  "broken_share": 0.351,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_9e267d7e-92a2-4238-88b2-c527b3c94e5f.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 236,
+  "broken_share": 0.2754,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "OpenOffice.org 3.4.1"
+ },
+ {
+  "file": "urn_uuid_9ec95a22-b4f9-4364-be8d-2be77e7c0db8.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 453,
+  "broken_share": 0.1258,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_9ee16cfb-00d2-4f67-9db4-716f2656b916.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 668,
+  "broken_share": 0.1931,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_9f1d9e42-b67f-4af7-b3fc-32e90c6db509.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 1000,
+  "broken_share": 0.226,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_9f5fa990-e5f9-40e5-84d1-d7d7b59f0246.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 278,
+  "broken_share": 0.1151,
+  "tagged": true,
+  "creator": "Microsoft® Office Excel® 2007",
+  "producer": "Microsoft® Office Excel® 2007"
+ },
+ {
+  "file": "urn_uuid_9f686fbe-9746-4731-ad71-5b05ddbffcea.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Excel® 2013",
+  "producer": "Microsoft® Excel® 2013"
+ },
+ {
+  "file": "urn_uuid_9f9fef97-921e-4516-9347-3fbee04a41a7.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 205,
+  "broken_share": 0.2195,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_9fb35d52-1407-401b-b2aa-7039b8e4c772.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 794,
+  "broken_share": 0.1524,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_a13ffe71-8156-49de-a939-a679acbe3670.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 602,
+  "broken_share": 0.1944,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_a2bce059-ef33-4f24-8f24-30c307d1688e.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 239,
+  "broken_share": 0.3891,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_a3e5b7e3-241e-4a56-87e1-0b588c0c55e8.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 2512,
+  "broken_share": 0.1628,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_a45fe178-2d1b-46a2-bb9a-e58443dce2f8.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 150,
+  "broken_share": 0.1,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_a4796ec9-70f9-48fd-b6d0-4e9e269287eb.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 1230,
+  "broken_share": 0.252,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_a4df11c2-9035-4c85-a6ec-2f8792b7c17e.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 734,
+  "broken_share": 0.0681,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_a4e8f702-e1e4-413c-b7a4-693afa08e52f.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 403,
+  "broken_share": 0.2928,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_a50df6e1-523d-467a-aa59-18b20e5095a5.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 2981,
+  "broken_share": 0.1261,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "3.0.10 (5.0.17) "
+ },
+ {
+  "file": "urn_uuid_a5f56a71-a9e9-4033-b621-1bfd599c7b42.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 499,
+  "broken_share": 0.1723,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_a6c25f7d-1be8-48c3-8779-926834b1b787.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 2950,
+  "broken_share": 0.0739,
+  "tagged": false,
+  "creator": "https://www.antarvasnasexstories.com",
+  "producer": "mPDF 6.0"
+ },
+ {
+  "file": "urn_uuid_a6dc4c94-9968-4e36-bcce-8ecf8f0700c1.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_a77f17df-3ccb-4419-bddb-33dc3d0c51a9.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 201,
+  "broken_share": 0.2886,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_a78f734a-79f5-4cc6-a917-7d06774c13fa.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 174,
+  "broken_share": 0.1322,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_a7d75202-399c-45c7-aa2a-a8a709ca703f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 494,
+  "broken_share": 0.1377,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_a84b1bde-7791-4d66-85c0-d076e29c6845.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 162,
+  "broken_share": 0.179,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_a9734e34-5f69-4dd2-9912-2e61b9b35741.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 6204,
+  "broken_share": 0.1389,
+  "tagged": true,
+  "creator": "Adobe InDesign 16.0 (Windows)",
+  "producer": "Adobe PDF Library 15.0"
+ },
+ {
+  "file": "urn_uuid_aab493b8-8256-45cf-9bc4-ff186663bb1c.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 220,
+  "broken_share": 0.2455,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_aac3d7ac-f060-484e-9ba2-541c1bdb9931.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 4081,
+  "broken_share": 0.2107,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_ab077868-2981-45d9-9053-ba1c29d5a553.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3111,
+  "broken_share": 0.4532,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Adobe PDF Services"
+ },
+ {
+  "file": "urn_uuid_ab6c1b4e-4a72-4ead-82a4-3b6d3cbdd18a.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 948,
+  "broken_share": 0.2932,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_abba43f0-322e-45eb-a049-17800a9a7daf.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 2541,
+  "broken_share": 0.0968,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_ad53a57d-65c0-486f-ab7d-17605b2375d5.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1217,
+  "broken_share": 0.1109,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_ad8605ad-ff49-4970-807b-ff09bab6eb55.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 511,
+  "broken_share": 0.1742,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_adf1a83d-29cb-403d-ab85-1c0515337314.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 386,
+  "broken_share": 0.1192,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_adfe220e-e11a-4dac-b16e-8e56aa4ed4bb.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_af4c985d-6193-498d-ab42-4be7f2bde26f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 950,
+  "broken_share": 0.2905,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_af56b6fc-6508-419d-9115-11f346cc2390.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 800,
+  "broken_share": 0.17,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_af6f6584-73f7-45ce-b26c-c8a65e11eac0.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 329,
+  "broken_share": 0.1763,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_af7f9cab-552d-4a46-882f-019581d1774b.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 5662,
+  "broken_share": 0.2377,
+  "tagged": true,
+  "creator": "Microsoft® Word 2021",
+  "producer": "Microsoft® Word 2021"
+ },
+ {
+  "file": "urn_uuid_af815329-4c5a-4039-a5d4-97816c559879.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 1590,
+  "broken_share": 0.3176,
+  "tagged": false,
+  "creator": "Microsoft Word",
+  "producer": "GPL Ghostscript 9.52"
+ },
+ {
+  "file": "urn_uuid_afa03263-aece-4042-83cf-d3484ed761d7.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 208,
+  "broken_share": 0.1587,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 5.3"
+ },
+ {
+  "file": "urn_uuid_afa18b42-d6a9-483a-98b5-4008d2d87177.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 3294,
+  "broken_share": 0.3682,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_afcacdce-e46d-43b3-8ff2-e97221c64437.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_b0bfd567-efed-4aec-a10f-4dbfb4228391.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 2026,
+  "broken_share": 0.1323,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_b0d5138c-e968-4148-992c-3ce8b1db9dc7.pdf",
+  "verdict": "OK",
+  "script": "Gujr",
+  "words": 1108,
+  "broken_share": 0.0289,
+  "tagged": false,
+  "creator": "Adobe InDesign CS5 (7.0)",
+  "producer": "Adobe PDF Library 9.9"
+ },
+ {
+  "file": "urn_uuid_b1a180fe-7008-4566-800d-7b27ba1b4d5e.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 186,
+  "broken_share": 0.3226,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_b2962501-ede2-4363-bab5-ac92e80aff0d.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 6049,
+  "broken_share": 0.281,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_b304c7f0-854e-45d8-a789-6d719ba3b289.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 802,
+  "broken_share": 0.5411,
+  "tagged": false,
+  "creator": "LaTeX with hyperref",
+  "producer": "MiKTeX-xdvipdfmx (20200315)"
+ },
+ {
+  "file": "urn_uuid_b3506c1e-5ee0-4c22-b398-206b7e391a02.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1706,
+  "broken_share": 0.3388,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_b3772169-b3b9-446b-bf92-fee95ca5dd0b.pdf",
+  "verdict": "OK",
+  "script": "Telu",
+  "words": 95,
+  "broken_share": 0.0316,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "www.ilovepdf.com"
+ },
+ {
+  "file": "urn_uuid_b3a8e3f2-fecd-4232-bb2f-4b3d55728186.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 1967,
+  "broken_share": 0.0615,
+  "tagged": false,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_b3cd46a7-9520-48d6-8aa1-eee424d05f29.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 4084,
+  "broken_share": 0.248,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_b420c21f-00e6-4709-88fa-8b4022d740f2.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1362,
+  "broken_share": 0.0705,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_b4d4a1f4-2e19-4885-9237-3532038b2a8b.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 601,
+  "broken_share": 0.4592,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_b4ea6773-290b-48a8-bda6-9143c2b594e6.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 174,
+  "broken_share": 0.2931,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_b5113f49-2093-4e7e-afa3-59002163849e.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 671,
+  "broken_share": 0.3115,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_b5551f8a-dac2-43d5-87b2-7b88a1817611.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 1570,
+  "broken_share": 0.2153,
+  "tagged": true,
+  "creator": "Microsoft® Word LTSC",
+  "producer": "Microsoft® Word LTSC"
+ },
+ {
+  "file": "urn_uuid_b57a68f1-439a-4352-84dc-ceb1a3cff23c.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1183,
+  "broken_share": 0.4861,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_b616695d-447e-4e25-9281-ec4591c7b09b.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 483,
+  "broken_share": 0.1988,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_b6ef4a28-8cbd-40e8-989b-ce5a99261761.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 9535,
+  "broken_share": 0.2486,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_b78afea9-4a29-40ee-ae30-c85cd630a2a2.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 608,
+  "broken_share": 0.2961,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010 Trial",
+  "producer": "Microsoft® Word 2010 Trial"
+ },
+ {
+  "file": "urn_uuid_b7f71e40-c238-44f1-ba16-5683d522da02.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 3445,
+  "broken_share": 0.0996,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_b81e02d7-073a-4d55-904c-d3cfc59f595e.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_b83a38fc-ef39-4a47-88c6-3371521af3c9.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 1373,
+  "broken_share": 0.2542,
+  "tagged": false,
+  "creator": "",
+  "producer": "iText® 5.4.0 ©2000-2012 1T3XT BVBA (AGPL-version)"
+ },
+ {
+  "file": "urn_uuid_b8b5b41f-9f82-438c-a4a3-3aa4951eb3a7.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 187,
+  "broken_share": 0.3155,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_b8d91c3c-e18d-4d81-a924-715da7b58b71.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_b97f24f1-5e55-4012-a99f-92777958c102.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 16576,
+  "broken_share": 0.2331,
+  "tagged": true,
+  "creator": "Microsoft® Word 2021",
+  "producer": "Microsoft® Word 2021"
+ },
+ {
+  "file": "urn_uuid_b9a4b355-d305-404a-9b19-177ada19aecc.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 2140,
+  "broken_share": 0.1907,
+  "tagged": true,
+  "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_ba728ca2-8dc4-49ed-9b0b-14eeeb6659f5.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 197,
+  "broken_share": 0.1066,
+  "tagged": true,
+  "creator": "Microsoft® Excel® 2013",
+  "producer": "Microsoft® Excel® 2013"
+ },
+ {
+  "file": "urn_uuid_baa5782c-eb65-4b29-a4af-c499a6c04bd5.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 202,
+  "broken_share": 0.1634,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_bb0049f9-46f4-4fe7-bd88-96ba9273d7a2.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 125,
+  "broken_share": 0.28,
+  "tagged": false,
+  "creator": "",
+  "producer": "iText® 5.4.0 ©2000-2012 1T3XT BVBA (AGPL-version)"
+ },
+ {
+  "file": "urn_uuid_bb39a087-be50-4530-91de-922cde10710f.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 2073,
+  "broken_share": 0.218,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_bbabf08d-259a-4d6b-a719-a2e999c56826.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 6627,
+  "broken_share": 0.3299,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_bbfe66ae-f374-4c96-a577-d1e5ecf2dbc3.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 104,
+  "broken_share": 0.125,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_bc1a795d-b3f9-4f31-9630-2e0f30e763b7.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 302,
+  "broken_share": 0.1788,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_bc4ec9e4-620c-4894-9dab-b6d7967b30d9.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 251,
+  "broken_share": 0.2151,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "www.ilovepdf.com"
+ },
+ {
+  "file": "urn_uuid_bc860556-95a3-4cfd-aa4f-7e622ca35f97.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 392,
+  "broken_share": 0.0791,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_bc8e318a-840a-4812-a3c2-ca2af39ba3fd.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_bc98ea4e-ee26-4789-9af7-be8e5a96aa71.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 4735,
+  "broken_share": 0.3248,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_bd0c194f-5023-446b-bda1-fe590fa9825d.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 6082,
+  "broken_share": 0.0852,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_bd2089b3-50ac-48a6-924e-29e36ac968c7.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 5120,
+  "broken_share": 0.3824,
+  "tagged": false,
+  "creator": "PDF-XChange Editor 6.0.317.1",
+  "producer": "PDF-XChange Core API SDK (6.0.317.1)"
+ },
+ {
+  "file": "urn_uuid_be377f09-cbd2-494f-a2b6-b712e4afa2ab.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 112,
+  "broken_share": 0.2054,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_be77dcf1-659c-43e9-8c0c-b80eb635b6cf.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_bf92d9aa-2141-4e34-b3af-351040718df5.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 610,
+  "broken_share": 0.1623,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_bf938eb8-f888-4246-a23a-b87525e4fb4b.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 61,
+  "broken_share": 0.2131,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_bf9e2e6f-0f5e-48b0-833f-63e3101b12ef.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 3599,
+  "broken_share": 0.3281,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_bfbc3ed6-b894-4431-b9d1-1c14695a14f6.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 615,
+  "broken_share": 0.1919,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_c04229d5-51fe-4677-9147-540fd63c3b06.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 466,
+  "broken_share": 0.1545,
+  "tagged": true,
+  "creator": "",
+  "producer": "iOS Version 14.2 (Build 18B92) Quartz PDFContext"
+ },
+ {
+  "file": "urn_uuid_c0915594-0eaa-4de4-b4fb-2091d9f57a94.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 198,
+  "broken_share": 0.2071,
+  "tagged": true,
+  "creator": "Adobe InDesign 18.0 (Windows)",
+  "producer": "Adobe PDF Library 17.0"
+ },
+ {
+  "file": "urn_uuid_c0b07e65-4ca4-4a16-9529-899647e11653.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 640,
+  "broken_share": 0.0703,
+  "tagged": true,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_c0d3a352-fad8-4ea7-b991-f4adaf4f71a1.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1094,
+  "broken_share": 0.2505,
+  "tagged": true,
+  "creator": "Microsoft® Excel® 2010",
+  "producer": "Microsoft® Excel® 2010"
+ },
+ {
+  "file": "urn_uuid_c1794faa-7c6c-4b98-93f5-eab4cad8a42e.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 607,
+  "broken_share": 0.2076,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_c30b67bf-6a2e-4a42-9c49-9f1f4fd7c5ea.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1648,
+  "broken_share": 0.0953,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_c364cebd-dbe0-4282-8f94-d1f41c934d5a.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_c36d41d7-6fc3-4763-ae5d-766a7002633e.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 131,
+  "broken_share": 0.3435,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_c3bbbb2d-58ac-4430-9994-7813027546c1.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 201,
+  "broken_share": 0.2289,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_c3bd5022-1032-4264-9a37-5a3d6b6161ef.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 753,
+  "broken_share": 0.3572,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_c4df407e-b328-48f3-b211-bb09d25e279e.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 336,
+  "broken_share": 0.1905,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_c53d508c-2d94-40e9-a6b8-b5bba21293ec.pdf",
+  "verdict": "OK",
+  "script": "Gujr",
+  "words": 692,
+  "broken_share": 0.0419,
+  "tagged": true,
+  "creator": "Microsoft® Excel® 2010",
+  "producer": "Microsoft® Excel® 2010"
+ },
+ {
+  "file": "urn_uuid_c58ca031-8eb6-49e6-83c2-0462422c8040.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 270,
+  "broken_share": 0.3593,
+  "tagged": false,
+  "creator": "Kerala Agricultural University",
+  "producer": "mPDF 5.7"
+ },
+ {
+  "file": "urn_uuid_c5adee39-ba18-45b8-8287-21331192680e.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1345,
+  "broken_share": 0.1584,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 6.0"
+ },
+ {
+  "file": "urn_uuid_c5c611f5-4bcf-4446-a534-69dc0f47c61b.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1047,
+  "broken_share": 0.1156,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_c69dfe94-d85f-481e-bfc7-496a67d378fb.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 227,
+  "broken_share": 0.0793,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_c7a78321-6578-4171-9f26-86e87836970f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1888,
+  "broken_share": 0.3888,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_c8262c17-bf6a-46e7-a8c1-db7911365d2b.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 757,
+  "broken_share": 0.1215,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_c9434fa9-e4c6-4b59-9af0-cee0781b7497.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 2966,
+  "broken_share": 0.2087,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_c9cf5282-5183-4f12-bdba-23ccf45117f8.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 125,
+  "broken_share": 0.312,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_ca8efb09-7472-4ac7-b8b0-80ebc06f33cf.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 629,
+  "broken_share": 0.4642,
+  "tagged": true,
+  "creator": "Adobe InDesign 16.1 (Macintosh)",
+  "producer": "Adobe PDF Library 15.0"
+ },
+ {
+  "file": "urn_uuid_ca985b3e-779b-4178-84a6-9f6491b719b9.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 144,
+  "broken_share": 0.4444,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_cc1bf68c-3530-434b-96b0-a56cb0205e6f.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1917,
+  "broken_share": 0.0762,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_cc21c8ed-9ce0-4e6b-bd5b-b72b29aa4540.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 246,
+  "broken_share": 0.1545,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_cc256be9-f87c-4dff-abb1-063b9ad64bb3.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2.2",
+  "producer": "Acrobat Distiller 8.1.0 (Windows)"
+ },
+ {
+  "file": "urn_uuid_ccc6e0f9-42e5-43d7-94b3-fec9141c4064.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 166,
+  "broken_share": 0.5361,
+  "tagged": false,
+  "creator": "LaTeX with hyperref",
+  "producer": "MiKTeX-dvipdfmx (20210609)"
+ },
+ {
+  "file": "urn_uuid_ccc8e80a-209b-4590-bb84-e7c8d08e4770.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 7299,
+  "broken_share": 0.1417,
+  "tagged": false,
+  "creator": "www.convertapi.com",
+  "producer": "www.convertapi.com                                      "
+ },
+ {
+  "file": "urn_uuid_cdf01712-b968-404f-8b7f-4eb55835b375.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 229,
+  "broken_share": 0.1223,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_cea87e9d-5270-4c9a-a02b-aee03124a479.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 529,
+  "broken_share": 0.2212,
+  "tagged": false,
+  "creator": "",
+  "producer": "EVO HTML to PDF Converter 5.7"
+ },
+ {
+  "file": "urn_uuid_cf0b590d-5610-463c-9da4-201b7b4b262f.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 10,
+  "broken_share": 0.4,
+  "tagged": false,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_cf7cfec6-b3c6-41ad-a23d-49447d69c9f0.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 1371,
+  "broken_share": 0.3129,
+  "tagged": true,
+  "creator": "",
+  "producer": "Foxit PhantomPDF Printer Version 9.6.0.1818"
+ },
+ {
+  "file": "urn_uuid_cf8c38d3-542e-40cc-b681-1951cc921374.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 1020,
+  "broken_share": 0.0882,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Adobe Acrobat Pro 11.0.7"
+ },
+ {
+  "file": "urn_uuid_cfee4136-f0da-4840-a55a-eb1f2e5817cb.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 910,
+  "broken_share": 0.1033,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "OAT"
+ },
+ {
+  "file": "urn_uuid_cfef7065-e16e-48b3-b77e-9871cc248a15.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 1537,
+  "broken_share": 0.2108,
+  "tagged": false,
+  "creator": "Word",
+  "producer": "macOS Version 10.14.2 (Build 18C54) Quartz PDFContext"
+ },
+ {
+  "file": "urn_uuid_d0dc0ec1-bffe-49b2-8a6c-0598146cd1d7.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 280,
+  "broken_share": 0.2929,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d116523b-97f7-4168-9eff-119a70e1db50.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1502,
+  "broken_share": 0.1844,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_d13a2048-79bb-4cfc-a9ed-6acc082a4090.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 7369,
+  "broken_share": 0.146,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d27186e5-f6a2-4d27-aada-00957c8a257a.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 133,
+  "broken_share": 0.1729,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d27c87d4-2128-4147-8ce8-41a59557a6ae.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 1226,
+  "broken_share": 0.1085,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_d2dd199e-6b9c-44b8-b78d-be0f894014ac.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 989,
+  "broken_share": 0.3862,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Neevia Document Converter Pro v6.5 (http://neevia.com)"
+ },
+ {
+  "file": "urn_uuid_d3010467-cf3f-4987-8699-133a2463c991.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 2709,
+  "broken_share": 0.1908,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_d3134d08-f3e7-4231-99c4-206d11d79b1b.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_d35d4436-756d-47eb-a65a-7485662ee166.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 191,
+  "broken_share": 0.1885,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d3c9b431-fcb2-4cc8-abd2-218c6ea6feea.pdf",
+  "verdict": "OK",
+  "script": "Gujr",
+  "words": 101,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d4b12087-0a4b-4972-9c39-f7d569fb5f7a.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 2006,
+  "broken_share": 0.3126,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_d53c0cda-0b59-4d31-b992-57f5ecfccf6b.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 467,
+  "broken_share": 0.2206,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_d53cb34f-b692-4346-8b64-a08fcb4c92bc.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 511,
+  "broken_share": 0.0959,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d5f3b1b9-0b49-41e9-8737-eaadcf730ec8.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 3426,
+  "broken_share": 0.2361,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d644c528-3352-4ac4-a818-371c4886c441.pdf",
+  "verdict": "OK",
+  "script": "Orya",
+  "words": 588,
+  "broken_share": 0.0408,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_d6cbcf8d-08d1-4ba5-8aa9-9482fbcd6d6a.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2.2",
+  "producer": "Acrobat Distiller 8.0.0 (Windows)"
+ },
+ {
+  "file": "urn_uuid_d6e3ef6e-5f89-45ea-9c99-92bb833e77a7.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 651,
+  "broken_share": 0.2227,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d71bacb9-d8c2-45d8-b83f-9838457907d3.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 2546,
+  "broken_share": 0.0573,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_d78bec46-8eb0-4925-b55a-30f00dd89ea2.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 829,
+  "broken_share": 0.263,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_d7b39044-4f61-4c04-9a0e-cbe903fe7c60.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 7330,
+  "broken_share": 0.2012,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_d7f931ed-ebfb-4c09-a3c0-19479ab9f3f5.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2",
+  "producer": "Acrobat Distiller 8.0.0 (Windows)"
+ },
+ {
+  "file": "urn_uuid_d8a17519-746f-4acb-a2f2-bb133eb53168.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 141,
+  "broken_share": 0.2979,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_d97f33fb-54c3-445a-9d3e-359e9d3a3e5e.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 226,
+  "broken_share": 0.292,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_d9f8c8a7-16f7-460f-b8c9-8863059324d3.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 1273,
+  "broken_share": 0.3614,
+  "tagged": false,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_dadea139-4ac5-4e62-984e-64af69627bb4.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 304,
+  "broken_share": 0.1349,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_db1eaa69-ad5a-48ec-9ae4-c919318b9c51.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 11515,
+  "broken_share": 0.2829,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2.2",
+  "producer": "Acrobat Distiller 9.0.0 (Windows)"
+ },
+ {
+  "file": "urn_uuid_dc6ffc01-de40-4bd4-a3b7-adb7c6c4fbdb.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 4688,
+  "broken_share": 0.3959,
+  "tagged": false,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_dd4467e0-421e-436e-bb89-bd624b17f6c5.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 145,
+  "broken_share": 0.269,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_dd70d10f-77b1-411d-872e-2ad2b12b7032.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 2243,
+  "broken_share": 0.2893,
+  "tagged": true,
+  "creator": "Microsoft® Word 2021",
+  "producer": "Microsoft® Word 2021"
+ },
+ {
+  "file": "urn_uuid_dd9c7d29-3491-49e9-9459-80703631457e.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 119,
+  "broken_share": 0.3445,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_ddfc6c9e-2c0f-4293-a081-108f148fb32f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 298,
+  "broken_share": 0.0604,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_de20f8c8-142e-4a74-a135-5a1564316d19.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 2065,
+  "broken_share": 0.1535,
+  "tagged": false,
+  "creator": "PScript5.dll Version 5.2.2",
+  "producer": "GPL Ghostscript 9.06"
+ },
+ {
+  "file": "urn_uuid_de49d897-abc4-459e-b467-192c4bf7dc5d.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 220,
+  "broken_share": 0.3682,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "www.ilovepdf.com"
+ },
+ {
+  "file": "urn_uuid_df33afe3-f105-4410-931c-1b295f099dec.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_df76d54a-4cf2-4d03-a7a1-818bcbe0cc9a.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 392,
+  "broken_share": 0.3189,
+  "tagged": false,
+  "creator": "WPS Writer",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_df8d09c1-e695-4ffe-ab74-12148a535226.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 4930,
+  "broken_share": 0.4174,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_e01ed2f1-1adc-44e9-8e36-43cc32eed494.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 2100,
+  "broken_share": 0.1114,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_e0682668-65b4-4905-ab96-0c20412e4894.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 403,
+  "broken_share": 0.2109,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_e08ac24c-f8d5-420d-a142-1fe0d6f95bef.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 119,
+  "broken_share": 0.2437,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_e0a013eb-d869-4e72-808f-0bf77593c411.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 253,
+  "broken_share": 0.3399,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_e1924580-6d74-40f3-b354-8189112aff38.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 1310,
+  "broken_share": 0.0962,
+  "tagged": true,
+  "creator": "Microsoft® Word for Office 365",
+  "producer": "Microsoft® Word for Office 365"
+ },
+ {
+  "file": "urn_uuid_e1f115df-c9ca-4d67-a948-d2445ef27f93.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 265,
+  "broken_share": 0.3925,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_e221d9e9-81c5-493b-8c86-dae548a48039.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_e2618990-d761-4dc3-9c2c-0408f28b6f88.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_e3041ead-1d25-412e-abd8-77a21aadc9a2.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 215,
+  "broken_share": 0.2512,
+  "tagged": false,
+  "creator": "",
+  "producer": "iText® 5.4.0 ©2000-2012 1T3XT BVBA (AGPL-version)"
+ },
+ {
+  "file": "urn_uuid_e3209cc2-5b68-4708-bb9e-34249951b1ef.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 1087,
+  "broken_share": 0.0708,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 5.2"
+ },
+ {
+  "file": "urn_uuid_e3af6e6c-5f23-4a4b-bb55-6f4c885f0fbf.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 774,
+  "broken_share": 0.1628,
+  "tagged": true,
+  "creator": "",
+  "producer": "Accessibil-IT Inc."
+ },
+ {
+  "file": "urn_uuid_e4bee826-1966-4658-8a5e-62de38f8b602.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 474,
+  "broken_share": 0.1456,
+  "tagged": true,
+  "creator": "Microsoft® Publisher for Microsoft 365",
+  "producer": "Microsoft® Publisher for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_e505febc-395b-460e-a031-d3942786d608.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1137,
+  "broken_share": 0.0695,
+  "tagged": true,
+  "creator": "Adobe InDesign 18.5 (Windows)",
+  "producer": "Adobe PDF Library 17.0"
+ },
+ {
+  "file": "urn_uuid_e521d943-33c3-4b21-90bf-89d680c09d9c.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 323,
+  "broken_share": 0.1517,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_e55fac28-d325-4ed3-9c64-c2df9ab200b3.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 370,
+  "broken_share": 0.4162,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_e56ec281-c44c-45a6-9bba-407248941be1.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 375,
+  "broken_share": 0.1653,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_e5c76a79-fb97-4928-8000-bc20a3c04e2b.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_e66f7592-ec34-4d65-b161-c42945c6986f.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 4795,
+  "broken_share": 0.2311,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_e69997d8-b908-4b21-a380-83f4228b3cb6.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 901,
+  "broken_share": 0.3518,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": "iTextSharp™ 5.4.4 ©2000-2013 1T3XT BVBA (AGPL-version)"
+ },
+ {
+  "file": "urn_uuid_e6f889f4-65d2-46dd-8197-87b2f7cc2cb7.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 2987,
+  "broken_share": 0.2216,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_e757109f-182e-4a4f-a87a-9fe9167359b0.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 151,
+  "broken_share": 0.3113,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_e76a2035-7893-482b-8498-15bb02f844ac.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 2161,
+  "broken_share": 0.1513,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_e76f2c76-44df-4370-8f55-613acf4dda1d.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1044,
+  "broken_share": 0.2969,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_e77c969e-062d-4936-a4fa-008d98232457.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 204,
+  "broken_share": 0.4804,
+  "tagged": false,
+  "creator": "LaTeX with hyperref",
+  "producer": "MiKTeX-dvipdfmx (20210609)"
+ },
+ {
+  "file": "urn_uuid_e7a6145f-1f11-423b-85f8-3884ab0f53ba.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 444,
+  "broken_share": 0.2905,
+  "tagged": false,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_e7eb2f71-ab2b-4f83-b919-f6a29500a83c.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "PDFelement 6 Professional",
+  "producer": "PDFelement 6 Professional"
+ },
+ {
+  "file": "urn_uuid_e822fa36-544f-484f-a04d-b68c5817f667.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 393,
+  "broken_share": 0.2697,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_e967e55b-425c-4537-9bba-175c8318dcc5.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 154,
+  "broken_share": 0.4156,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_e991858b-f643-4411-a512-a39d41775a86.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3023,
+  "broken_share": 0.0559,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_e99ee430-460d-4b63-bac2-a92cdeb39ad7.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_e9f26f47-e931-40cd-b043-00b2e9d666a7.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 609,
+  "broken_share": 0.1117,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_eab5a3c2-42e7-4e0e-94c8-8c9705b112b6.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3161,
+  "broken_share": 0.2436,
+  "tagged": false,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_eaea9801-ca10-4859-8445-204a3a622eaa.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_eb3debd1-c937-43eb-9199-7600b0c1437a.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 3726,
+  "broken_share": 0.2391,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_ec0c8b94-9a84-4d8a-9a54-f04d0efdd82e.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 232,
+  "broken_share": 0.4009,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_ec0f1b7d-265f-469d-abea-78a321c5ab42.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 357,
+  "broken_share": 0.2213,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_ec612534-59c0-48f5-8f7c-d747b9546946.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 133,
+  "broken_share": 0.1353,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_ec675c15-16d6-4a64-9090-6c1c842661e5.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 80,
+  "broken_share": 0.075,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_ec9a0723-1ce8-4fd1-b72f-4c01b7234dac.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 2823,
+  "broken_share": 0.1438,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "LibreOffice 6.0"
+ },
+ {
+  "file": "urn_uuid_ee5ca4c0-8094-4bb4-8bbd-0ff31ee5c557.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_ee7735d5-6e85-44cf-87af-4a6b2a09601c.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 121,
+  "broken_share": 0.157,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_ef0b1f83-f097-4761-8802-233ba3a9a379.pdf",
+  "verdict": "BROKEN",
+  "script": "Knda",
+  "words": 5719,
+  "broken_share": 0.2312,
+  "tagged": false,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_ef333d74-a3ba-47d9-ace7-e9b8488561d8.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_ef368242-b472-4ec2-9351-5a64e2635a3a.pdf",
+  "verdict": "BROKEN",
+  "script": "Telu",
+  "words": 642,
+  "broken_share": 0.3442,
+  "tagged": false,
+  "creator": "pdfsam-console (Ver. 2.4.0e)",
+  "producer": "iText 2.1.7 by 1T3XT"
+ },
+ {
+  "file": "urn_uuid_effc914d-8952-4ec0-b510-c7f7c8f05107.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 355,
+  "broken_share": 0.4451,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_f08f3621-c53e-449d-abf0-d74a24055993.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 168,
+  "broken_share": 0.3095,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_f2310122-a505-4d96-854c-b86a3a67b71f.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1073,
+  "broken_share": 0.11,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_f29c4a26-4c85-44d5-aa6d-476f061104d9.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 3448,
+  "broken_share": 0.1934,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_f2e4eff8-04d0-4b5e-b57c-239e1fd546a2.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_f3738db7-54d4-40c6-b887-74069f0eb72a.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 340,
+  "broken_share": 0.1088,
+  "tagged": true,
+  "creator": "Microsoft® Word LTSC",
+  "producer": "Microsoft® Word LTSC"
+ },
+ {
+  "file": "urn_uuid_f45894d2-c246-4b4a-a1a8-6c08e95e1863.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 4640,
+  "broken_share": 0.0946,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_f46420f6-9782-4cce-a5c5-e3ac195c4c38.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 1157,
+  "broken_share": 0.3907,
+  "tagged": false,
+  "creator": "Writer",
+  "producer": "OpenOffice 4.1.0"
+ },
+ {
+  "file": "urn_uuid_f503de7d-5d47-443c-b3ef-5937476a955d.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1480,
+  "broken_share": 0.0649,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_f5db0ee9-f3a7-4590-8e54-2790ac4c309f.pdf",
+  "verdict": "OK",
+  "script": "Deva",
+  "words": 1021,
+  "broken_share": 0.046,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_f6cdd0e3-b4da-4181-b1f9-61ffb86650d2.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 290,
+  "broken_share": 0.2448,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_f6d6cd16-0ff5-4f12-b6aa-6f1fa2ed57df.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 36,
+  "broken_share": 0.0278,
+  "tagged": true,
+  "creator": "Microsoft® Word LTSC",
+  "producer": "Microsoft® Word LTSC"
+ },
+ {
+  "file": "urn_uuid_f7ee6bc0-c052-4977-9534-4c4483e1a023.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 263,
+  "broken_share": 0.1559,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_f7f0c5c7-1c42-4e93-91ed-704722235116.pdf",
+  "verdict": "NO_TEXT",
+  "script": "Taml",
+  "words": 20,
+  "broken_share": 0.1,
+  "tagged": true,
+  "creator": "",
+  "producer": "iLovePDF"
+ },
+ {
+  "file": "urn_uuid_f81c50db-f1b2-448c-9653-3f996f632d87.pdf",
+  "verdict": "OK",
+  "script": "Taml",
+  "words": 81,
+  "broken_share": 0.0247,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ },
+ {
+  "file": "urn_uuid_f844da70-c25e-4f48-996c-8562aadc0e58.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 420,
+  "broken_share": 0.3262,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_f89f3bbf-cd23-4865-b22b-7eec7803c2b0.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1149,
+  "broken_share": 0.1671,
+  "tagged": false,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_f8e0481e-fbb3-409c-9efd-c27059843e98.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 282,
+  "broken_share": 0.1525,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_f9809d00-bd0c-4c32-8f0e-f0384d18be8c.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3354,
+  "broken_share": 0.3059,
+  "tagged": true,
+  "creator": "Microsoft Word",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_f99a0097-efe2-4bf4-bad6-a2d2c2c0dab1.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 1697,
+  "broken_share": 0.1721,
+  "tagged": false,
+  "creator": "",
+  "producer": "EVO HTML to PDF Converter 5.7"
+ },
+ {
+  "file": "urn_uuid_f9a24770-78ff-4903-86b9-816fcc279c86.pdf",
+  "verdict": "BROKEN",
+  "script": "Deva",
+  "words": 104,
+  "broken_share": 0.0962,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_f9cf9688-ae1c-417c-b845-97092c231bc4.pdf",
+  "verdict": "BROKEN",
+  "script": "Mlym",
+  "words": 157,
+  "broken_share": 0.3885,
+  "tagged": false,
+  "creator": "",
+  "producer": "mPDF 6.0"
+ },
+ {
+  "file": "urn_uuid_fa23c54f-78a4-4c38-9a49-e31be0a40b5c.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 233,
+  "broken_share": 0.2232,
+  "tagged": true,
+  "creator": "",
+  "producer": ""
+ },
+ {
+  "file": "urn_uuid_fa7e93cd-712b-4e3d-bbfc-042907396316.pdf",
+  "verdict": "BROKEN",
+  "script": "Taml",
+  "words": 424,
+  "broken_share": 0.2476,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_fb39f9ee-80be-4f80-8f67-556a9ec73266.pdf",
+  "verdict": "OK",
+  "script": "Guru",
+  "words": 143,
+  "broken_share": 0.0,
+  "tagged": false,
+  "creator": "",
+  "producer": "Skia/PDF m133 Google Docs Renderer"
+ },
+ {
+  "file": "urn_uuid_fbb35669-6d35-4d5f-ab9d-c1713c6145b8.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 745,
+  "broken_share": 0.2054,
+  "tagged": false,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_fc25b880-84e2-47e7-b518-1168a7323fdc.pdf",
+  "verdict": "BROKEN",
+  "script": "Gujr",
+  "words": 124,
+  "broken_share": 0.0645,
+  "tagged": false,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_fc6e8592-a5fc-4de7-99b2-5f9f6737672f.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 2998,
+  "broken_share": 0.0774,
+  "tagged": false,
+  "creator": "Microsoft® Word 2013",
+  "producer": "Microsoft® Word 2013"
+ },
+ {
+  "file": "urn_uuid_fd003f5c-ccbe-44c0-ba9e-47e130cc58d4.pdf",
+  "verdict": "BROKEN",
+  "script": "Guru",
+  "words": 2889,
+  "broken_share": 0.2426,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_fd365f6a-5249-4dbf-976a-013b6dc25f21.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 402,
+  "broken_share": 0.2015,
+  "tagged": true,
+  "creator": "Microsoft® Word 2016",
+  "producer": "Microsoft® Word 2016"
+ },
+ {
+  "file": "urn_uuid_fda5dec8-84bd-42de-b481-06ed8bbed198.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 1556,
+  "broken_share": 0.0591,
+  "tagged": true,
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007"
+ },
+ {
+  "file": "urn_uuid_fde402d8-9071-445b-a7cd-631ea6927d66.pdf",
+  "verdict": "NO_TEXT",
+  "script": null,
+  "words": 0,
+  "broken_share": 0.0,
+  "tagged": true,
+  "creator": "Microsoft® Word for Microsoft 365",
+  "producer": "Microsoft® Word for Microsoft 365"
+ },
+ {
+  "file": "urn_uuid_fe2ef530-9c6b-4bfb-a4f4-daa27c18d895.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 599,
+  "broken_share": 0.1302,
+  "tagged": true,
+  "creator": "Microsoft® Word 2010",
+  "producer": "Microsoft® Word 2010"
+ },
+ {
+  "file": "urn_uuid_ff2cb0e8-ebb3-463d-a193-af4682762033.pdf",
+  "verdict": "BROKEN",
+  "script": "Beng",
+  "words": 3845,
+  "broken_share": 0.3225,
+  "tagged": false,
+  "creator": "",
+  "producer": "mPDF 7.1.9"
+ },
+ {
+  "file": "urn_uuid_ff68c255-c7a0-43b4-b6c6-c5b237274853.pdf",
+  "verdict": "BROKEN",
+  "script": "Orya",
+  "words": 898,
+  "broken_share": 0.1214,
+  "tagged": true,
+  "creator": "Microsoft® Word 2019",
+  "producer": "Microsoft® Word 2019"
+ }
+]
