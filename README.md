@@ -27,10 +27,10 @@ Full report: **[REPORT.md](REPORT.md)**.
 6. **New in v1.3, small languages get the broken text:** across 82 non-Latin configs, Southern Balochi (99%), Kashmiri (94%),
    Gilaki (73%) and Mesopotamian Arabic (69%) are mostly broken Persian/Arabic; Assamese, Uyghur and Punjabi are mostly
    broken text in their own language. About 6.1B mislabelled tokens if the sampled rates hold.
-7. **New in v1.4, government PDFs:** 93.8% of 791 sampled Indian government regional-language PDFs have no correct text for
-   screen readers or AI (73% scans, 21% broken Word exports, 6% clean), worse in recent crawls (91% -> 97.5%).
-8. **New in v1.4, root cause:** Microsoft Word made 79% of broken Indian-language PDFs; Word 365's Save as PDF also garbles Khmer,
-   Myanmar, Lao and Divehi (Arabic, Hebrew, Thai fine). Free checker: `tools/indic_pdf_check.py`.
+7. **New in v1.4, government PDFs:** 93.8% of 791 sampled Indian government regional-language PDFs have no correct text (73% scans,
+   readable by a screen reader only after OCR; 21% garbled Word exports; 6% clean); no improvement, likely worse (91% -> 97.5%).
+8. **New in v1.4 (corrected in v1.5), a cause - Word's Save as PDF:** same text, same font: Edge keeps 100% of letters, Word 365 only
+   36-88% (Khmer, Malayalam, Hindi, Myanmar); it also garbles Divehi and Lao (Arabic, Hebrew, Thai fine). Free checker: `tools/indic_pdf_check.py`.
 
 ## What is in this repository
 - `REPORT.md` - the report (numbers, method, limits).
@@ -38,7 +38,7 @@ Full report: **[REPORT.md](REPORT.md)**.
   original-PDF fetch (`fetch_originals.py`, `fetch_bulk.py`, `fetch_ocrpath.py`), the two-reader fabrication check
   (`score26.py`, `skeptic26.py`, `anchors26.py`, `kaggle/tesseract_finepdfs_ocrpath.py`), the Gilaki check
   (`gilaki_check.py`), the small-language sweep (`exile_check.py`), the government-PDF sample (`gov_check.py`), the Word
-  cross-script test (`word_scripts_test.py`, Windows + Word), and the PDF checker (`../tools/indic_pdf_check.py`), test-data generation
+  cross-script test (`word_scripts_test.py`) and Word-vs-Edge control (`word_vs_edge_test.py`, Windows + Word + Edge), and the PDF checker (`../tools/indic_pdf_check.py`), test-data generation
   (`make_data.py`, `fresh2_data.py`, `word_var.ps1`), OCR baselines (`kaggle/`) and scorers; shared helpers in
   `common.py`. Research code: paths assume the original working layout.
 - The recovery decoder (section 4 of the report) is NOT included; a separate release is planned (available on request).

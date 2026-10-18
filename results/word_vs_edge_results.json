@@ -1,0 +1,54 @@
+{
+ "ml": {
+  "font": "Nirmala UI",
+  "word": {
+   "words_pymupdf": 0.4174,
+   "words_pdfminer": 0.4174,
+   "letters": 0.8734
+  },
+  "edge": {
+   "words_pymupdf": 0.7739,
+   "words_pdfminer": 0.5087,
+   "letters": 1.0
+  }
+ },
+ "hi": {
+  "font": "Nirmala UI",
+  "word": {
+   "words_pymupdf": 0.6184,
+   "words_pdfminer": 0.6067,
+   "letters": 0.8794
+  },
+  "edge": {
+   "words_pymupdf": 0.9612,
+   "words_pdfminer": 0.6753,
+   "letters": 1.0
+  }
+ },
+ "km": {
+  "font": "Leelawadee UI",
+  "word": {
+   "words_pymupdf": 0.0,
+   "words_pdfminer": 0.0,
+   "letters": 0.3585
+  },
+  "edge": {
+   "words_pymupdf": 0.4746,
+   "words_pdfminer": 0.0847,
+   "letters": 1.0
+  }
+ },
+ "my": {
+  "font": "Myanmar Text",
+  "word": {
+   "words_pymupdf": 0.0687,
+   "words_pdfminer": 0.0687,
+   "letters": 0.8742
+  },
+  "edge": {
+   "words_pymupdf": 0.5649,
+   "words_pdfminer": 0.1832,
+   "letters": 1.0
+  }
+ }
+}
