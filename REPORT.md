@@ -90,7 +90,7 @@ The broken text layer still contains the exact glyph IDs; searching for the Unic
 - Held-out Word 365 PDFs, 10 scripts, 27 docs, 10,594 words: **99.1% exact words** vs free Tesseract 86.2% (non-italic; 29.6% on Word's slanted italics) and PyMuPDF 22-77%; 14 ms/page on one laptop CPU core.
 - The 7 documents RolmOCR finished in our run (2,688 words): RolmOCR 61.2%, Tesseract 91.2%, inverse shaping 99.3% (scoring that favours the OCR systems).
 - Real broken FinePDFs originals, using only the font embedded in each PDF: 311 decoded; 81.4% of stretches verified by exact re-shaping; impossible-word rate 17.9% -> 1.8%. Limits: verified = renders identically; ~40% of broken originals do not embed shaping tables.
-- The decoder is not in the repository yet (separate release planned); the exact versions behind these numbers are fingerprinted (SHA-256) in the repo. Happy to share it with the FinePDFs team (available on request: georgeshibu380@gmail.com or an issue on the repo).
+- The numbers above come from the research versions of the decoder (fingerprinted by SHA-256 in `results/`). The decoder is now released as **[Unshape](https://github.com/novain-shibu/unshape)** (v0.2.1, DOI 10.5281/zenodo.23418945; AGPL-3.0 or commercial licence), which adds a reference-font path for fonts that lost their shaping tables and reports every test, including blind real-PDF tests (98.5% on one publisher's files). Note: the released v0.2 takes about 2-60 s per document; the 14 ms/page figure above refers to the research version on Word 365 PDFs only.
 
 ## 5. New in v1.2: the `glk_Arab` ("Gilaki") config is mostly broken Persian/Arabic text
 `glk_Arab` is one of the largest non-Latin configs: 4.98B tokens in 312,868 docs. Gilaki is a regional language of northern Iran with little written text, so that size is implausible. A first look at 20 rows showed Persian and Arabic PDFs whose text layer came out broken, labelled Gilaki (or Balochi) by language ID with low confidence.
@@ -182,11 +182,20 @@ Run 2 per language: Hindi 99%, Marathi 99%, Tamil 100%, Malayalam 97.5%, Punjabi
 
 With section 3's Word test (Devanagari, Bengali, Tamil, Malayalam, Telugu, Kannada, Gujarati, Gurmukhi, Odia and Sinhala: 7-65% of words recoverable), Word 365's PDF export garbles about 15 scripts whose languages have over a billion speakers (severely for Khmer and Divehi, moderately for Lao, mildly for Tibetan, by letter-level recall), while it handles Arabic, Hebrew, Thai, Amharic and Georgian. Another PDF producer (Typst) has been reported to export Khmer that extracts exactly, so the problem is fixable at the source. Prior art: many user reports (Adobe and Aspose forums: Khmer, Myanmar, Lao, Hindi), a 2020 PDF Association talk on complex scripts, and a MITRE study on Arabic/Persian PDFs (DTIC ADA546769); we found no systematic cross-script measurement of Word. Limits: one Word build, one font per script, Wikipedia text; some Word-made PDFs are clean (older Word versions and other fonts can behave differently); readers that use the PDF's text layer (screen readers, search, copy-paste) see the same text as the extractors.
 
+## 9. Tools released from this work (2026-10-19)
+| Step | Tool | What it does | Status |
+|---|---|---|---|
+| Check | [indic-pdf-check](https://github.com/novain-shibu/indic-pdf-check) | Flags PDFs whose text layer is broken, scanned or unsupported (OK / BROKEN / NO_TEXT / ...) | v0.2.0, pip-installable |
+| Recover | [Unshape](https://github.com/novain-shibu/unshape) | Exact text from broken Indian-language PDFs without OCR (inverse shaping, render-verified; user supplies the original font) | v0.2.1, DOI 10.5281/zenodo.23418945, AGPL-3.0 or commercial |
+| Verify | [SeenRead](https://github.com/novain-shibu/seenread) | Proves, word by word and without OCR, whether a PDF's extracted text is the text a human sees (also hidden text and font-remap lies) | v0.1.0, DOI 10.5281/zenodo.23471690, AGPL-3.0 or commercial |
+
+Each tool's README lists its tests and limits (SeenRead: synthetic documents only so far; Unshape: Mangal not yet tested).
+
 ## Suggestions
 1. Don't route damaged Tamil/Malayalam/Telugu/Kannada text-layer docs to rolmOCR as is: that trades visible corruption for invisible fabrication.
 2. Flag or drop rolmOCR-path docs in these configs whose text disagrees with an independent reader, or add a per-language OCR quality gate; at minimum, document the per-language risk in the card.
 3. Use the orthographic-validity rate as a routing/quality feature on the text-layer path.
-4. For Word-made PDFs, consider re-extraction by inverse shaping instead of OCR.
+4. For Word-made PDFs, consider re-extraction by inverse shaping instead of OCR ([Unshape](https://github.com/novain-shibu/unshape)).
 5. For Arabic-script PDFs, NFKC-normalise presentation forms and detect reversed lines before language ID; low-confidence language-ID results in rare-language configs deserve a check (`glk_Arab`: median 0.44).
 6. Before release, check every config for script mismatch and broken text with the cheap per-document rules of section 6, and treat low language-ID confidence in small-language configs as a warning sign; the configs listed in section 6 can be re-assigned (most are Persian or Arabic) or dropped.
 7. For Microsoft: write ActualText (or a correct ToUnicode mapping per glyph cluster) when exporting complex-script text from Word to PDF; until then, publishers of Indic, Sinhala, Khmer, Myanmar, Lao and Thaana PDFs should check that copied text matches the source (for Indian scripts: `tools/indic_pdf_check.py`).
