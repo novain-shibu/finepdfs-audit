@@ -8,6 +8,8 @@
 
 **Check your own PDFs:** `pip install git+https://github.com/novain-shibu/indic-pdf-check` then `indic-pdf-check file.pdf` -> `OK` / `BROKEN` / `NO_TEXT` / `INSUFFICIENT_TEXT` / `UNSUPPORTED_SCRIPT` for Indian, Sinhala, Thai, Lao, Khmer, Myanmar and Thaana scripts ([indic-pdf-check](https://github.com/novain-shibu/indic-pdf-check)).
 
+**Recover the text (no OCR):** [Unshape](https://github.com/novain-shibu/unshape), open source (AGPL-3.0 or commercial licence): `pip install git+https://github.com/novain-shibu/unshape` then `unshape file.pdf --font <the document's original font>`.
+
 An audit of the complex-script configs of [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs).
 Full report: **[REPORT.md](REPORT.md)**.
 
@@ -23,7 +25,7 @@ Full report: **[REPORT.md](REPORT.md)**.
    but say something other than what the page says. Roughly 4.8 billion tokens if the sampled rates hold (a rough extrapolation that counts all tokens of flagged documents; disagreement with a second OCR is a strong signal, not proof for every document).
    Consistent with GlotOCR Bench (arXiv 2604.12978).
 4. **Recovery without OCR:** inverting OpenType shaping recovers 99.1% of words on held-out Word PDFs in 10 scripts
-   (free Tesseract: 86.2%).
+   (free Tesseract: 86.2%). Released as [Unshape v0.2](https://github.com/novain-shibu/unshape) (DOI 10.5281/zenodo.23418945).
 5. **New in v1.2, "Gilaki" config:** 84% of a fresh random sample of `glk_Arab` (4.98B tokens) is broken Persian/Arabic
    PDF text labelled Gilaki (CI 76-90%; clean controls 0/104 and 0/40); about 4.5B tokens if the rate holds (rough extrapolation).
 6. **New in v1.3, small languages get the broken text:** across 82 non-Latin configs, Southern Balochi (99%), Kashmiri (94%),
