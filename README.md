@@ -44,8 +44,8 @@ Full report: **[REPORT.md](REPORT.md)**.
   cross-script test (`word_scripts_test.py`) and Word-vs-Edge control (`word_vs_edge_test.py`, Windows + Word + Edge), and the PDF checker (`../tools/indic_pdf_check.py`), test-data generation
   (`make_data.py`, `fresh2_data.py`, `word_var.ps1`), OCR baselines (`kaggle/`) and scorers; shared helpers in
   `common.py`. Research code: paths assume the original working layout.
-- The recovery decoder (section 4 of the report) is NOT included; a separate release is planned (available on request).
-  It builds on the earlier Malayalam-only prototype [Unshape v0.1](https://github.com/novain-shibu/unshape).
+- The recovery decoder (section 4 of the report) is released separately as
+  [Unshape v0.2.0](https://github.com/novain-shibu/unshape) (AGPL-3.0 or commercial licence; DOI 10.5281/zenodo.23470282).
 - `results/` - raw result files (document IDs and numbers only), hand labels written before automatic scores
   (`labels26.json`), and the SHA-256 of each frozen decoder version.
 
