@@ -10,6 +10,8 @@
 
 **Recover the text (no OCR):** [Unshape](https://github.com/novain-shibu/unshape), open source (AGPL-3.0 or commercial licence): `pip install git+https://github.com/novain-shibu/unshape` then `unshape file.pdf --font <the document's original font>`.
 
+**Verify what machines read vs what people see:** [SeenRead](https://github.com/novain-shibu/seenread) proves, word by word and without OCR, whether a PDF's extracted text is the text on the page (also flags hidden text).
+
 An audit of the complex-script configs of [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs).
 Full report: **[REPORT.md](REPORT.md)**.
 
