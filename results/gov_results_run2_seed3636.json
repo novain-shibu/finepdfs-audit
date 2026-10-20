@@ -228,10 +228,10 @@
   {
    "cfg": "hin_Deva",
    "row": 70584,
-   "id": "<urn:uuid:3638c59c-d17f-44ef-bbbc-6f9164566b9a>",
-   "url": "http://education.rajasthan.gov.in/content/dam/doitassets/education/school%26secondaryeducation/Secondary%20Education/ordernotification/2018/January18-April18/20.02.18_B1courtcase.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-22/segments/1558232258453.85/warc/CC-MAIN-20190525224929-20190526010929-00229.warc.gz",
-   "offset": 60101774,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -273,10 +273,10 @@
   {
    "cfg": "hin_Deva",
    "row": 106934,
-   "id": "<urn:uuid:6f678357-4f64-4857-bed9-7b0a68e57a24>",
-   "url": "https://nagpurgraminpolice.gov.in/pdf/ac/0541b8314b5051e9a61d7fd2c026744c.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-04/segments/1547584336901.97/warc/CC-MAIN-20190123172047-20190123194047-00518.warc.gz",
-   "offset": 569172334,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -363,10 +363,10 @@
   {
    "cfg": "hin_Deva",
    "row": 123489,
-   "id": "<urn:uuid:7a493098-c3fb-412e-850a-ed26b1236ff6>",
-   "url": "https://www.uppolice.gov.in/site/writereaddata/UploadedPressRelease/pdf/PRP_202208080904080473.pdf",
-   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030335504.22/warc/CC-MAIN-20220930181143-20220930211143-00484.warc.gz",
-   "offset": 1062789425,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -606,10 +606,10 @@
   {
    "cfg": "hin_Deva",
    "row": 230223,
-   "id": "<urn:uuid:f7bb937c-311d-44d5-b465-e3adc91a0472>",
-   "url": "https://uppolice.gov.in/site/writereaddata/UploadedPressRelease/pdf/PRP_202009141328227737.pdf",
-   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107883636.39/warc/CC-MAIN-20201024135444-20201024165444-00718.warc.gz",
-   "offset": 562854104,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -633,10 +633,10 @@
   {
    "cfg": "hin_Deva",
    "row": 230230,
-   "id": "<urn:uuid:55911f90-552d-41b7-9f17-9d536688a809>",
-   "url": "https://www.uppolice.gov.in/site/writereaddata/UploadedPressRelease/pdf/PRP_202309201225482982.pdf",
-   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679100304.52/warc/CC-MAIN-20231201183432-20231201213432-00368.warc.gz",
-   "offset": 1173147003,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {
@@ -750,10 +750,10 @@
   {
    "cfg": "hin_Deva",
    "row": 296816,
-   "id": "<urn:uuid:53c4a28d-82a4-4054-a65f-44db70206527>",
-   "url": "http://ceorajasthan.nic.in/State_Assembly_Election_2023/ElectionResults/Form21C/Form21C-127.pdf",
-   "file_path": "crawl-data/CC-MAIN-2024-26/segments/1718198861618.0/warc/CC-MAIN-20240615221637-20240616011637-00187.warc.gz",
-   "offset": 5885960,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -912,10 +912,10 @@
   {
    "cfg": "hin_Deva",
    "row": 307505,
-   "id": "<urn:uuid:f4938960-8631-457d-956c-160ead69cd82>",
-   "url": "http://ecourts.gov.in/sites/default/files/07-01-20170001.pdf",
-   "file_path": "crawl-data/CC-MAIN-2017-22/segments/1495463608622.82/warc/CC-MAIN-20170526013116-20170526033116-00155.warc.gz",
-   "offset": 104651937,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -948,10 +948,10 @@
   {
    "cfg": "hin_Deva",
    "row": 307517,
-   "id": "<urn:uuid:5f943579-634c-4368-a399-220936cb9da2>",
-   "url": "https://www.uppolice.gov.in/site/writereaddata/UploadedPressRelease/pdf/PRP_202208071324472086.pdf",
-   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030338001.99/warc/CC-MAIN-20221007080917-20221007110917-00785.warc.gz",
-   "offset": 992291017,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "usable"
   },
   {
@@ -1011,10 +1011,10 @@
   {
    "cfg": "hin_Deva",
    "row": 403417,
-   "id": "<urn:uuid:3fabd1e2-9732-401a-8767-fc345134cda3>",
-   "url": "https://districts.ecourts.gov.in/sites/default/files/08-Aug-2020.pdf",
-   "file_path": "crawl-data/CC-MAIN-2020-45/segments/1603107876500.43/warc/CC-MAIN-20201021122208-20201021152208-00054.warc.gz",
-   "offset": 301378910,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -1029,10 +1029,10 @@
   {
    "cfg": "hin_Deva",
    "row": 435137,
-   "id": "<urn:uuid:c2ff2b0b-83ca-49df-b8bd-181c8bede5d1>",
-   "url": "http://jehanabad.bih.nic.in/pdf/Election%20PDF/Letter_No_818.pdf",
-   "file_path": "crawl-data/CC-MAIN-2017-39/segments/1505818691830.33/warc/CC-MAIN-20170925130433-20170925150433-00170.warc.gz",
-   "offset": 165092464,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -1101,10 +1101,10 @@
   {
    "cfg": "hin_Deva",
    "row": 495199,
-   "id": "<urn:uuid:3201f26e-473d-4b3e-884f-99a1e236d27f>",
-   "url": "https://www.uppolice.gov.in/site/writereaddata/UploadedPressRelease/pdf/PRP_202207231322380879.pdf",
-   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030335350.36/warc/CC-MAIN-20220929100506-20220929130506-00696.warc.gz",
-   "offset": 1067713597,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {
@@ -1146,10 +1146,10 @@
   {
    "cfg": "hin_Deva",
    "row": 495214,
-   "id": "<urn:uuid:a380384f-cc34-45e0-a7cb-8796f85e670f>",
-   "url": "https://districts.ecourts.gov.in/sites/default/files/2new.pdf",
-   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320300997.67/warc/CC-MAIN-20220118182855-20220118212855-00299.warc.gz",
-   "offset": 271650321,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -1236,10 +1236,10 @@
   {
    "cfg": "hin_Deva",
    "row": 718142,
-   "id": "<urn:uuid:328258a2-26e2-4d67-a743-20416400e8de>",
-   "url": "https://www.uppolice.gov.in/site/writereaddata/UploadedPressRelease/pdf/PRP_202406111515452053.pdf",
-   "file_path": "crawl-data/CC-MAIN-2024-30/segments/1720763514828.10/warc/CC-MAIN-20240718095603-20240718125603-00324.warc.gz",
-   "offset": 914942100,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {
@@ -1605,10 +1605,10 @@
   {
    "cfg": "mar_Deva",
    "row": 53616,
-   "id": "<urn:uuid:a255bd51-66a7-40e3-a703-c3f10c0a765f>",
-   "url": "https://districts.ecourts.gov.in/sites/default/files/Circular%20No%20257.pdf",
-   "file_path": "crawl-data/CC-MAIN-2022-05/segments/1642320304686.15/warc/CC-MAIN-20220124220008-20220125010008-00561.warc.gz",
-   "offset": 262424999,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -1677,10 +1677,10 @@
   {
    "cfg": "mar_Deva",
    "row": 82728,
-   "id": "<urn:uuid:6da9e515-70d1-407a-a7b1-60e3c983691e>",
-   "url": "https://www.nwcmc.gov.in/web/upload_files/menu_image/headerimage/spofficenandedcitypolicestationcontactlist20.pdf",
-   "file_path": "crawl-data/CC-MAIN-2023-50/segments/1700679099942.90/warc/CC-MAIN-20231128183116-20231128213116-00841.warc.gz",
-   "offset": 1028819960,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -1830,19 +1830,19 @@
   {
    "cfg": "mar_Deva",
    "row": 95250,
-   "id": "<urn:uuid:7eaf9f54-afbd-46fc-a0b2-ca4e9d715ca5>",
-   "url": "https://nagpurgraminpolice.gov.in/pdf/ac/286b6967d94c950ca9832d3b5f018dd6.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-04/segments/1547584519382.88/warc/CC-MAIN-20190124055924-20190124081924-00354.warc.gz",
-   "offset": 584277493,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
    "cfg": "mar_Deva",
    "row": 95251,
-   "id": "<urn:uuid:f8cc82e0-f4bb-4700-9b2d-928eff96e4be>",
-   "url": "http://solapurcitypolice.gov.in/files/press_releases/P.N.%2024.05.2016%20JALAD.pdf",
-   "file_path": "crawl-data/CC-MAIN-2017-34/segments/1502886103910.54/warc/CC-MAIN-20170817185948-20170817205948-00495.warc.gz",
-   "offset": 388037992,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -1920,10 +1920,10 @@
   {
    "cfg": "mar_Deva",
    "row": 117732,
-   "id": "<urn:uuid:db32510e-c585-49f7-be48-5dcba1e9adc3>",
-   "url": "http://buldhanapolice.gov.in/police/storage/app/public/alerts/sNddDQKaUTAr1gPZE1IgOfldd5TfbKNNgNF20FLD.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-39/segments/1568514572896.15/warc/CC-MAIN-20190924083200-20190924105200-00299.warc.gz",
-   "offset": 30548037,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -1974,10 +1974,10 @@
   {
    "cfg": "mar_Deva",
    "row": 118838,
-   "id": "<urn:uuid:5df88e0a-e1fd-425d-9130-1ac9036a1ee0>",
-   "url": "https://districts.ecourts.gov.in/sites/default/files/%E0%A4%A6%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%87%20%E0%A4%AE%E0%A4%BE%E0%A4%97%E0%A4%B5%E0%A4%BF%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%A4%20%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE_0.pdf",
-   "file_path": "crawl-data/CC-MAIN-2021-39/segments/1631780057403.84/warc/CC-MAIN-20210922223752-20210923013752-00205.warc.gz",
-   "offset": 240615293,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -2046,10 +2046,10 @@
   {
    "cfg": "mar_Deva",
    "row": 142185,
-   "id": "<urn:uuid:f81d0d52-349a-451b-b879-dffb3c1e5566>",
-   "url": "http://www.mahapolice.gov.in/files/general_transfer/230.pdf",
-   "file_path": "crawl-data/CC-MAIN-2018-43/segments/1539583513548.72/warc/CC-MAIN-20181021010654-20181021032154-00077.warc.gz",
-   "offset": 492787481,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -2181,19 +2181,19 @@
   {
    "cfg": "mar_Deva",
    "row": 163139,
-   "id": "<urn:uuid:bddc0520-7d00-4b9e-a5a8-3616a1d15683>",
-   "url": "https://www.nandedpolice.gov.in/police/storage/app/public/pdf/vBMdbCu5WjEOy8cnqCx7XD3LBbjUkn5leFSFvFVX.pdf",
-   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738832261702.77/warc/CC-MAIN-20250218113527-20250218143527-00425.warc.gz",
-   "offset": 839734297,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
    "cfg": "mar_Deva",
    "row": 163144,
-   "id": "<urn:uuid:76f76fd2-6ef2-471e-a00b-1ad80e7033c2>",
-   "url": "https://www.nandedpolice.gov.in/police/storage/app/public/pdf/P7DOkMaMH8cVEzTJpabhFQnbe2uSy5y6mmEBeFef.pdf",
-   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738832261702.77/warc/CC-MAIN-20250218113527-20250218143527-00428.warc.gz",
-   "offset": 806229791,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -3234,10 +3234,10 @@
   {
    "cfg": "ory_Orya",
    "row": 3033,
-   "id": "<urn:uuid:2e3a43ed-ced8-4b08-90e2-7e7f35cef1b1>",
-   "url": "http://ceoorissa.nic.in/docs/Election/2014/Bye_Election2014/form7A/revised_odiya_form_7(A).pdf",
-   "file_path": "crawl-data/CC-MAIN-2017-09/segments/1487501170651.78/warc/CC-MAIN-20170219104610-00046-ip-10-171-10-108.ec2.internal.warc.gz",
-   "offset": 46277875,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -3513,10 +3513,10 @@
   {
    "cfg": "ory_Orya",
    "row": 5629,
-   "id": "<urn:uuid:bba244ae-e442-421b-8e6e-ba54ea74ac06>",
-   "url": "https://mea.gov.in/Images/arebic/Exchange-of-list-of-prisoners-01-01-2021-Odia.pdf",
-   "file_path": "crawl-data/CC-MAIN-2021-49/segments/1637964363376.49/warc/CC-MAIN-20211207105847-20211207135847-00631.warc.gz",
-   "offset": 470653376,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {
@@ -3531,10 +3531,10 @@
   {
    "cfg": "ory_Orya",
    "row": 5631,
-   "id": "<urn:uuid:c69dfe94-d85f-481e-bfc7-496a67d378fb>",
-   "url": "http://meacms.mea.gov.in/Images/french/Exchangeoflistofprisoners-01-07-2022-Oriya.pdf",
-   "file_path": "crawl-data/CC-MAIN-2022-40/segments/1664030335004.95/warc/CC-MAIN-20220927100008-20220927130008-00452.warc.gz",
-   "offset": 34149934,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {
@@ -4080,10 +4080,10 @@
   {
    "cfg": "tam_Taml",
    "row": 90803,
-   "id": "<urn:uuid:0aeb6216-f23e-414e-8d78-7a045db2d534>",
-   "url": "http://namakkal.nic.in/elections/tnla2016/097/AC097_20_Selvaraj%20P.pdf",
-   "file_path": "crawl-data/CC-MAIN-2017-13/segments/1490218189771.94/warc/CC-MAIN-20170322212949-00265-ip-10-233-31-227.ec2.internal.warc.gz",
-   "offset": 253764624,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -4206,10 +4206,10 @@
   {
    "cfg": "tel_Telu",
    "row": 12495,
-   "id": "<urn:uuid:38f94524-85fd-419a-ad1c-9421cdc79d49>",
-   "url": "http://www.mea.gov.in/Images/french/Exchangeprisonersbetween-01-01-2021-Telugu.pdf",
-   "file_path": "crawl-data/CC-MAIN-2022-27/segments/1656103877410.46/warc/CC-MAIN-20220630183616-20220630213616-00218.warc.gz",
-   "offset": 85042770,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "usable"
   },
   {
@@ -4575,10 +4575,10 @@
   {
    "cfg": "kan_Knda",
    "row": 3214,
-   "id": "<urn:uuid:9121e0bd-d5df-4921-9d86-42724fcd792a>",
-   "url": "https://ceokarnataka.kar.nic.in/ElectionFinalroll2014/PCROLL_2014/Kannada/WOIMG/AC154/AC1540109.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578596541.52/warc/CC-MAIN-20190423074936-20190423100936-00436.warc.gz",
-   "offset": 381779670,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -4863,10 +4863,10 @@
   {
    "cfg": "kan_Knda",
    "row": 4158,
-   "id": "<urn:uuid:1c319ffd-a2bb-42f9-9663-57c8859e8d77>",
-   "url": "https://ceokarnataka.kar.nic.in/ElectionFinalroll2014/PCROLL_2014/Kannada/WOIMG/AC154/AC1540256.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578586680.51/warc/CC-MAIN-20190423035013-20190423061013-00429.warc.gz",
-   "offset": 361798543,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -5718,10 +5718,10 @@
   {
    "cfg": "kan_Knda",
    "row": 23686,
-   "id": "<urn:uuid:c7b9b55d-6850-4e72-9918-372e3ad4b131>",
-   "url": "https://ceokarnataka.kar.nic.in/ElectionFinalroll2014/PCROLL_2014/Kannada/WOIMG/AC154/AC1540278.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578528481.47/warc/CC-MAIN-20190420020937-20190420042027-00013.warc.gz",
-   "offset": 379830324,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -5808,10 +5808,10 @@
   {
    "cfg": "kan_Knda",
    "row": 23701,
-   "id": "<urn:uuid:65fe30ec-7bcf-426c-a868-b3bf2a604043>",
-   "url": "https://ceokarnataka.kar.nic.in/ElectionFinalroll2014/PCROLL_2014/Kannada/WOIMG/AC154/AC1540063.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-18/segments/1555578528481.47/warc/CC-MAIN-20190420020937-20190420042029-00023.warc.gz",
-   "offset": 368821527,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -5979,10 +5979,10 @@
   {
    "cfg": "kan_Knda",
    "row": 25753,
-   "id": "<urn:uuid:72b4ca30-7e04-45c9-b226-3cde66ff4300>",
-   "url": "http://dpal.kar.nic.in/ao2002/Control%20of%20Organised%20Crimes%20Act-K.pdf",
-   "file_path": "crawl-data/CC-MAIN-2018-47/segments/1542039742779.14/warc/CC-MAIN-20181115141220-20181115163220-00540.warc.gz",
-   "offset": 101519939,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -6042,10 +6042,10 @@
   {
    "cfg": "kan_Knda",
    "row": 27544,
-   "id": "<urn:uuid:4c0fecbd-5aef-4705-9684-dc9a75641eb9>",
-   "url": "https://www.karnatakajudiciary.kar.nic.in/ilr-kannada-judgments/dec2021/RSA1091-200711-12-2019KAN.pdf",
-   "file_path": "crawl-data/CC-MAIN-2025-08/segments/1738831951532.18/warc/CC-MAIN-20250207225929-20250208015929-00238.warc.gz",
-   "offset": 807360539,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -6267,10 +6267,10 @@
   {
    "cfg": "mal_Mlym",
    "row": 2621,
-   "id": "<urn:uuid:c27343e1-8be9-45f2-9c2d-daf9a8419a4e>",
-   "url": "https://det.kerala.gov.in/images/19/CC/election1119.pdf",
-   "file_path": "crawl-data/CC-MAIN-2021-25/segments/1623487613453.9/warc/CC-MAIN-20210614201339-20210614231339-00447.warc.gz",
-   "offset": 196106813,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -6375,10 +6375,10 @@
   {
    "cfg": "mal_Mlym",
    "row": 10907,
-   "id": "<urn:uuid:867b9ecc-b7cb-4624-b646-0c8561e287a2>",
-   "url": "http://www.keralaprisons.gov.in/prisons/images/stories/new_initiatives/circu43_2014.pdf",
-   "file_path": "crawl-data/CC-MAIN-2019-43/segments/1570986675316.51/warc/CC-MAIN-20191017122657-20191017150157-00220.warc.gz",
-   "offset": 272509463,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "ocr_routed"
   },
   {
@@ -6618,10 +6618,10 @@
   {
    "cfg": "mal_Mlym",
    "row": 17244,
-   "id": "<urn:uuid:43e953aa-d4de-4dde-bd2c-d3fae63feaae>",
-   "url": "http://www.ernakulamrural.keralapolice.gov.in/media/pdf/press-releases/2017/hans-aluva2.pdf",
-   "file_path": "crawl-data/CC-MAIN-2017-51/segments/1512948544677.45/warc/CC-MAIN-20171214144324-20171214164324-00612.warc.gz",
-   "offset": 352117215,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {
@@ -6645,10 +6645,10 @@
   {
    "cfg": "mal_Mlym",
    "row": 17248,
-   "id": "<urn:uuid:ddd70aaa-46ec-48f6-a292-5e9485f3b180>",
-   "url": "http://www.kottayam.keralapolice.gov.in/media/pdf/news/2017/data_bank.pdf",
-   "file_path": "crawl-data/CC-MAIN-2017-34/segments/1502886106984.52/warc/CC-MAIN-20170820185216-20170820205216-00024.warc.gz",
-   "offset": 595058864,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {
@@ -6726,10 +6726,10 @@
   {
    "cfg": "mal_Mlym",
    "row": 22084,
-   "id": "<urn:uuid:c87d9e89-22ae-46cd-a5bc-d10d324ed208>",
-   "url": "https://keralapolice.gov.in/storage/pages/custom/table/table-Y8gOh2lWsCjiKLuMvX4YXg6or.pdf",
-   "file_path": "crawl-data/CC-MAIN-2024-46/segments/1730477395538.95/warc/CC-MAIN-20241114194152-20241114224152-00152.warc.gz",
-   "offset": 298123631,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {
@@ -7032,10 +7032,10 @@
   {
    "cfg": "mal_Mlym",
    "row": 43104,
-   "id": "<urn:uuid:f0bac3fb-825f-4eb9-bf27-d1aba13eab2b>",
-   "url": "http://ernakulamrural.keralapolice.gov.in/media/pdf/press-releases/2017/pocso-nizamudeen.pdf",
-   "file_path": "crawl-data/CC-MAIN-2017-43/segments/1508187824325.29/warc/CC-MAIN-20171020192317-20171020212317-00056.warc.gz",
-   "offset": 113788417,
+   "id": null,
+   "url": "[withheld 2026-10-20: police/court/election-type source]",
+   "file_path": null,
+   "offset": null,
    "class": "broken"
   },
   {

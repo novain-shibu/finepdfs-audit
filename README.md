@@ -56,7 +56,8 @@ Full report: **[REPORT.md](REPORT.md)**.
 ## What is NOT in this repository (on purpose)
 No PDFs, page images, fonts, Wikipedia text or FinePDFs document text are redistributed (the one exception is the demo image above: two lines of Wikipedia text in our own test PDF, CC BY-SA 4.0). Every result names FinePDFs
 document IDs, so anyone can fetch the same originals from Common Crawl (FinePDFs records the WARC path and offset) and
-the stored text from the dataset itself.
+the stored text from the dataset itself. Exception (2026-10-20): for 229 entries from police, court and election-type
+sources, the URL, document ID and WARC location are withheld; their labels and all counts are unchanged.
 
 ## Data sources and licences
 FinePDFs (ODC-By 1.0); original PDFs via Common Crawl (Common Crawl terms of use); Wikipedia text (CC BY-SA 4.0) used
